@@ -1,7 +1,7 @@
-# E-commerce: pedidos online — MercaFacil S.A.
+# E-commerce: pedidos online — Valhalla S.A
 
 ## 1. Situacion
-MercaFacil es una tienda online que vende tecnologia, hogar e indumentaria en varios paises de Latinoamerica. El area comercial exporta los pedidos desde el sistema de ventas y nadie revisa su calidad. Quieren un pipeline que deje los datos confiables.
+Valhalla S.A es una tienda online que vende tecnologia, hogar e indumentaria en varios paises de Latinoamerica. El area comercial exporta los pedidos desde el sistema de ventas y nadie revisa su calidad. Quieren un pipeline que deje los datos confiables.
 
 Forman parte del area de datos de la empresa. La jefatura les pide construir un **pipeline ETL** que tome estos datos en su estado original,
 los valide, separe lo valido de lo rechazado, **recupere** los registros rechazados limpiandolos, y deje una **unica tabla final confiable** para responder preguntas del negocio.
