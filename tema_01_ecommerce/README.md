@@ -1,7 +1,7 @@
-# E-commerce: pedidos online — MercaFacil S.A.
+# E-commerce: pedidos online — Valhalla S.A.
 
 ## Contexto
-MercaFacil es una tienda online que vende tecnologia, hogar e indumentaria en varios paises de Latinoamerica. El area comercial exporta los pedidos desde el sistema de ventas y nadie revisa su calidad. Quieren un pipeline que deje los datos confiables.
+Valhalla S.A es una tienda online que vende tecnologia, hogar e indumentaria en varios paises de Latinoamerica. El area comercial exporta los pedidos desde el sistema de ventas y nadie revisa su calidad. Quieren un pipeline que deje los datos confiables.
 
 ## Datos
 - **Carpeta:** `datos/`
