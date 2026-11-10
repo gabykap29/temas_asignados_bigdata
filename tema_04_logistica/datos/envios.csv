@@ -1,0 +1,2576 @@
+id_envio,fecha_despacho,fecha_entrega,origen,destino,transportista,peso_kg,costo_envio,dias_entrega
+E000001,2024-05-08,2024-05-11,Cordoba,Rosario,mercado_envios,37.4,47925.09,3
+E000002,2025-10-04,2025-10-08,Mendoza,Tucuman,oca,31.69,29338.77,4
+E000003,21/02/2024,2024-02-29,Tucuman,Bahia Blanca,andreani,9.16,54225.33,8
+E000004,2024-02-20,2024-02-22,Rosario,Bahia Blanca,oca,6.21,51496.67,2
+E000005,2024-01-29,2024-01-30,Tucuman,Cordoba,correo_argentino,31.25,24229.59,1
+E000006,2025-11-17,2025-11-23,Tucuman,Bahia Blanca,correo_argentino,15.75,35688.87,6
+E001212,2024-02-06,2024-02-10,Salta,Rosario,oca,33.16,42408.39,4
+E000007,25/07/2025,2025-08-01,Salta,Mendoza,andreani,10.61,51257.99,7
+E000008,2025-03-10,2025-03-14,Rosario,Bahia Blanca,andreani,-34.12,51041.74,4
+E000009,2025-07-18,2025-07-25,Tucuman,Salta,mercado_envios,28.15,4577.53,7
+E000010,2024-06-17,2024-06-25,Buenos Aires,Salta,mercado_envios,18.65,32726.83,8
+E000011,2024-06-22,2024-06-28,Rosario,Salta, MERCADO_ENVIOS,11.03,4379.83,6
+E000012,2025-01-12,20/01/2025,Cordoba,Mendoza,andreani,7.04,32620.45,8
+E000013,2024-03-11,2024-03-17,Mendoza,Cordoba,ANDREANI ,8.09,20959.34,6
+E000014,2024-10-12,2024-10-21,Cordoba,Mendoza,correo_argentino,20.91,21653.69,
+E000015,2025-11-21,2025-11-23,Mendoza,Cordoba,mercado_envios,17.39,"24.624,00",2
+E000016,2025-08-10,2025-08-11,Cordoba,Salta,andreani,18.52,40293.95,1
+E000017,2024-11-29,2024-11-22,Bahia Blanca,Mendoza,andreani,32.79,23596.66,7
+E000018,2024-08-05,2024-08-07,Salta,Tucuman,ANDREANI,38.99,42042.7,2
+E000019,2025-04-24,2025-04-29,Salta,Mendoza,correo_argentino,22.41,3917.47,5
+E000020,2024-08-20,2024-08-23,Bahia Blanca,Buenos Aires,mercado_envios,23.14,18746.09,3
+E000021,2024-08-10,2024-08-14,Mendoza,Rosario,correo_argentino,7.42,7868.5,4
+E000022,2025-04-07,2025-04-14,Buenos Aires,Rosario,correo_argentino,36.42,"3.397,16",7
+E000023,2025-05-16,2025-05-23,Rosario,Bahia Blanca,oca,23.28,50909.08,7
+E000024,2025-07-18,2025-07-21,Tucuman,Bahia Blanca,mercado_envios,36.22,16565.57,3
+E000025,2025-07-01,07/07/2025,Mendoza,Salta,correo_argentino,33.43,8092.97,6
+E000026,29/08/2025,2025-08-30,Buenos Aires,Salta,andreani,24.25,19398.22,1
+E000027,2025-10-26,2025-11-04,Mendoza,Buenos Aires,mercado_envios,-13.21,3043.05,9
+E000028,2025-05-03,2025-05-12,Rosario,Buenos Aires,mercado_envios,28.74,32883.09,9
+E000029,2024-12-04,10/12/2024,Salta,Bahia Blanca,correo_argentino,37.18,31645.19,6
+E000030,2024-01-31,2024-02-07,Rosario,Tucuman,mercado_envios,-13.47,57816.24,7
+E000031,2024-01-14,2024-01-22,Tucuman,Salta,oca,22.73,"11.745,64",8
+E000032,2025-05-10,2025-05-14,Buenos Aires,Tucuman,andreani,5.46,9849.36,4
+E000033,2024-02-12,2024-02-15,Mendoza,Salta,mercado_envios,11.85,26154.16,3
+E000034,2024-01-05,2024-01-12,Salta,Bahia Blanca,CORREO_ARGENTINO ,24.13,38163.05,7
+E000035,2025-09-14,2025-09-21,Bahia Blanca,Mendoza,andreani,33.12,47235.28,7
+E000036,2024-10-30,2024-11-08,Cordoba,Buenos Aires,OCA,22.92,46631.79,9
+E000037,2024-05-30,2024-05-31,Buenos Aires,Mendoza, ANDREANI,38.17,50821.62,1
+E000038,2025-01-24,2025-01-31,Buenos Aires,Tucuman,andreani,25.05,48401.46,7
+E000039,2024-01-28,2024-02-03,Buenos Aires,Cordoba,andreani,-24.62,23174.65,6
+E000040,2024-07-31,2024-08-04,Mendoza,Buenos Aires,mercado_envios,5.24,21280.03,4
+E000041,2024-05-31,2024-06-06,Tucuman,Mendoza,oca,18.63,25542.29,6
+E000042,2024-07-08,2024-07-16,Cordoba,Rosario,correo_argentino,2.17,"58.834,06",8
+E000043,2025-04-24,2025-05-02,Cordoba,Buenos Aires,oca,26.48,31307.57,8
+E000044,2024-06-21,2024-06-27,Rosario,Tucuman,correo_argentino,-34.26,33884.7,6
+E000045,30/05/2025,2025-06-04,Buenos Aires,Bahia Blanca,mercado_envios,9.1,17171.91,5
+E000046,2025-06-21,2025-06-28,Salta,Buenos Aires,correo_argentino,4.42,46389.86,7
+E000047,2025-01-09,2025-01-14,Rosario,Tucuman,mercado_envios,27.21,14280.02,5
+E000048,2025-09-10,14/09/2025,Buenos Aires,Bahia Blanca,andreani,19.37,29578.64,4
+E000049,2025-04-18,2025-04-20,Mendoza,Cordoba,correo_argentino,34.53,42726.72,2
+E000050,2024-06-10,2024-06-17,Salta,Bahia Blanca,andreani,35.46,3571.93,7
+E000051,2025-04-20,2025-04-28,Salta,Tucuman,ANDREANI ,9.71,33699.31,8
+E000052,2025-08-03,2025-08-10,Buenos Aires,Rosario, CORREO_ARGENTINO,4.56,24923.83,7
+E000053,12/02/2025,2025-02-19,Mendoza,Buenos Aires,andreani,14.16,13359.96,7
+E000054,2025-06-22,2025-06-19,Cordoba,Buenos Aires,oca,19.08,5991.2,3
+E000055,2025-08-16,2025-08-18,Mendoza,Buenos Aires,MERCADO_ENVIOS ,18.43,6772.7,2
+E000056,15/12/2025,2025-12-19,Cordoba,Mendoza,mercado_envios,19.91,47992.18,4
+E000057,10/09/2025,2025-09-18,Rosario,Buenos Aires,andreani,37.16,36787.78,8
+E000058,2025-12-30,2026-01-02,Mendoza,Tucuman,oca,20.78,44189.87,
+E000059,2025-04-22,2025-04-30,Rosario,Cordoba,andreani,39.16,34338.52,
+E000060,2024-01-12,2024-01-18,Salta,Cordoba,andreani,28.18,"33.800,79",6
+E000061,2024-03-27,2024-03-30,Salta,Bahia Blanca,oca,13.8,26179.61,3
+E000062,2024-05-17,19/05/2024,Salta,Cordoba,oca,19.81,55954.35,2
+E000063,2025-03-25,2025-04-02,Cordoba,Tucuman,correo_argentino,4.87,"49.177,81",8
+E000064,2025-07-17,2025-07-19,Tucuman,Salta,correo_argentino,20.6,33959.58,2
+E000065,2024-01-10,2024-01-17,Salta,Cordoba,andreani,0.78,56436.54,7
+E000066,2025-06-04,2025-06-02,Bahia Blanca,Cordoba,andreani,11.98,12439.9,2
+E000067,2024-09-01,2024-09-05,Salta,Buenos Aires,correo_argentino,26.52,38239.03,4
+E000068,2024-07-08,2024-07-10,Bahia Blanca,Buenos Aires,andreani,28.06,"35.607,20",2
+E000069,2025-01-28,2025-02-05,Tucuman,Cordoba,oca,16.55,51262.65,8
+E000070,2024-06-18,2024-06-26,Buenos Aires,Cordoba,OCA ,39.3,58327.85,8
+E000071,2025-04-23,2025-04-27,Cordoba,Mendoza,oca,20.61,49961.34,4
+E000072,2025-05-19,2025-05-17,Tucuman,Buenos Aires,mercado_envios,26.3,21839.33,2
+E000073,2024-01-22,2024-01-21,Mendoza,Salta,mercado_envios,14.45,28430.05,1
+E000074,2025-03-18,27/03/2025,Tucuman,Rosario,correo_argentino,19.97,56871.06,9
+E000075,2025-02-01,02/02/2025,Mendoza,Buenos Aires,andreani,27.73,45521.13,1
+E000076,2025-12-25,2025-12-26,Bahia Blanca,Buenos Aires,oca,20.77,19603.52,1
+E000077,2024-12-23,2024-12-29,Mendoza,Tucuman,mercado_envios,23.48,40942.93,6
+E000078,2024-09-14,16/09/2024,Salta,Cordoba,andreani,23.29,26304.56,2
+E000079,2025-04-22,2025-04-27,Buenos Aires,Bahia Blanca,correo_argentino,32.65,21765.7,5
+E000080,2024-12-06,2024-12-08,Cordoba,Salta,andreani,16.54,16193.67,
+E000081,2024-12-21,2024-12-30,Cordoba,Salta,andreani,8.9,46825.92,9
+E000082,2024-04-26,2024-04-28,Bahia Blanca,Mendoza,andreani,26.31,15189.46,2
+E000083,2025-11-23,2025-11-26,Cordoba,Mendoza, OCA,36.0,55559.04,3
+E000084,2024-03-20,2024-03-23,Mendoza,Salta,andreani,21.78,4972.36,3
+E000085,2025-10-06,14/10/2025,Buenos Aires,Salta,andreani,34.76,48316.85,8
+E000086,31/05/2025,2025-06-02,Rosario,Salta,andreani,27.19,47702.29,2
+E000087,2025-11-09,2025-11-15,Mendoza,Buenos Aires, ANDREANI,13.24,33138.58,6
+E000088,2025-11-07,2025-11-09,Buenos Aires,Mendoza,correo_argentino,26.53,34793.2,2
+E000089,15/08/2025,2025-08-20,Bahia Blanca,Buenos Aires,correo_argentino,11.91,15390.27,5
+E000090,2024-05-26,31/05/2024,Rosario,Buenos Aires,mercado_envios,25.65,16437.06,5
+E000091,2024-06-27,2024-07-01,Buenos Aires,Cordoba,andreani,18.27,4790.59,4
+E000092,2024-11-21,25/11/2024,Tucuman,Cordoba,mercado_envios,26.92,44834.9,4
+E000093,2024-02-05,2024-02-06,Cordoba,Buenos Aires,ANDREANI,7.56,24330.86,1
+E000992,2025-02-15,2025-02-19,Bahia Blanca,Cordoba,correo_argentino,10.31,12328.5,4
+E000094,2024-09-02,2024-09-06,Salta,Bahia Blanca,oca,38.95,31033.7,4
+E000146,2024-08-03,10/08/2024,Salta,Cordoba,oca,27.04,59844.64,7
+E000095,2025-08-18,2025-08-19,Tucuman,Mendoza,oca,3.34,53199.71,1
+E000096,2024-09-30,2024-10-03,Salta,Rosario,correo_argentino,4.21,"25.445,48",3
+E000097,2025-07-10,2025-07-16,Tucuman,Salta,oca,6.41,33424.91,6
+E000098,2025-11-10,2025-11-13,Cordoba,Rosario,mercado_envios,11.09,49859.3,3
+E000099,2024-10-25,2024-11-02,Buenos Aires,Salta,oca,3.44,49074.06,
+E000100,2025-07-20,2025-07-26,Rosario,Cordoba,mercado_envios,27.55,38615.51,6
+E000101,2024-11-01,2024-11-03,Salta,Mendoza,andreani,4.93,39050.34,2
+E000102,2025-08-19,21/08/2025,Buenos Aires,Mendoza,oca,7.3,4007.97,2
+E000426,2025-06-16,2025-06-20,Bahia Blanca,Cordoba,mercado_envios,7.88,28036.51,4
+E000103,2024-02-25,2024-03-04,Salta,Mendoza,mercado_envios,26.6,33119.31,8
+E000104,2025-03-14,2025-03-21,Salta,Rosario,andreani,39.74,59893.31,7
+E000274,2024-02-12,2024-02-17,Mendoza,Bahia Blanca,oca,26.36,40381.09,5
+E000105,2024-06-15,2024-06-19,Tucuman,Bahia Blanca,andreani,4.7,40429.65,4
+E000106,2024-09-18,2024-09-26,Cordoba,Bahia Blanca,andreani,10.6,56931.69,
+E000107,2024-04-16,2024-04-19,Rosario,Mendoza,mercado_envios,4.08,48261.14,3
+E000108,2025-08-07,2025-08-13,Buenos Aires,Mendoza,ANDREANI,28.36,22189.32,6
+E000109,2024-03-18,2024-03-20,Bahia Blanca,Rosario,mercado_envios,13.15,47722.47,2
+E000110,2025-04-22,2025-04-26,Cordoba,Salta,andreani,37.56,27265.12,4
+E000111,2025-02-10,2025-02-18,Buenos Aires,Rosario,andreani,32.41,"19.818,48",8
+E000112,2025-09-05,2025-09-12,Rosario,Bahia Blanca,mercado_envios,33.54,6140.48,7
+E000113,2025-11-27,05/12/2025,Salta,Mendoza,correo_argentino,4.25,20316.91,8
+E000114,2024-07-31,2024-08-01,Cordoba,Salta,ANDREANI,27.53,27337.11,1
+E000115,2025-09-21,2025-09-28,Mendoza,Cordoba,andreani,26.28,14475.92,7
+E000116,2024-06-18,2024-06-24,Rosario,Tucuman,oca,9.53,57227.56,6
+E000117,2024-06-07,2024-06-16,Rosario,Buenos Aires,mercado_envios,-6.14,53968.66,9
+E000118,2025-08-28,2025-09-06,Cordoba,Bahia Blanca,andreani,27.48,2795.25,9
+E000119,2025-05-25,01/06/2025,Mendoza,Salta,mercado_envios,1.93,59545.96,7
+E000120,02/09/2025,2025-09-11,Rosario,Bahia Blanca,mercado_envios,4.22,18573.17,9
+E000121,2024-05-08,2024-05-11,Cordoba,Mendoza,andreani,34.82,17143.6,3
+E000122,2025-05-01,2025-05-09,Bahia Blanca,Mendoza,mercado_envios,25.95,26954.19,8
+E000123,2025-12-16,2025-12-25,Salta,Tucuman,correo_argentino,25.73,26098.71,9
+E000124,2024-04-12,2024-04-21,Mendoza,Bahia Blanca,mercado_envios,-15.43,23345.34,9
+E000125,2025-10-13,2025-10-14,Bahia Blanca,Cordoba,andreani,1.24,47104.76,1
+E000126,2025-01-27,2025-01-18,Bahia Blanca,Tucuman,andreani,23.84,22566.79,9
+E000127,2025-11-23,2025-11-24,Rosario,Bahia Blanca,oca,32.13,2607.98,1
+E000128,2024-10-20,2024-10-15,Mendoza,Buenos Aires,mercado_envios,21.96,8208.02,5
+E000129,2024-12-05,2024-12-06,Tucuman,Mendoza,mercado_envios,3.65,9940.9,1
+E000130,2025-11-26,2025-11-28,Mendoza,Rosario,oca,22.58,21104.5,2
+E000131,2025-08-03,2025-08-05,Cordoba,Rosario,andreani,12.01,17846.65,2
+E000132,2025-06-10,2025-06-14,Rosario,Buenos Aires,andreani,23.75,20444.2,4
+E000133,2024-12-10,2024-12-16,Salta,Rosario,oca,33.46,43810.6,6
+E000134,2025-06-21,2025-06-23,Mendoza,Tucuman,oca,17.22,46346.74,2
+E000135,2025-11-12,2025-11-17,Cordoba,Bahia Blanca,mercado_envios,30.69,44319.81,5
+E000136,2025-01-28,2025-02-06,Cordoba,Tucuman,andreani,11.69,4209.48,9
+E000137,2025-10-11,2025-10-16,Buenos Aires,Cordoba,oca,28.15,19182.24,5
+E000138,2025-05-10,12/05/2025,Mendoza,Salta,correo_argentino,22.4,53478.62,2
+E000139,2025-11-20,2025-11-21,Rosario,Mendoza,andreani,18.0,27055.28,1
+E000140,2024-06-14,2024-06-22,Salta,Cordoba,andreani,-9.98,41120.8,8
+E000141,2025-05-25,2025-05-26,Bahia Blanca,Tucuman,mercado_envios,26.13,17611.54,1
+E000142,2024-10-23,27/10/2024,Mendoza,Bahia Blanca,correo_argentino,12.85,54044.11,4
+E000143,2025-02-10,13/02/2025,Cordoba,Mendoza,andreani,29.77,7165.64,3
+E000144,2024-03-08,2024-03-09,Rosario,Buenos Aires,mercado_envios,18.64,"58.406,55",1
+E000145,2024-12-20,2024-12-26,Salta,Mendoza,mercado_envios,26.66,17349.77,6
+E000146,2024-08-03,10/08/2024,Salta,Cordoba,oca,27.04,59844.64,7
+E000147,2024-08-10,14/08/2024,Rosario,Salta,andreani,1.97,11161.98,4
+E000148,18/09/2024,2024-09-27,Rosario,Buenos Aires,mercado_envios,2.76,44172.16,9
+E000149,2025-03-21,2025-03-26,Buenos Aires,Cordoba,andreani,28.48,47633.92,5
+E000150,2025-08-07,2025-08-15,Rosario,Mendoza,andreani,15.58,"18.412,81",8
+E000151,2025-01-19,2025-01-27,Mendoza,Salta,MERCADO_ENVIOS ,14.39,10636.64,8
+E000152,2024-06-14,20/06/2024,Cordoba,Tucuman,correo_argentino,39.95,27365.23,6
+E000153,2024-09-04,2024-09-06,Tucuman,Rosario,andreani,23.83,53170.98,2
+E000154,2024-07-31,2024-08-03,Salta,Mendoza,andreani,4.85,39187.79,3
+E000155,2025-10-16,24/10/2025,Cordoba,Bahia Blanca,andreani,25.18,30024.23,8
+E000156,2025-08-25,2025-08-31,Mendoza,Bahia Blanca,andreani,38.84,20967.88,6
+E000157,2024-07-17,2024-07-23,Rosario,Buenos Aires,andreani,20.68,43984.53,6
+E000158,2024-12-04,2024-12-10,Buenos Aires,Salta,correo_argentino,21.05,15556.04,6
+E000159,14/10/2025,2025-10-17,Cordoba,Buenos Aires,correo_argentino,37.03,37465.49,3
+E000160,08/09/2025,2025-09-10,Bahia Blanca,Mendoza,mercado_envios,9.87,43614.6,2
+E000161,2025-01-09,2025-01-15,Rosario,Cordoba,correo_argentino,22.27,53950.48,6
+E000162,2025-11-11,2025-11-18,Cordoba,Buenos Aires,mercado_envios,17.15,30896.0,7
+E000163,2025-05-24,2025-05-29,Buenos Aires,Rosario,oca,12.65,41474.93,5
+E000164,2024-02-06,2024-02-08,Tucuman,Salta,andreani,4.94,46075.66,2
+E000165,2025-01-19,22/01/2025,Buenos Aires,Bahia Blanca,correo_argentino,26.19,36385.63,3
+E000166,27/03/2024,2024-04-03,Bahia Blanca,Cordoba,mercado_envios,24.6,22381.25,7
+E000167,2025-06-27,2025-07-01,Bahia Blanca,Salta,mercado_envios,2.47,11775.68,4
+E000168,2024-12-06,2024-12-11,Tucuman,Rosario,andreani,2.37,28749.02,5
+E000169,2025-06-28,2025-07-05,Mendoza,Tucuman,mercado_envios,16.36,23743.99,7
+E000170,2024-11-07,2024-11-12,Mendoza,Tucuman,correo_argentino,30.79,23203.3,5
+E000171,2025-10-01,2025-10-07,Cordoba,Rosario,andreani,2.22,19137.48,
+E000172,2025-05-13,19/05/2025,Tucuman,Cordoba,correo_argentino,1.21,19827.21,6
+E000173,11/11/2024,2024-11-16,Cordoba,Tucuman,correo_argentino,30.11,54175.9,5
+E000174,2024-11-04,2024-11-07,Salta,Tucuman,mercado_envios,7.94,43014.4,3
+E000175,2025-04-04,2025-04-09,Cordoba,Buenos Aires,mercado_envios,21.38,15531.0,
+E000176,2025-08-29,2025-08-31,Tucuman,Cordoba,correo_argentino,0.64,25781.59,2
+E000177,2024-09-07,2024-08-31,Buenos Aires,Mendoza,mercado_envios,33.03,7242.96,7
+E000178,2025-04-26,2025-04-27,Cordoba,Bahia Blanca,oca,-17.71,44204.69,1
+E000179,2024-06-20,2024-06-23,Buenos Aires,Tucuman,andreani,1.57,4832.72,3
+E000180,2025-08-08,2025-08-17,Bahia Blanca,Mendoza,mercado_envios,31.17,27815.7,9
+E000181,2024-02-01,2024-01-25,Cordoba,Tucuman,correo_argentino,27.67,22312.07,7
+E000182,2025-11-12,2025-11-18,Tucuman,Cordoba,mercado_envios,34.59,24420.94,6
+E000183,2025-02-19,2025-02-20,Buenos Aires,Salta,oca,33.69,44518.67,1
+E000184,2024-08-31,2024-09-01,Mendoza,Bahia Blanca,correo_argentino,10.79,13327.49,
+E000185,2024-11-26,2024-12-03,Bahia Blanca,Cordoba,oca,35.3,39867.18,7
+E000186,2024-04-01,2024-04-09,Rosario,Tucuman,ANDREANI ,23.61,36175.89,8
+E000187,2025-08-07,2025-08-11,Rosario,Mendoza,correo_argentino,32.01,47639.15,4
+E000188,2025-03-26,2025-03-27,Buenos Aires,Tucuman,mercado_envios,31.87,31703.23,1
+E000189,2024-02-16,2024-02-18,Cordoba,Rosario,correo_argentino,21.31,2914.31,2
+E000190,02/07/2025,2025-07-06,Buenos Aires,Tucuman,oca,30.56,45055.2,4
+E000191,2024-11-15,2024-11-19,Cordoba,Salta,oca,32.47,"4.697,76",4
+E000192,2025-04-04,2025-04-10,Cordoba,Salta,oca,5.32,15632.62,6
+E000193,2024-09-24,2024-09-27,Mendoza,Rosario,correo_argentino,17.93,48658.97,3
+E000194,2025-09-11,2025-09-16,Bahia Blanca,Rosario,oca,29.08,33505.07,5
+E000195,2024-03-06,2024-03-12,Salta,Cordoba,mercado_envios,33.58,20764.27,6
+E000196,2024-12-17,24/12/2024,Bahia Blanca,Tucuman,oca,35.38,8013.84,7
+E000197,2024-07-20,2024-07-23,Cordoba,Bahia Blanca,oca,21.17,16287.6,3
+E000198,2025-09-30,2025-10-09,Bahia Blanca,Salta,mercado_envios,-1.91,56535.83,9
+E000199,27/03/2024,2024-04-05,Bahia Blanca,Rosario,mercado_envios,5.42,41630.46,9
+E000200,19/03/2024,2024-03-21,Cordoba,Buenos Aires,andreani,17.94,32828.69,2
+E000201,2024-03-12,2024-03-21,Buenos Aires,Mendoza,correo_argentino,20.8,"25.619,66",9
+E000202,04/12/2025,2025-12-05,Bahia Blanca,Buenos Aires,correo_argentino,5.62,39177.88,1
+E000203,2024-01-27,2024-02-04,Tucuman,Mendoza,oca,25.0,36687.76,8
+E000204,2025-04-13,2025-04-16,Bahia Blanca,Mendoza,mercado_envios,12.47,31508.22,3
+E000205,2025-11-10,2025-11-15,Salta,Buenos Aires,correo_argentino,15.58,38689.61,5
+E000206,2025-11-13,14/11/2025,Mendoza,Tucuman,correo_argentino,20.24,53935.02,1
+E000207,2024-07-19,2024-07-20,Bahia Blanca,Rosario,mercado_envios,8.15,50588.91,1
+E000208,2024-11-21,2024-11-28,Rosario,Cordoba,correo_argentino,35.46,54047.13,7
+E000209,2025-10-12,2025-10-17,Tucuman,Bahia Blanca,oca,25.1,10933.02,5
+E000210,2025-08-20,2025-08-21,Salta,Rosario,mercado_envios,18.28,14988.69,1
+E000211,2024-09-05,2024-09-11,Cordoba,Rosario,correo_argentino,20.32,24655.75,6
+E000212,2024-01-29,2024-02-05,Buenos Aires,Salta,andreani,34.0,46750.23,7
+E000213,2025-12-17,2025-12-22,Salta,Mendoza,mercado_envios,0.85,25385.0,
+E000214,2024-05-15,2024-05-20,Rosario,Bahia Blanca,correo_argentino,34.94,39398.93,5
+E000215,2025-06-09,2025-06-13,Rosario,Mendoza,correo_argentino,7.58,23617.48,4
+E000216,2026-01-02,2025-12-24,Cordoba,Bahia Blanca,oca,30.13,43594.53,9
+E000217,2025-08-21,2025-08-22,Salta,Cordoba,mercado_envios,29.47,34403.45,1
+E000218,2024-03-14,2024-03-16,Cordoba,Bahia Blanca,andreani,22.14,55709.58,2
+E000219,10/12/2025,2025-12-16,Salta,Cordoba,oca,25.87,30649.76,6
+E000220,2025-07-30,2025-07-31,Salta,Rosario,mercado_envios,39.17,12217.62,1
+E000221,2025-09-14,2025-09-16,Buenos Aires,Cordoba,oca,34.23,22751.01,2
+E000222,2025-08-08,2025-08-13,Buenos Aires,Salta,mercado_envios,34.3,56923.02,5
+E000223,2025-04-22,2025-04-24,Mendoza,Buenos Aires,oca,25.3,31495.66,2
+E000224,2025-01-01,2025-01-08,Salta,Rosario,correo_argentino,15.99,36613.79,7
+E000225,2024-02-16,2024-02-18,Bahia Blanca,Cordoba,andreani,24.98,4491.12,2
+E000226,2024-03-20,24/03/2024,Salta,Buenos Aires,oca,24.32,51589.75,4
+E000227,2025-10-21,29/10/2025,Rosario,Buenos Aires,oca,38.95,59023.7,8
+E000228,2024-02-16,2024-02-19,Rosario,Salta,mercado_envios,-1.16,40775.74,3
+E000229,2025-11-12,2025-11-19,Cordoba,Tucuman,mercado_envios,39.29,42704.59,7
+E000230,2024-01-07,2024-01-13,Rosario,Cordoba,andreani,38.92,53417.74,6
+E000231,2025-05-29,2025-06-06,Salta,Mendoza,oca,6.05,47173.19,8
+E000232,2025-09-03,12/09/2025,Salta,Bahia Blanca,andreani,32.46,4667.72,9
+E000233,2024-09-02,05/09/2024,Tucuman,Salta,correo_argentino,4.01,18125.96,3
+E000234,2024-10-10,2024-10-05,Buenos Aires,Tucuman,oca,12.49,40064.53,5
+E000235,2024-10-24,2024-10-29,Mendoza,Buenos Aires,oca,24.0,29505.79,5
+E000236,2024-02-29,2024-02-27,Mendoza,Salta,oca,22.75,26039.14,2
+E000237,2025-07-02,2025-07-10,Buenos Aires,Mendoza,andreani,6.88,11062.52,8
+E000238,2024-09-06,2024-09-15,Rosario,Bahia Blanca,oca,10.27,21283.78,9
+E000239,2024-03-18,2024-03-22,Mendoza,Cordoba,mercado_envios,34.74,20432.7,4
+E000240,2024-09-03,2024-09-09,Bahia Blanca,Buenos Aires,mercado_envios,4.32,20374.53,6
+E000241,2024-12-21,2024-12-26,Salta,Cordoba,mercado_envios,23.93,32024.87,5
+E000242,2025-10-18,2025-10-22,Mendoza,Rosario,correo_argentino,5.14,31689.62,4
+E000243,2025-09-20,29/09/2025,Mendoza,Bahia Blanca,mercado_envios,25.33,59706.99,9
+E000244,2025-05-30,2025-06-08,Bahia Blanca,Cordoba,ANDREANI,35.33,44547.72,9
+E000245,2025-05-29,2025-06-05,Rosario,Mendoza,oca,25.31,7663.74,7
+E000246,2025-11-29,2025-12-06,Tucuman,Buenos Aires,correo_argentino,13.05,40049.27,7
+E000247,2024-12-28,2024-12-31,Mendoza,Tucuman,correo_argentino,28.84,31468.65,3
+E000248,2025-11-29,2025-12-08,Salta,Cordoba,correo_argentino,-29.51,6273.3,9
+E000249,2024-03-17,2024-03-22,Bahia Blanca,Salta,MERCADO_ENVIOS ,30.87,49018.07,5
+E000250,2025-08-27,2025-09-02,Bahia Blanca,Rosario,mercado_envios,2.44,21692.14,6
+E000251,2024-01-25,2024-01-29,Tucuman,Salta,oca,16.45,33380.63,4
+E000252,2025-08-19,2025-08-22,Buenos Aires,Tucuman,andreani,19.43,54229.43,3
+E000253,2024-11-25,2024-11-28,Salta,Cordoba,oca,33.76,13243.33,3
+E000254,06/02/2025,2025-02-10,Salta,Mendoza,andreani,7.02,32391.05,4
+E000255,2025-02-25,2025-02-28,Buenos Aires,Tucuman,andreani,20.31,56015.95,3
+E000256,2025-03-06,2025-03-09,Salta,Tucuman,OCA,35.41,13267.45,3
+E000257,2025-03-25,2025-03-30,Bahia Blanca,Mendoza,oca,3.31,8275.24,5
+E000258,2025-01-13,2025-01-18,Mendoza,Cordoba,oca,17.51,53815.67,5
+E000259,2024-03-05,2024-03-14,Mendoza,Cordoba,andreani,33.24,44615.82,9
+E000260,2024-03-12,2024-03-18,Bahia Blanca,Cordoba,OCA ,37.24,59778.43,6
+E000261,2024-12-05,2024-12-07,Salta,Bahia Blanca,correo_argentino,10.61,59637.95,2
+E000262,2025-02-09,2025-02-12,Buenos Aires,Tucuman,correo_argentino,5.65,6498.82,3
+E000263,2024-02-17,2024-02-22,Bahia Blanca,Rosario,oca,27.98,"58.161,10",5
+E000264,2024-07-07,2024-07-16,Mendoza,Cordoba,andreani,13.4,5936.77,9
+E000265,2024-05-03,2024-05-05,Bahia Blanca,Cordoba,ANDREANI,14.91,54153.06,2
+E000266,2025-02-24,2025-03-04,Bahia Blanca,Rosario,CORREO_ARGENTINO,28.07,14683.99,8
+E000267,17/01/2025,2025-01-23,Mendoza,Tucuman,oca,16.89,30373.81,6
+E000268,18/11/2025,2025-11-19,Cordoba,Bahia Blanca,andreani,28.08,5999.42,1
+E000269,2025-09-02,2025-09-08,Mendoza,Buenos Aires,oca,16.87,24438.59,
+E000270,2024-03-15,2024-03-16,Tucuman,Mendoza,mercado_envios,28.77,8658.16,1
+E000271,2025-09-24,2025-09-28,Mendoza,Tucuman,mercado_envios,25.57,"17.632,17",4
+E000272,2024-01-26,29/01/2024,Cordoba,Buenos Aires,mercado_envios,28.31,17360.04,3
+E000273,2025-06-22,2025-06-26,Mendoza,Buenos Aires,correo_argentino,23.68,59684.36,4
+E000274,2024-02-12,2024-02-17,Mendoza,Bahia Blanca,oca,26.36,40381.09,5
+E000275,2025-03-14,22/03/2025,Tucuman,Buenos Aires,correo_argentino,10.56,33604.95,8
+E000276,22/02/2025,2025-02-27,Mendoza,Cordoba,andreani,6.36,46751.32,5
+E000277,2024-02-22,2024-03-02,Tucuman,Bahia Blanca,ANDREANI,35.93,54481.27,9
+E000278,2025-10-31,2025-11-08,Cordoba,Mendoza,andreani,12.54,27992.17,8
+E000279,2024-07-06,2024-07-14,Bahia Blanca,Cordoba,oca,16.19,45161.42,8
+E000280,2025-05-24,2025-05-31,Mendoza,Tucuman,andreani,31.35,6446.83,7
+E000281,2025-09-04,2025-09-10,Salta,Bahia Blanca,correo_argentino,1.71,31202.09,6
+E000282,2024-06-20,2024-06-14,Buenos Aires,Tucuman,andreani,22.64,45403.63,6
+E000283,2024-06-14,2024-06-23,Salta,Mendoza,OCA ,38.18,58597.1,9
+E000284,2024-01-12,2024-01-21,Buenos Aires,Cordoba,correo_argentino,38.76,29369.1,9
+E000285,2024-01-03,2024-01-04,Buenos Aires,Tucuman,mercado_envios,37.88,15750.9,1
+E000286,2024-12-26,2024-12-28,Bahia Blanca,Salta,mercado_envios,12.53,51888.81,2
+E000287,2024-11-17,2024-11-23,Buenos Aires,Mendoza,oca,25.08,15572.61,6
+E001373,2024-01-15,2024-01-17,Buenos Aires,Bahia Blanca,mercado_envios,15.72,15548.16,2
+E000288,2024-06-26,2024-07-01,Mendoza,Buenos Aires,oca,13.6,6576.46,5
+E000289,2025-08-12,2025-08-21,Buenos Aires,Rosario,oca,39.06,15855.46,9
+E000290,2025-09-10,2025-09-13,Salta,Mendoza,MERCADO_ENVIOS ,15.19,25134.04,3
+E000291,2024-07-11,2024-07-12,Mendoza,Salta,mercado_envios,6.96,52104.25,1
+E000292,2025-12-23,2025-12-25,Buenos Aires,Salta,oca,36.21,17979.64,2
+E000293,2024-02-29,2024-03-06,Rosario,Bahia Blanca,correo_argentino,7.26,30807.63,6
+E001084,18/08/2025,2025-08-20,Salta,Cordoba,andreani,38.93,48856.23,2
+E000294,2024-08-23,2024-08-25,Tucuman,Cordoba,oca,18.92,11047.25,2
+E000295,2025-01-31,2025-02-08,Cordoba,Bahia Blanca,mercado_envios,37.35,50021.31,8
+E000296,2025-12-07,2025-12-16,Rosario,Mendoza,oca,15.76,43858.73,9
+E000297,2024-03-11,2024-03-17,Bahia Blanca,Mendoza,correo_argentino,23.15,13164.74,6
+E000298,2025-10-09,2025-10-12,Bahia Blanca,Mendoza,oca,29.43,51280.72,3
+E000299,2024-01-04,2024-01-13,Buenos Aires,Tucuman,andreani,35.49,42527.57,9
+E000300,2024-03-19,2024-03-25,Buenos Aires,Mendoza,correo_argentino,28.68,54075.01,6
+E000301,2024-02-13,2024-02-18,Bahia Blanca,Mendoza,mercado_envios,2.92,22670.07,5
+E000302,2024-02-28,2024-03-04,Bahia Blanca,Mendoza,andreani,7.0,5772.28,5
+E000303,2024-04-29,2024-05-06,Mendoza,Buenos Aires,mercado_envios,26.4,45240.33,7
+E000304,2025-03-07,2025-03-12,Cordoba,Rosario,andreani,23.3,35291.13,5
+E000305,2025-10-14,2025-10-15,Salta,Rosario,correo_argentino,10.07,47662.68,1
+E000306,2024-07-14,2024-07-19,Salta,Mendoza,correo_argentino,17.35,31126.43,5
+E000307,2024-11-18,2024-11-25,Mendoza,Salta,andreani,-26.85,56819.95,7
+E000308,2024-04-02,2024-04-11,Mendoza,Bahia Blanca,andreani,38.92,39608.73,9
+E000309,2025-01-09,2025-01-15,Tucuman,Cordoba,andreani,10.76,9171.37,6
+E000310,2025-07-11,2025-07-12,Buenos Aires,Bahia Blanca,andreani,16.56,5281.17,
+E000311,2024-07-16,2024-07-25,Cordoba,Tucuman,oca,14.39,21847.36,9
+E000312,2025-08-29,2025-09-07,Bahia Blanca,Tucuman,correo_argentino,-26.79,35199.28,9
+E000313,2025-09-20,2025-09-24,Mendoza,Tucuman,oca,26.18,27257.03,4
+E000314,23/12/2025,2025-12-29,Mendoza,Salta,andreani,18.02,17794.86,6
+E000315,2024-02-16,2024-02-20,Mendoza,Rosario,andreani,13.67,5022.29,4
+E000316,2024-10-04,2024-10-12,Mendoza,Rosario,correo_argentino,38.17,40852.01,8
+E000317,2025-09-24,2025-09-29,Salta,Rosario,mercado_envios,37.92,34250.73,5
+E000318,2024-01-05,11/01/2024,Rosario,Tucuman,mercado_envios,29.28,35123.86,6
+E000319,2024-02-10,2024-02-08,Cordoba,Buenos Aires,oca,26.71,32146.43,2
+E000320,2024-01-13,2024-01-15,Tucuman,Salta,andreani,11.86,42759.59,2
+E000321,2024-08-03,2024-08-10,Tucuman,Buenos Aires,correo_argentino,18.78,30585.22,7
+E000322,2024-05-30,2024-06-04,Cordoba,Mendoza,correo_argentino,11.34,26132.66,5
+E000323,2025-12-08,14/12/2025,Salta,Tucuman,correo_argentino,8.41,7647.91,6
+E000480,2025-06-19,25/06/2025,Cordoba,Mendoza,correo_argentino,29.42,16608.17,6
+E000324,2024-09-01,2024-09-06,Bahia Blanca,Rosario,oca,14.65,23973.4,5
+E000325,2024-05-14,2024-05-15,Salta,Bahia Blanca,oca,20.9,49382.04,1
+E000326,2024-09-19,2024-09-25,Bahia Blanca,Tucuman,CORREO_ARGENTINO,9.71,4548.88,6
+E000327,2025-05-08,2025-05-09,Salta,Tucuman,correo_argentino,22.34,58096.65,1
+E000328,2025-01-22,29/01/2025,Cordoba,Tucuman,correo_argentino,0.28,57960.12,7
+E000329,2025-02-27,2025-03-02,Cordoba,Buenos Aires,andreani,13.12,18318.27,3
+E000330,2024-04-29,2024-05-05,Bahia Blanca,Salta,CORREO_ARGENTINO ,38.47,24364.39,6
+E000331,2025-05-31,2025-06-01,Cordoba,Buenos Aires,oca,18.38,16908.93,1
+E000332,2025-06-03,10/06/2025,Buenos Aires,Bahia Blanca,mercado_envios,5.27,52755.35,7
+E000333,2025-06-26,2025-06-30,Salta,Rosario,correo_argentino,0.71,30929.54,4
+E000334,2025-11-18,2025-11-22,Cordoba,Rosario,oca,34.2,10531.47,4
+E000335,2025-03-21,2025-03-25,Salta,Mendoza,mercado_envios,29.52,56842.59,4
+E000336,2024-08-09,2024-08-16,Mendoza,Bahia Blanca,mercado_envios,9.25,12913.95,
+E000337,2025-08-10,2025-08-12,Buenos Aires,Bahia Blanca,andreani,7.54,58504.97,
+E000338,2024-01-26,2024-01-30,Rosario,Salta,OCA,33.36,45417.3,4
+E000339,2024-03-22,2024-03-26,Tucuman,Mendoza,correo_argentino,21.26,36352.16,4
+E000340,2024-10-30,03/11/2024,Mendoza,Bahia Blanca,correo_argentino,8.77,38550.75,4
+E000341,2025-07-02,2025-07-06,Cordoba,Buenos Aires,andreani,20.75,45167.08,4
+E000342,2024-02-08,2024-02-11,Salta,Bahia Blanca,oca,9.47,"35.604,15",3
+E000343,2024-06-15,2024-06-24,Bahia Blanca,Rosario,mercado_envios,28.38,20467.86,9
+E000344,2025-06-21,27/06/2025,Tucuman,Rosario,andreani,4.02,40501.13,6
+E000345,2025-03-30,2025-04-03,Buenos Aires,Tucuman,andreani,22.81,46980.38,4
+E000346,2024-08-31,2024-09-07,Salta,Tucuman,correo_argentino,26.71,56671.73,
+E000347,2024-07-21,2024-07-26,Salta,Bahia Blanca,mercado_envios,0.65,9171.96,5
+E000348,2024-09-08,2024-09-12,Mendoza,Buenos Aires,oca,2.42,55857.73,4
+E000349,2025-01-20,2025-01-28,Bahia Blanca,Cordoba,correo_argentino,3.74,24978.64,8
+E000350,2024-06-16,2024-06-19,Mendoza,Bahia Blanca,oca,37.69,19302.54,3
+E001981,2025-08-30,2025-09-05,Bahia Blanca,Salta,andreani,11.36,40848.89,6
+E000351,2024-06-03,09/06/2024,Cordoba,Tucuman,andreani,16.7,28273.82,6
+E000352,2024-02-11,2024-02-15,Cordoba,Bahia Blanca,mercado_envios,38.85,9782.62,4
+E000353,2024-04-11,18/04/2024,Bahia Blanca,Rosario,oca,20.58,10765.12,7
+E000354,10/12/2024,2024-12-12,Buenos Aires,Salta,correo_argentino,20.95,34642.96,2
+E000355,2025-01-13,2025-01-17,Buenos Aires,Tucuman,andreani,17.75,48837.74,4
+E000356,2025-06-23,2025-06-24,Bahia Blanca,Tucuman,mercado_envios,-15.03,32805.12,1
+E000357,2024-01-02,2024-01-03,Bahia Blanca,Mendoza,oca,23.42,41094.24,1
+E000358,2025-10-28,2025-11-05,Rosario,Tucuman,mercado_envios,4.78,22608.62,8
+E000359,2024-03-01,2024-03-10,Salta,Cordoba,correo_argentino,6.46,29211.98,9
+E000360,2025-05-21,2025-05-27,Cordoba,Mendoza,andreani,11.68,25046.6,6
+E000361,2025-10-11,2025-10-16,Salta,Tucuman,oca,17.31,48072.09,5
+E000362,04/10/2025,2025-10-09,Salta,Mendoza,correo_argentino,20.23,35534.21,5
+E000363,2025-06-08,2025-06-15,Bahia Blanca,Rosario,andreani,17.2,"21.300,22",7
+E000364,2024-10-25,2024-10-27,Buenos Aires,Cordoba,mercado_envios,14.9,34582.51,2
+E000365,2025-02-05,2025-02-08,Buenos Aires,Salta,oca,5.04,15629.72,3
+E000366,2024-12-06,2024-12-12,Mendoza,Bahia Blanca,oca,26.95,14745.21,6
+E000367,2025-06-01,2025-06-03,Rosario,Salta,correo_argentino,0.8,7183.92,2
+E000368,2025-02-28,2025-03-05,Salta,Rosario,correo_argentino,19.01,13451.3,5
+E000369,2025-05-06,2025-05-14,Rosario,Buenos Aires,oca,15.46,36496.91,8
+E000370,2025-07-24,02/08/2025,Rosario,Tucuman,oca,38.64,30831.62,9
+E000371,2024-04-27,2024-05-04,Rosario,Salta,correo_argentino,36.73,58709.9,7
+E000372,2024-12-27,03/01/2025,Salta,Mendoza,oca,15.53,25685.88,7
+E000373,2024-06-29,2024-07-08,Buenos Aires,Mendoza, OCA,13.38,9630.85,9
+E000374,16/06/2025,2025-06-24,Tucuman,Rosario,correo_argentino,38.81,8309.48,8
+E000978,2024-07-06,2024-07-15,Tucuman,Cordoba,correo_argentino,16.89,26591.27,9
+E000375,12/12/2025,2025-12-18,Buenos Aires,Salta,correo_argentino,35.15,43676.7,6
+E000376,2024-11-27,2024-12-05,Rosario,Bahia Blanca,andreani,24.0,2757.96,8
+E000377,2024-01-13,2024-01-18,Mendoza,Rosario,oca,31.07,3549.49,
+E000378,2024-09-29,2024-10-05,Rosario,Mendoza,oca,19.77,24999.24,6
+E000379,2024-09-18,2024-09-23,Salta,Rosario,oca,20.54,45272.79,5
+E000380,2024-10-11,2024-10-07,Tucuman,Rosario,andreani,10.97,49062.71,4
+E000381,2024-08-10,2024-08-11,Mendoza,Rosario,correo_argentino,37.0,49603.85,1
+E000382,2025-04-17,2025-04-19,Tucuman,Cordoba,ANDREANI ,25.26,41314.57,2
+E000383,2024-08-25,2024-09-01,Cordoba,Bahia Blanca,andreani,35.73,32208.26,7
+E000384,2025-07-07,15/07/2025,Bahia Blanca,Mendoza,oca,14.95,53431.53,8
+E000385,2025-08-12,2025-08-15,Salta,Mendoza,andreani,27.85,5218.93,3
+E000386,2024-01-21,25/01/2024,Cordoba,Rosario,andreani,14.51,48086.26,4
+E000387,04/12/2025,2025-12-12,Mendoza,Bahia Blanca,correo_argentino,0.87,20419.95,8
+E000388,2025-06-06,2025-06-09,Mendoza,Buenos Aires,andreani,5.1,20436.68,3
+E000389,2025-11-10,2025-11-16,Bahia Blanca,Salta,oca,35.12,13385.57,6
+E000390,2024-11-08,2024-11-09,Cordoba,Bahia Blanca,correo_argentino,17.71,3939.89,1
+E000391,2025-10-14,2025-10-19,Rosario,Mendoza, ANDREANI,33.11,37143.22,5
+E000392,2024-04-06,2024-04-11,Buenos Aires,Tucuman,correo_argentino,4.71,25630.6,5
+E000393,2024-09-09,2024-09-12,Buenos Aires,Cordoba,oca,11.65,27249.95,3
+E000394,2024-10-06,2024-10-12,Cordoba,Rosario,correo_argentino,37.83,40036.32,6
+E000395,2025-07-09,2025-07-13,Mendoza,Cordoba,correo_argentino,8.76,"38.181,01",4
+E000396,06/12/2025,2025-12-09,Salta,Rosario,mercado_envios,24.14,49189.42,3
+E000397,2025-03-25,2025-03-28,Bahia Blanca,Salta,correo_argentino,14.18,"58.699,21",3
+E000398,2025-10-21,2025-10-30,Rosario,Buenos Aires, MERCADO_ENVIOS,31.43,34923.6,9
+E000399,2024-10-31,2024-11-02,Buenos Aires,Bahia Blanca,correo_argentino,8.37,47834.25,2
+E000400,2025-04-14,2025-04-16,Cordoba,Mendoza,mercado_envios,15.29,52056.1,2
+E000401,2025-02-08,2025-02-15,Bahia Blanca,Rosario,andreani,-36.01,51420.29,7
+E000402,2024-07-25,2024-07-27,Cordoba,Buenos Aires,mercado_envios,35.71,22279.52,2
+E000403,2024-11-10,18/11/2024,Salta,Bahia Blanca,correo_argentino,13.16,30874.25,8
+E000404,2025-10-13,2025-10-12,Rosario,Bahia Blanca,oca,28.91,22701.82,1
+E000405,2025-08-16,2025-08-18,Tucuman,Cordoba,andreani,5.9,21141.0,
+E000406,14/06/2025,2025-06-18,Bahia Blanca,Rosario,mercado_envios,16.05,17135.1,4
+E000407,2025-07-24,2025-07-15,Salta,Cordoba,correo_argentino,10.12,25683.47,9
+E000408,20/01/2025,2025-01-24,Salta,Bahia Blanca,oca,30.3,16080.29,4
+E000409,2025-11-16,2025-11-23,Tucuman,Salta,correo_argentino,6.54,23488.29,7
+E000410,2024-02-29,2024-03-09,Cordoba,Buenos Aires,mercado_envios,18.93,4619.71,9
+E000411,2025-01-13,2025-01-20,Rosario,Buenos Aires,oca,20.43,10242.28,7
+E000412,2024-12-04,05/12/2024,Salta,Bahia Blanca,andreani,36.03,36735.14,1
+E000413,2024-06-01,2024-06-07,Cordoba,Salta,oca,-13.26,33295.78,6
+E000414,28/07/2024,2024-07-30,Salta,Buenos Aires,mercado_envios,13.51,49410.26,2
+E000415,2025-12-23,2025-12-24,Cordoba,Buenos Aires,mercado_envios,36.27,47256.34,1
+E000416,2024-12-24,2024-12-20,Buenos Aires,Rosario,oca,39.07,39016.21,4
+E000417,2024-07-12,2024-07-14,Buenos Aires,Bahia Blanca,andreani,32.35,12269.24,2
+E000418,29/04/2025,2025-05-05,Mendoza,Rosario,oca,1.12,14201.87,6
+E000419,2024-02-11,2024-02-09,Mendoza,Tucuman,andreani,0.92,57178.23,2
+E000420,2025-04-25,2025-05-04,Bahia Blanca,Salta,correo_argentino,37.02,7217.14,9
+E000421,2025-03-04,2025-03-07,Buenos Aires,Rosario,andreani,-11.81,55565.09,3
+E000422,2024-09-19,2024-09-24,Salta,Cordoba,andreani,2.59,"10.580,06",5
+E000423,2025-04-26,28/04/2025,Tucuman,Bahia Blanca,mercado_envios,30.94,54685.25,2
+E000424,2024-11-21,2024-11-29,Bahia Blanca,Buenos Aires,mercado_envios,32.81,14029.21,8
+E000425,2024-09-19,2024-09-15,Bahia Blanca,Mendoza,andreani,37.8,26674.04,4
+E000426,2025-06-16,2025-06-20,Bahia Blanca,Cordoba,mercado_envios,7.88,28036.51,4
+E000427,2024-03-31,2024-04-03,Rosario,Mendoza,mercado_envios,18.15,18185.44,3
+E000428,2024-10-12,2024-10-17,Tucuman,Rosario,oca,9.93,25870.37,5
+E000429,2024-08-07,2024-08-14,Rosario,Salta,mercado_envios,12.72,40526.02,7
+E000430,2025-08-15,2025-08-19,Mendoza,Rosario,oca,38.6,37692.15,4
+E000431,2025-10-21,2025-10-27,Bahia Blanca,Rosario,andreani,24.17,56965.5,
+E000432,2024-06-25,2024-06-27,Bahia Blanca,Mendoza, ANDREANI,20.29,48995.56,2
+E000433,2025-12-28,2025-12-31,Cordoba,Rosario,correo_argentino,16.08,35139.95,3
+E000434,2024-04-16,2024-04-25,Salta,Mendoza,mercado_envios,3.84,22801.15,9
+E000435,2024-07-10,2024-07-12,Bahia Blanca,Tucuman,mercado_envios,3.27,30435.05,2
+E000436,2024-02-13,2024-02-19,Bahia Blanca,Mendoza,mercado_envios,33.76,34941.69,6
+E000437,2024-01-22,2024-01-25,Salta,Mendoza,mercado_envios,14.04,"15.283,51",3
+E000438,2025-11-08,2025-11-16,Tucuman,Buenos Aires,correo_argentino,6.99,39111.51,8
+E000439,2025-08-15,2025-08-21,Tucuman,Cordoba,mercado_envios,10.2,59800.19,6
+E000440,26/12/2025,2025-12-28,Salta,Bahia Blanca,oca,9.89,45762.04,2
+E000441,2024-08-14,2024-08-22,Cordoba,Bahia Blanca,correo_argentino,10.81,25699.01,
+E000442,2025-05-07,2025-05-11,Buenos Aires,Mendoza,mercado_envios,3.37,35298.42,4
+E000443,2025-12-27,2026-01-04,Buenos Aires,Tucuman,oca,12.05,58096.06,8
+E000444,2025-01-01,2025-01-08,Salta,Rosario,mercado_envios,36.48,33919.94,7
+E000445,2025-05-29,2025-06-02,Cordoba,Salta,mercado_envios,18.54,45737.68,4
+E000446,2024-12-13,2024-12-14,Cordoba,Buenos Aires, OCA,5.69,25639.64,1
+E000447,2025-12-30,2026-01-03,Buenos Aires,Bahia Blanca,mercado_envios,20.33,43154.41,4
+E000448,2025-10-20,2025-10-29,Mendoza,Buenos Aires,MERCADO_ENVIOS,6.83,19278.85,9
+E000449,2025-06-18,20/06/2025,Mendoza,Rosario,correo_argentino,14.35,30589.12,2
+E000450,2025-11-01,2025-11-10,Cordoba,Salta,mercado_envios,22.38,15684.83,9
+E000451,2024-08-16,2024-08-20,Salta,Bahia Blanca,mercado_envios,1.95,51642.07,
+E000452,2024-09-14,2024-09-18,Salta,Cordoba,andreani,13.99,51966.91,4
+E000453,2024-11-29,2024-12-05,Rosario,Cordoba,oca,11.81,7130.5,6
+E000454,2024-08-17,2024-08-23,Mendoza,Rosario, CORREO_ARGENTINO,38.12,12438.06,6
+E000455,2024-08-26,2024-09-04,Mendoza,Salta,andreani,18.6,42266.55,9
+E000456,2024-11-06,2024-11-15,Salta,Mendoza,mercado_envios,37.26,"39.657,68",9
+E000457,27/09/2024,2024-09-30,Rosario,Cordoba,andreani,28.6,34825.28,3
+E000458,2024-04-15,2024-04-17,Buenos Aires,Salta,mercado_envios,30.15,14506.39,2
+E000459,2025-03-12,2025-03-13,Cordoba,Bahia Blanca,OCA,38.67,35028.91,1
+E000460,2024-07-22,2024-07-25,Cordoba,Mendoza,mercado_envios,0.78,51971.73,3
+E000461,2025-11-27,2025-12-02,Cordoba,Rosario,oca,17.06,"42.503,54",5
+E000462,2025-07-08,2025-07-15,Bahia Blanca,Buenos Aires,mercado_envios,7.04,"13.942,41",7
+E000463,2024-12-26,2024-12-27,Mendoza,Buenos Aires,CORREO_ARGENTINO ,16.59,50544.17,1
+E000464,2025-11-28,2025-12-03,Rosario,Salta, OCA,10.61,30459.57,5
+E000465,2024-11-01,06/11/2024,Buenos Aires,Mendoza,andreani,3.14,15870.54,5
+E000466,2024-10-28,2024-11-06,Cordoba,Rosario,OCA ,22.01,27423.95,9
+E000467,2025-09-02,2025-09-11,Rosario,Salta,oca,6.1,50047.78,9
+E000468,2024-12-22,2024-12-25,Buenos Aires,Mendoza,oca,32.77,19413.73,3
+E000469,30/09/2024,2024-10-04,Mendoza,Buenos Aires,andreani,9.99,25222.93,4
+E000470,07/06/2024,2024-06-11,Bahia Blanca,Salta,andreani,38.96,24395.17,4
+E000471,2024-08-31,2024-09-03,Mendoza,Cordoba,ANDREANI ,4.25,19631.76,3
+E000472,2025-05-14,2025-05-16,Salta,Tucuman,mercado_envios,6.05,12745.73,2
+E000473,2025-04-12,2025-04-16,Cordoba,Bahia Blanca,oca,10.74,47143.19,4
+E000474,2024-03-28,2024-04-06,Rosario,Cordoba,andreani,32.49,33010.84,9
+E000475,2024-11-07,2024-11-08,Tucuman,Buenos Aires,andreani,22.96,47281.69,1
+E000476,2025-04-07,2025-04-08,Mendoza,Cordoba,oca,27.8,49938.21,1
+E000477,2025-03-15,18/03/2025,Bahia Blanca,Rosario,mercado_envios,16.81,2537.63,3
+E000478,26/11/2025,2025-12-05,Salta,Buenos Aires,oca,9.52,21414.09,9
+E000479,2024-12-10,2024-12-16,Tucuman,Mendoza,oca,25.04,48593.73,6
+E000480,2025-06-19,25/06/2025,Cordoba,Mendoza,correo_argentino,29.42,16608.17,6
+E000481,2025-02-06,10/02/2025,Mendoza,Buenos Aires,correo_argentino,15.33,28140.72,4
+E000482,2025-08-08,2025-08-09,Mendoza,Cordoba,andreani,38.87,18533.1,1
+E000483,2024-06-20,2024-06-22,Rosario,Bahia Blanca,correo_argentino,3.34,14442.71,2
+E000484,2024-08-22,2024-08-27,Rosario,Tucuman,mercado_envios,26.99,52477.89,5
+E000485,2024-01-10,19/01/2024,Mendoza,Rosario,correo_argentino,38.36,23077.65,9
+E000486,2025-11-27,2025-12-04,Rosario,Buenos Aires,mercado_envios,0.95,36996.74,7
+E000487,2024-03-16,23/03/2024,Rosario,Salta,oca,3.24,45785.23,7
+E000488,2025-03-18,2025-03-25,Tucuman,Mendoza,andreani,4.02,26425.7,7
+E000489,2025-01-15,2025-01-24,Tucuman,Rosario,mercado_envios,15.08,59644.2,9
+E000983,2024-04-15,2024-04-16,Rosario,Cordoba,correo_argentino,2.95,43649.12,1
+E000490,2025-04-12,2025-04-20,Buenos Aires,Cordoba,andreani,25.87,6825.53,8
+E002316,2025-04-21,2025-04-24,Rosario,Mendoza, MERCADO_ENVIOS,12.18,31191.96,3
+E000491,2025-02-15,2025-02-24,Buenos Aires,Cordoba,oca,3.23,3771.76,9
+E000492,2025-03-09,13/03/2025,Buenos Aires,Mendoza,correo_argentino,10.7,37033.34,4
+E000493,2024-08-24,2024-08-26,Tucuman,Salta,correo_argentino,22.78,15410.52,2
+E000494,2024-01-02,2024-01-05,Buenos Aires,Bahia Blanca,mercado_envios,33.9,46708.77,3
+E000495,2024-03-05,2024-03-09,Tucuman,Buenos Aires,mercado_envios,35.74,55162.48,4
+E001724,2025-12-28,2025-12-29,Cordoba,Rosario,andreani,36.64,24542.3,1
+E000496,2024-10-12,2024-10-19,Salta,Mendoza,mercado_envios,17.31,35554.37,7
+E001919,2024-03-02,2024-03-03,Rosario,Bahia Blanca,correo_argentino,29.93,29986.9,1
+E000497,2024-02-22,2024-02-29,Buenos Aires,Bahia Blanca,oca,25.51,13953.42,
+E000498,2025-03-13,2025-03-22,Bahia Blanca,Mendoza,mercado_envios,36.23,27151.55,9
+E000499,2025-12-08,2025-12-13,Cordoba,Tucuman,oca,-13.87,39094.1,5
+E000500,2024-01-03,2024-01-10,Buenos Aires,Mendoza,mercado_envios,22.39,47468.65,7
+E000501,2024-05-03,2024-05-12,Cordoba,Buenos Aires,mercado_envios,6.28,49897.58,9
+E000502,2024-02-14,2024-02-20,Buenos Aires,Bahia Blanca,andreani,18.79,59913.75,6
+E000503,2025-08-26,2025-08-27,Mendoza,Tucuman,mercado_envios,37.4,43770.09,1
+E000504,2025-06-08,2025-06-17,Mendoza,Buenos Aires,andreani,5.5,35648.08,9
+E000505,2024-05-06,2024-05-09,Bahia Blanca,Buenos Aires,oca,24.76,35193.39,3
+E000506,2025-02-12,2025-02-18,Bahia Blanca,Cordoba,correo_argentino,14.08,18532.58,6
+E000507,2025-04-19,2025-04-23,Buenos Aires,Rosario,andreani,15.93,7143.27,4
+E000508,2025-01-14,2025-01-18,Rosario,Bahia Blanca,andreani,13.76,24951.78,4
+E000904,03/06/2025,2025-06-04,Tucuman,Cordoba,correo_argentino,15.88,25530.71,1
+E000509,2025-05-12,2025-05-17,Tucuman,Salta,mercado_envios,26.76,28690.33,5
+E000510,2025-09-21,30/09/2025,Rosario,Buenos Aires,correo_argentino,24.44,6269.73,9
+E000511,2024-12-28,2025-01-02,Cordoba,Bahia Blanca,mercado_envios,5.55,32553.67,5
+E000512,2024-07-29,2024-08-03,Rosario,Buenos Aires,correo_argentino,24.73,25930.32,5
+E000513,2025-09-17,2025-09-23,Salta,Rosario,correo_argentino,18.3,57432.0,6
+E000514,31/01/2025,2025-02-05,Cordoba,Rosario,correo_argentino,9.99,36650.51,5
+E000515,2024-01-29,2024-02-03,Buenos Aires,Rosario,andreani,-19.95,14235.71,5
+E000516,2025-11-04,2025-11-10,Mendoza,Buenos Aires,mercado_envios,11.5,10864.68,6
+E000517,2025-06-06,2025-06-12,Buenos Aires,Cordoba,mercado_envios,38.26,"56.885,18",6
+E000518,2025-12-05,2025-12-08,Rosario,Salta,oca,36.23,8480.53,3
+E000519,2025-12-23,2026-01-01,Bahia Blanca,Mendoza,mercado_envios,1.56,4481.86,9
+E000520,30/05/2024,2024-06-07,Mendoza,Buenos Aires,correo_argentino,1.72,43671.87,8
+E000521,2024-09-13,2024-09-15,Bahia Blanca,Buenos Aires,oca,20.65,"56.532,61",2
+E000522,2024-01-29,2024-02-03,Tucuman,Rosario,correo_argentino,26.34,57111.71,5
+E000523,2025-04-19,2025-04-26,Buenos Aires,Salta,correo_argentino,-23.88,46344.19,7
+E000524,2024-04-21,2024-04-25,Bahia Blanca,Salta,oca,30.86,30088.93,4
+E000525,2024-09-24,2024-10-02,Buenos Aires,Salta,correo_argentino,23.7,41106.45,8
+E000526,2025-01-27,2025-01-29,Rosario,Buenos Aires,andreani,7.91,36864.71,2
+E000527,2024-08-15,2024-08-22,Salta,Cordoba,MERCADO_ENVIOS ,29.11,12381.84,7
+E000528,2025-08-04,2025-08-01,Tucuman,Mendoza,correo_argentino,29.05,43487.42,3
+E000529,2025-01-10,2025-01-15,Buenos Aires,Cordoba,andreani,34.95,4682.06,
+E000530,2025-08-02,2025-08-07,Mendoza,Rosario,mercado_envios,33.73,14401.92,5
+E000531,2025-12-21,2025-12-23,Mendoza,Buenos Aires,oca,23.43,19375.75,2
+E000532,2024-10-04,2024-10-10,Cordoba,Salta,mercado_envios,37.4,9259.09,6
+E000533,26/07/2024,2024-07-27,Cordoba,Rosario,correo_argentino,11.45,21226.75,1
+E000534,2025-08-17,26/08/2025,Tucuman,Salta,oca,36.42,12040.49,9
+E000535,14/09/2024,2024-09-17,Buenos Aires,Tucuman,correo_argentino,29.54,55364.23,3
+E000536,2024-07-31,05/08/2024,Salta,Tucuman,andreani,20.38,33590.64,5
+E000537,2025-11-24,2025-12-01,Buenos Aires,Salta,oca,17.11,4437.51,7
+E000538,27/11/2025,2025-12-01,Rosario,Tucuman,mercado_envios,21.86,38599.91,4
+E000539,2024-03-21,2024-03-26,Tucuman,Bahia Blanca,oca,6.91,"57.494,27",5
+E000540,2024-04-04,2024-04-07,Bahia Blanca,Mendoza,andreani,30.77,11913.98,3
+E000383,2024-08-25,2024-09-01,Cordoba,Bahia Blanca,andreani,35.73,32208.26,7
+E000541,2025-06-22,2025-06-23,Buenos Aires,Tucuman,andreani,29.21,51460.49,1
+E000542,2025-10-03,2025-10-06,Buenos Aires,Mendoza,mercado_envios,11.44,11665.17,3
+E000543,2025-03-31,2025-04-01,Cordoba,Buenos Aires,correo_argentino,19.89,"18.007,21",1
+E000544,2025-12-28,2026-01-04,Cordoba,Mendoza,oca,6.22,48709.75,7
+E000545,2024-04-15,2024-04-20,Salta,Bahia Blanca,OCA ,29.96,16874.65,5
+E000546,2025-03-13,21/03/2025,Tucuman,Buenos Aires,andreani,0.33,31852.32,8
+E000547,2025-09-08,2025-09-11,Rosario,Buenos Aires,andreani,27.01,30052.16,3
+E000548,2024-03-28,2024-04-01,Buenos Aires,Mendoza,mercado_envios,16.72,58806.91,4
+E000283,2024-06-14,2024-06-23,Salta,Mendoza,OCA ,38.18,58597.1,9
+E000549,2024-08-27,2024-08-30,Buenos Aires,Mendoza,andreani,23.7,9279.68,3
+E000550,2024-04-20,23/04/2024,Rosario,Tucuman,mercado_envios,10.92,40930.45,3
+E000551,2025-11-26,2025-12-04,Bahia Blanca,Tucuman,andreani,12.11,39724.27,8
+E000552,2025-09-04,2025-09-13,Mendoza,Rosario,CORREO_ARGENTINO,39.06,30086.88,9
+E000553,2024-06-15,2024-06-24,Cordoba,Bahia Blanca,correo_argentino,16.05,"43.169,84",9
+E000554,2025-09-19,2025-09-23,Mendoza,Buenos Aires,oca,1.19,40138.95,4
+E000555,19/02/2024,2024-02-27,Cordoba,Salta,oca,23.2,59126.39,8
+E000556,2025-04-28,2025-05-03,Buenos Aires,Tucuman,oca,15.64,26898.62,5
+E000557,2025-10-20,2025-10-24,Tucuman,Buenos Aires,mercado_envios,21.93,48665.56,
+E000558,2025-04-15,2025-04-16,Cordoba,Salta,oca,38.44,17676.01,1
+E000559,2025-06-09,2025-06-14,Bahia Blanca,Buenos Aires,oca,13.58,10112.27,5
+E000560,2025-12-21,2025-12-15,Bahia Blanca,Rosario,correo_argentino,15.35,20298.02,6
+E000561,2024-10-07,2024-10-13,Buenos Aires,Tucuman,andreani,14.75,34561.3,6
+E000562,2025-11-28,2025-12-07,Salta,Cordoba,andreani,20.43,"46.061,40",9
+E000563,2024-12-16,2024-12-22,Salta,Bahia Blanca,oca,30.64,6200.92,6
+E000564,2025-04-11,2025-04-17,Bahia Blanca,Rosario,andreani,36.53,22211.07,6
+E000565,2024-04-17,20/04/2024,Mendoza,Salta,correo_argentino,35.32,42703.34,3
+E000566,2025-07-09,2025-07-18,Cordoba,Tucuman,andreani,16.89,43032.08,9
+E000567,2025-06-14,2025-06-19,Mendoza,Tucuman,oca,7.39,58353.06,5
+E000568,2024-06-03,2024-06-08,Mendoza,Bahia Blanca,oca,7.62,8306.21,5
+E000569,2025-01-16,2025-01-17,Rosario,Bahia Blanca,andreani,6.79,14828.53,1
+E000570,2024-01-27,2024-02-05,Mendoza,Salta,correo_argentino,0.28,26713.51,9
+E000571,10/07/2025,2025-07-19,Buenos Aires,Cordoba,mercado_envios,1.89,42463.23,9
+E000572,2025-07-18,2025-07-25,Tucuman,Rosario,andreani,-18.06,34253.37,7
+E000573,2024-05-07,2024-05-15,Bahia Blanca,Salta,mercado_envios,15.92,17532.41,8
+E000574,2025-04-10,2025-04-14,Tucuman,Buenos Aires, ANDREANI,39.2,27967.39,4
+E000575,2025-10-19,2025-10-25,Cordoba,Salta,correo_argentino,19.96,32547.21,6
+E000576,2025-09-26,2025-10-02,Buenos Aires,Rosario,mercado_envios,22.35,17104.72,6
+E000577,2024-07-30,2024-08-01,Rosario,Bahia Blanca,oca,12.34,52753.35,2
+E000578,2024-07-08,2024-07-14,Salta,Bahia Blanca,oca,9.06,15638.63,6
+E000579,2024-11-04,2024-11-11,Rosario,Mendoza,mercado_envios,11.73,17818.58,7
+E000580,2024-04-03,2024-04-05,Bahia Blanca,Salta,mercado_envios,8.43,19897.13,2
+E000581,2024-04-02,2024-04-05,Salta,Bahia Blanca,andreani,-30.96,27597.91,3
+E000582,23/12/2025,2025-12-25,Buenos Aires,Rosario,correo_argentino,26.25,16785.64,2
+E000583,2024-05-03,2024-05-10,Buenos Aires,Tucuman,mercado_envios,37.83,38452.65,
+E000584,2025-01-24,2025-01-31,Salta,Mendoza,andreani,26.48,36057.05,7
+E000585,2025-07-03,2025-07-04,Bahia Blanca,Tucuman,correo_argentino,14.67,21679.98,1
+E000586,20/07/2024,2024-07-21,Tucuman,Rosario,mercado_envios,20.96,16069.12,1
+E000587,13/03/2025,2025-03-19,Mendoza,Buenos Aires,correo_argentino,38.64,53924.96,6
+E000588,13/08/2024,2024-08-21,Salta,Rosario,andreani,5.53,35491.22,8
+E000589,2024-11-04,2024-10-31,Mendoza,Tucuman,andreani,15.02,47577.02,4
+E000590,2024-03-15,2024-03-20,Rosario,Salta,andreani,32.99,14351.88,5
+E000591,2025-08-22,2025-08-24,Cordoba,Tucuman,correo_argentino,2.43,33859.76,2
+E000592,2024-01-30,2024-02-06,Rosario,Bahia Blanca,mercado_envios,33.81,19313.14,7
+E000593,2025-12-10,2025-12-18,Bahia Blanca,Cordoba,oca,7.17,17982.11,8
+E000594,2024-08-11,2024-08-17,Cordoba,Bahia Blanca,oca,4.06,30823.98,6
+E000595,2025-08-08,2025-08-10,Salta,Buenos Aires,oca,14.55,50997.25,2
+E000596,2024-11-13,17/11/2024,Cordoba,Rosario,andreani,15.44,34644.02,4
+E000597,2025-06-20,2025-06-29,Buenos Aires,Salta,mercado_envios,4.4,"42.939,79",9
+E000598,2024-03-03,2024-03-12,Cordoba,Mendoza,oca,32.56,38342.2,9
+E000599,2025-08-08,2025-08-11,Bahia Blanca,Rosario,andreani,24.71,41996.85,3
+E000600,2025-10-30,2025-11-05,Buenos Aires,Rosario,oca,36.25,47526.58,6
+E000601,26/09/2024,2024-10-01,Salta,Cordoba,correo_argentino,37.86,53943.09,5
+E000602,2025-05-16,2025-05-21,Salta,Cordoba,OCA,33.3,32460.82,5
+E000603,2024-12-24,2024-12-29,Bahia Blanca,Cordoba,andreani,28.52,30798.12,5
+E000604,2025-11-02,2025-11-11,Buenos Aires,Rosario,oca,24.06,5207.85,9
+E000605,2024-01-18,2024-01-11,Buenos Aires,Rosario,mercado_envios,9.64,38968.55,7
+E000606,2025-06-08,2025-06-14,Salta,Rosario,correo_argentino,-28.78,2963.42,6
+E000607,2025-02-19,26/02/2025,Bahia Blanca,Mendoza,mercado_envios,23.36,37577.03,7
+E000608,2025-08-25,2025-08-31,Mendoza,Rosario,ANDREANI,37.59,21488.19,6
+E000609,2025-04-14,2025-04-18,Rosario,Cordoba,andreani,8.42,26552.69,4
+E000610,2024-08-30,2024-09-02,Tucuman,Rosario,andreani,6.65,8359.78,3
+E000611,2024-08-03,2024-08-10,Rosario,Mendoza,oca,3.29,56224.54,7
+E000612,2024-10-09,2024-10-13,Rosario,Mendoza,oca,21.79,58146.53,
+E000613,2024-02-16,20/02/2024,Mendoza,Rosario,correo_argentino,30.28,46834.25,4
+E000614,2024-06-18,2024-06-20,Mendoza,Buenos Aires,mercado_envios,22.51,21317.16,2
+E000615,2024-03-06,2024-03-11,Cordoba,Salta,mercado_envios,18.03,3910.18,5
+E000616,2024-06-15,2024-06-17,Mendoza,Cordoba,andreani,27.03,11818.86,2
+E000617,2025-01-21,2025-01-22,Rosario,Tucuman,andreani,4.0,40126.41,1
+E000618,2025-09-27,30/09/2025,Bahia Blanca,Tucuman,correo_argentino,31.89,30104.68,3
+E000619,2025-03-05,2025-03-11,Cordoba,Salta,mercado_envios,5.04,21152.06,6
+E000620,2024-05-24,2024-05-31,Tucuman,Buenos Aires,andreani,11.99,"34.942,22",7
+E000621,2024-05-26,2024-05-30,Bahia Blanca,Buenos Aires,mercado_envios,19.64,4889.27,4
+E000622,2025-06-23,2025-07-02,Cordoba,Buenos Aires,oca,9.36,7923.22,9
+E000623,2025-03-21,2025-03-23,Bahia Blanca,Buenos Aires,correo_argentino,38.62,36405.94,2
+E000624,2025-02-22,2025-02-24,Tucuman,Buenos Aires,mercado_envios,3.95,58410.22,2
+E000625,2025-11-24,2025-11-27,Rosario,Mendoza,mercado_envios,1.84,33903.5,
+E000626,2025-01-27,2025-02-03,Cordoba,Bahia Blanca,oca,13.1,21467.05,7
+E000627,2024-12-23,2024-12-14,Tucuman,Cordoba,correo_argentino,8.04,57980.66,9
+E000628,2025-11-20,2025-11-23,Mendoza,Rosario,correo_argentino,2.38,15291.58,3
+E000629,2025-09-23,2025-09-25,Salta,Tucuman,oca,-22.45,9551.18,2
+E000630,2024-01-25,2024-01-16,Buenos Aires,Tucuman,mercado_envios,38.95,38142.11,9
+E000631,2024-08-27,2024-09-02,Rosario,Buenos Aires,oca,4.72,34679.74,6
+E000632,2025-01-04,2025-01-10,Bahia Blanca,Tucuman,ANDREANI ,21.9,52117.33,6
+E000633,2024-10-17,2024-10-19,Bahia Blanca,Buenos Aires,oca,20.52,5639.85,2
+E000634,2024-10-20,2024-10-21,Bahia Blanca,Buenos Aires,oca,9.1,54069.27,1
+E000635,2025-09-06,2025-09-12,Salta,Mendoza,mercado_envios,31.84,26274.75,6
+E000636,2024-11-26,2024-11-27,Mendoza,Cordoba,correo_argentino,9.89,"44.680,50",1
+E000637,2024-09-02,05/09/2024,Salta,Cordoba,correo_argentino,24.55,12596.09,3
+E000638,2025-12-24,2026-01-01,Mendoza,Tucuman,mercado_envios,25.3,24375.29,8
+E002168,2025-10-17,2025-10-20,Mendoza,Cordoba,correo_argentino,1.9,"40.361,83",3
+E000639,2025-01-05,2025-01-14,Buenos Aires,Salta,mercado_envios,7.98,21526.47,9
+E000640,2025-10-21,2025-10-30,Tucuman,Bahia Blanca,mercado_envios,4.36,24657.67,9
+E000641,2025-11-29,2025-12-01,Rosario,Tucuman,oca,27.25,47059.32,2
+E000642,2025-04-15,2025-04-24,Tucuman,Bahia Blanca,andreani,-38.06,58817.33,9
+E000643,2025-05-12,2025-05-20,Tucuman,Cordoba,oca,38.91,55930.57,8
+E000644,2024-09-19,22/09/2024,Bahia Blanca,Rosario,oca,18.76,30361.19,3
+E000645,04/02/2024,2024-02-11,Buenos Aires,Cordoba,andreani,3.05,5399.19,7
+E000646,2024-03-06,2024-03-13,Buenos Aires,Bahia Blanca,oca,17.28,50930.82,7
+E000647,16/12/2025,2025-12-21,Buenos Aires,Tucuman,correo_argentino,28.74,24994.68,5
+E000648,2024-06-28,2024-07-05,Buenos Aires,Mendoza,oca,1.52,"23.886,67",7
+E000649,2024-01-19,2024-01-22,Mendoza,Rosario,oca,38.53,46494.57,3
+E000650,2024-06-24,2024-06-30,Cordoba,Mendoza,andreani,20.03,44801.89,6
+E000651,2025-07-26,2025-08-01,Tucuman,Salta,mercado_envios,22.73,34818.63,6
+E000652,2025-08-17,2025-08-25,Cordoba,Mendoza,oca,8.36,16662.42,
+E000653,2025-06-07,2025-06-09,Salta,Rosario,oca,30.07,"7.251,56",2
+E000654,2025-03-21,2025-03-25,Mendoza,Buenos Aires,mercado_envios,7.97,40058.91,4
+E000655,2024-03-31,2024-04-02,Bahia Blanca,Mendoza,andreani,36.61,52612.46,2
+E000656,2024-02-08,2024-02-14,Bahia Blanca,Mendoza,correo_argentino,4.29,9466.2,6
+E000657,2025-10-31,2025-11-05,Rosario,Buenos Aires,correo_argentino,24.74,54348.1,5
+E000658,2024-05-17,2024-05-19,Rosario,Bahia Blanca,andreani,15.27,"13.594,29",2
+E000659,2025-04-03,2025-04-11,Cordoba,Mendoza,oca,21.24,21989.3,8
+E000660,31/07/2025,2025-08-01,Bahia Blanca,Buenos Aires,andreani,32.09,6357.75,1
+E000661,2024-12-01,2024-12-10,Bahia Blanca,Salta,correo_argentino,31.29,5363.65,9
+E000662,2024-04-03,2024-04-08,Salta,Rosario,oca,-13.71,43245.48,5
+E000663,2025-08-07,2025-08-14,Tucuman,Cordoba,mercado_envios,18.81,"3.626,31",7
+E000664,2024-09-22,2024-09-30,Cordoba,Buenos Aires,correo_argentino,28.61,34671.08,8
+E000665,2024-01-20,2024-01-24,Buenos Aires,Rosario,correo_argentino,4.0,54897.21,4
+E000666,2024-06-03,2024-05-29,Buenos Aires,Cordoba,oca,2.94,37912.48,5
+E000667,2025-04-29,2025-05-01,Bahia Blanca,Salta,oca,0.64,34520.65,2
+E000668,2024-08-16,2024-08-18,Cordoba,Mendoza,ANDREANI ,21.42,28796.6,2
+E000669,2024-04-16,2024-04-17,Rosario,Buenos Aires,mercado_envios,19.24,45123.48,1
+E000670,2024-10-13,2024-10-15,Bahia Blanca,Mendoza,mercado_envios,2.83,"49.306,86",2
+E000671,2024-07-09,2024-07-13,Rosario,Buenos Aires,correo_argentino,12.92,21985.59,4
+E000672,2025-08-22,2025-08-24,Bahia Blanca,Buenos Aires,correo_argentino,38.31,14967.19,2
+E000673,2025-12-27,2026-01-04,Cordoba,Salta,oca,33.87,9294.18,8
+E000674,2024-06-25,2024-07-04,Bahia Blanca,Salta,oca,24.82,12656.04,9
+E000675,2025-09-09,2025-09-14,Rosario,Tucuman,MERCADO_ENVIOS ,23.21,10001.42,5
+E000676,2024-06-19,2024-06-13,Tucuman,Buenos Aires,oca,21.67,54778.93,6
+E000677,2024-10-07,2024-10-16,Cordoba,Rosario,mercado_envios,3.03,42151.38,9
+E000678,2025-04-13,21/04/2025,Bahia Blanca,Rosario,correo_argentino,10.59,23805.11,8
+E001651,2024-06-02,2024-06-11,Mendoza,Salta,correo_argentino,5.42,59783.09,9
+E000679,2025-02-18,2025-02-27,Mendoza,Rosario,andreani,17.16,5730.97,9
+E000680,27/07/2024,2024-07-28,Mendoza,Tucuman,andreani,29.14,14013.56,1
+E000681,2024-03-20,22/03/2024,Rosario,Mendoza,correo_argentino,8.68,8555.35,2
+E000682,2024-11-12,21/11/2024,Mendoza,Tucuman,oca,28.21,38444.96,9
+E000683,2024-06-11,2024-06-18,Tucuman,Cordoba,andreani,19.68,40416.87,7
+E000684,2025-07-24,28/07/2025,Cordoba,Mendoza,oca,29.82,56698.26,4
+E000685,2024-01-23,2024-01-29,Mendoza,Bahia Blanca,andreani,9.5,48108.86,6
+E000686,2025-10-02,2025-10-10,Rosario,Mendoza,correo_argentino,18.54,10106.09,8
+E000687,2025-12-07,2025-12-13,Mendoza,Salta,oca,1.15,"9.557,00",6
+E000688,2024-01-07,2024-01-11,Rosario,Tucuman, OCA,34.95,40731.04,4
+E000689,2024-12-28,2025-01-02,Tucuman,Mendoza,mercado_envios,36.57,13681.95,5
+E000690,2025-06-18,2025-06-22,Bahia Blanca,Salta,mercado_envios,33.01,14577.36,4
+E000691,2024-07-24,2024-07-29,Mendoza,Buenos Aires,oca,21.91,"27.619,87",5
+E000692,2025-10-01,07/10/2025,Buenos Aires,Bahia Blanca,mercado_envios,35.69,23073.96,6
+E000693,2024-10-07,2024-10-15,Rosario,Salta,correo_argentino,8.55,25912.21,8
+E000694,2025-11-26,2025-12-05,Mendoza,Rosario,andreani,-23.8,42869.95,9
+E000695,2024-05-16,2024-05-20,Rosario,Tucuman,oca,39.84,39151.25,4
+E000696,12/03/2025,2025-03-16,Buenos Aires,Rosario,andreani,4.86,30283.8,4
+E000697,2025-06-06,2025-06-10,Mendoza,Bahia Blanca,mercado_envios,38.32,38834.0,
+E000698,2025-02-02,2025-02-10,Bahia Blanca,Mendoza,oca,22.57,48947.17,8
+E000699,2025-11-02,2025-11-04,Bahia Blanca,Tucuman,mercado_envios,20.59,27051.73,2
+E000700,2024-12-23,2024-12-29,Tucuman,Buenos Aires,andreani,13.92,57251.79,6
+E000701,2025-04-08,2025-04-11,Tucuman,Mendoza,oca,36.91,25339.19,
+E000702,2024-01-14,2024-01-23,Bahia Blanca,Cordoba, CORREO_ARGENTINO,34.7,3312.59,9
+E000703,2025-03-03,2025-03-07,Bahia Blanca,Cordoba,mercado_envios,25.05,17090.81,4
+E000704,2025-04-20,2025-04-21,Rosario,Tucuman,andreani,32.54,39385.87,1
+E000705,2024-04-18,2024-04-22,Tucuman,Mendoza,correo_argentino,17.77,36638.47,4
+E000706,2025-06-26,2025-06-28,Bahia Blanca,Cordoba,correo_argentino,17.08,47055.93,2
+E000707,17/03/2025,2025-03-23,Cordoba,Tucuman,andreani,5.68,39942.12,6
+E000708,06/05/2025,2025-05-14,Salta,Bahia Blanca,correo_argentino,28.9,33549.1,8
+E000709,2024-07-06,2024-07-09,Bahia Blanca,Mendoza,mercado_envios,6.4,4833.33,3
+E000710,2025-10-26,2025-11-03,Salta,Mendoza,oca,25.7,54120.58,8
+E000711,2025-10-07,2025-10-10,Cordoba,Rosario,oca,6.06,31579.32,3
+E000712,2025-03-18,2025-03-14,Salta,Tucuman,oca,33.93,21910.44,4
+E000713,2025-10-30,2025-11-02,Salta,Tucuman,correo_argentino,33.28,28510.35,3
+E000714,2025-04-10,2025-04-11,Salta,Buenos Aires,andreani,38.19,59334.56,1
+E000715,2025-07-29,2025-08-07,Tucuman,Bahia Blanca,oca,-14.44,27201.89,9
+E000716,05/07/2025,2025-07-08,Buenos Aires,Salta,mercado_envios,32.33,10337.39,3
+E000717,31/01/2025,2025-02-02,Buenos Aires,Salta,oca,35.62,2998.47,2
+E000718,29/11/2025,2025-12-03,Mendoza,Buenos Aires,andreani,26.02,39839.96,4
+E000719,2025-03-14,2025-03-21,Mendoza,Cordoba,andreani,26.76,44838.52,7
+E000720,2025-05-13,2025-05-19,Salta,Bahia Blanca,correo_argentino,17.51,31407.36,6
+E000721,2024-11-23,2024-11-27,Salta,Bahia Blanca,oca,23.37,51402.92,4
+E001792,2025-05-24,2025-05-17,Mendoza,Rosario,mercado_envios,8.87,36166.5,7
+E000722,2024-05-16,2024-05-11,Buenos Aires,Cordoba,oca,2.18,49181.26,5
+E000723,2025-07-04,2025-07-05,Rosario,Tucuman, MERCADO_ENVIOS,10.75,7729.88,1
+E000724,2025-03-30,2025-04-08,Buenos Aires,Bahia Blanca,correo_argentino,14.12,51484.89,9
+E000725,2024-07-10,2024-07-16,Bahia Blanca,Tucuman,mercado_envios,14.46,41984.19,6
+E000726,2024-09-19,27/09/2024,Salta,Bahia Blanca,correo_argentino,34.91,57572.03,8
+E000727,2025-04-15,2025-04-16,Rosario,Salta,oca,36.72,11818.57,1
+E000728,2025-06-21,2025-06-26,Mendoza,Cordoba,oca,2.24,48504.13,5
+E000729,2024-09-19,2024-09-20,Cordoba,Bahia Blanca,correo_argentino,33.94,54516.44,1
+E000730,2024-09-11,2024-09-20,Salta,Bahia Blanca,andreani,22.35,26011.48,9
+E000731,2025-07-02,2025-07-04,Salta,Bahia Blanca,correo_argentino,35.87,8809.26,
+E000732,2025-08-28,2025-09-02,Tucuman,Buenos Aires,mercado_envios,9.77,19006.56,5
+E000733,2025-07-28,2025-08-04,Buenos Aires,Tucuman,mercado_envios,17.79,33216.64,7
+E000734,2024-08-28,29/08/2024,Buenos Aires,Bahia Blanca,mercado_envios,0.85,27036.91,1
+E000735,2025-10-26,2025-10-30,Cordoba,Tucuman,mercado_envios,20.25,12092.02,4
+E000736,2024-08-14,2024-08-19,Buenos Aires,Mendoza,CORREO_ARGENTINO ,25.9,23446.56,5
+E000737,2025-06-09,2025-06-12,Bahia Blanca,Mendoza,mercado_envios,32.32,49565.39,3
+E000738,2024-08-28,2024-09-04,Bahia Blanca,Mendoza,andreani,19.69,58634.37,7
+E000739,2024-11-02,2024-11-01,Salta,Mendoza,oca,34.34,49295.18,1
+E000740,2024-02-12,2024-02-20,Cordoba,Bahia Blanca,correo_argentino,8.89,11837.53,8
+E000741,2024-05-06,2024-05-10,Rosario,Mendoza,correo_argentino,0.93,29652.77,4
+E000742,2024-07-30,2024-07-31,Tucuman,Cordoba,oca,3.8,51665.5,1
+E000743,2025-11-21,2025-11-28,Rosario,Bahia Blanca,andreani,36.09,40842.21,7
+E000744,2024-06-25,2024-07-02,Buenos Aires,Bahia Blanca,mercado_envios,24.68,38367.04,7
+E000745,2025-06-21,2025-06-22,Bahia Blanca,Buenos Aires,mercado_envios,36.89,56265.4,1
+E000746,2025-06-29,06/07/2025,Bahia Blanca,Cordoba,andreani,0.56,28272.61,7
+E000747,2025-06-13,2025-06-14,Rosario,Salta,andreani,10.35,56314.99,1
+E000748,2025-10-19,2025-10-24,Salta,Bahia Blanca,oca,23.79,21195.75,5
+E000749,2025-12-15,2025-12-19,Salta,Tucuman,correo_argentino,22.53,48029.83,4
+E000750,2025-03-08,2025-03-10,Buenos Aires,Cordoba, MERCADO_ENVIOS,25.88,35109.94,2
+E000751,2025-04-25,2025-05-03,Bahia Blanca,Buenos Aires,mercado_envios,5.33,11782.94,8
+E000752,2025-03-07,2025-03-16,Bahia Blanca,Tucuman,mercado_envios,36.9,31908.97,9
+E000753,2025-07-04,2025-07-06,Rosario,Tucuman,correo_argentino,31.87,"53.143,00",2
+E000754,2025-12-12,2025-12-19,Rosario,Bahia Blanca,oca,28.11,32461.91,7
+E000755,2024-09-01,2024-09-07,Salta,Mendoza, ANDREANI,2.1,44727.4,6
+E000756,2024-11-20,2024-11-27,Bahia Blanca,Tucuman,andreani,-30.14,24325.06,7
+E000757,2024-10-27,2024-11-01,Mendoza,Salta,correo_argentino,21.92,52150.2,5
+E000758,2025-11-04,2025-11-07,Rosario,Cordoba,OCA,10.67,3642.28,3
+E000759,2025-05-25,2025-06-01,Tucuman,Mendoza,andreani,13.71,56404.09,7
+E000760,2024-10-16,2024-10-21,Rosario,Tucuman,oca,21.84,12655.02,5
+E000761,2024-12-22,2024-12-28,Tucuman,Cordoba,correo_argentino,18.82,43549.38,6
+E000762,2025-12-03,2025-12-09,Rosario,Bahia Blanca,oca,28.09,15960.32,6
+E000763,2025-12-22,2025-12-24,Bahia Blanca,Cordoba,oca,8.63,52642.13,2
+E000764,2024-07-16,2024-07-23,Salta,Bahia Blanca,oca,23.24,11987.79,7
+E000765,2025-04-07,2025-04-04,Rosario,Salta,oca,2.67,47521.64,3
+E000766,2025-12-21,2025-12-24,Tucuman,Mendoza, OCA,0.62,28572.68,3
+E000767,15/10/2024,2024-10-23,Salta,Rosario,oca,27.63,4120.18,8
+E000768,2024-03-27,2024-03-28,Tucuman,Cordoba,CORREO_ARGENTINO,39.29,17503.84,1
+E000769,03/06/2025,2025-06-05,Cordoba,Rosario,mercado_envios,24.32,48807.57,2
+E000846,22/07/2025,2025-07-31,Salta,Rosario,andreani,34.83,14431.15,9
+E000770,2024-11-21,2024-11-23,Tucuman,Rosario,OCA,36.05,25145.28,2
+E000771,2024-08-26,2024-08-29,Tucuman,Bahia Blanca,andreani,33.16,41721.71,3
+E000772,2025-04-11,2025-04-17,Tucuman,Bahia Blanca,andreani,36.15,26623.19,
+E000773,2025-03-18,2025-03-15,Salta,Cordoba,andreani,1.16,43372.8,3
+E000774,2024-10-01,08/10/2024,Tucuman,Cordoba,correo_argentino,16.36,7676.11,7
+E000775,2024-04-14,2024-04-17,Mendoza,Cordoba,correo_argentino,7.01,54504.46,3
+E000776,2024-05-26,2024-05-28,Buenos Aires,Bahia Blanca,mercado_envios,2.44,10012.7,
+E000777,2024-03-09,2024-03-13,Tucuman,Bahia Blanca,oca,34.12,54684.32,4
+E000778,2025-11-24,2025-11-30,Buenos Aires,Cordoba,correo_argentino,39.56,57171.33,6
+E000779,2024-10-19,2024-10-21,Tucuman,Rosario,mercado_envios,32.43,43669.71,2
+E000780,2025-10-28,2025-11-06,Tucuman,Salta,mercado_envios,5.08,57997.24,9
+E000781,2024-05-14,2024-05-19,Rosario,Buenos Aires,mercado_envios,33.71,7392.04,
+E000782,2025-12-14,2025-12-16,Cordoba,Bahia Blanca,oca,20.4,19123.91,2
+E000783,2025-03-11,2025-03-17,Buenos Aires,Rosario,andreani,17.61,59844.5,6
+E000784,2024-09-24,2024-09-26,Bahia Blanca,Cordoba,correo_argentino,16.22,52913.88,2
+E000785,2024-08-15,17/08/2024,Cordoba,Buenos Aires,correo_argentino,27.96,20676.26,2
+E000786,2025-12-11,2025-12-18,Mendoza,Buenos Aires,MERCADO_ENVIOS,36.35,46917.26,7
+E000787,2025-11-18,2025-11-26,Buenos Aires,Mendoza,correo_argentino,17.51,16448.74,8
+E000788,26/12/2025,2026-01-03,Mendoza,Salta,mercado_envios,23.28,20923.5,8
+E000789,2024-11-12,2024-11-16,Cordoba,Mendoza,mercado_envios,0.91,50536.31,4
+E000790,2025-12-28,2025-12-31,Mendoza,Bahia Blanca,mercado_envios,32.05,49878.5,3
+E000791,2025-06-17,2025-06-10,Mendoza,Rosario,oca,0.26,13328.6,7
+E000792,2025-12-09,2025-12-12,Bahia Blanca,Tucuman,correo_argentino,0.21,43399.14,3
+E000793,2025-12-10,2025-12-07,Buenos Aires,Rosario,oca,15.75,14457.47,3
+E000794,2025-01-12,19/01/2025,Buenos Aires,Mendoza,mercado_envios,25.15,46636.13,7
+E000795,2024-06-27,2024-07-01,Buenos Aires,Cordoba,andreani,6.68,53046.88,4
+E000796,08/08/2024,2024-08-15,Mendoza,Buenos Aires,andreani,13.26,15019.72,7
+E000797,2025-09-10,2025-09-15,Bahia Blanca,Cordoba,mercado_envios,9.28,5815.37,5
+E000798,2025-06-28,2025-06-21,Buenos Aires,Mendoza,correo_argentino,21.61,30379.75,7
+E000799,2025-06-10,2025-06-12,Rosario,Cordoba,oca,3.46,52851.06,2
+E000800,2025-09-10,2025-09-17,Bahia Blanca,Rosario,mercado_envios,1.43,"46.895,04",7
+E000801,2025-07-28,2025-08-04,Buenos Aires,Salta,correo_argentino,30.06,24872.63,7
+E000802,2024-09-14,2024-09-20,Mendoza,Bahia Blanca,oca,24.27,46799.04,6
+E000803,24/02/2025,2025-02-25,Rosario,Bahia Blanca,correo_argentino,32.41,50700.82,1
+E000804,2024-11-20,2024-11-29,Tucuman,Mendoza,mercado_envios,38.38,18733.53,
+E000805,2024-09-22,2024-09-25,Rosario,Buenos Aires,oca,13.63,22240.37,3
+E000806,2025-02-19,2025-02-26,Salta,Rosario,oca,-34.67,8813.07,7
+E000807,29/10/2024,2024-11-07,Rosario,Salta,oca,34.01,49098.26,9
+E000808,2025-10-30,2025-11-03,Bahia Blanca,Cordoba,correo_argentino,4.05,4326.99,4
+E000809,2025-06-29,2025-07-04,Cordoba,Rosario,mercado_envios,13.94,9422.09,5
+E000810,2024-10-17,2024-10-13,Buenos Aires,Bahia Blanca,andreani,11.99,19254.9,4
+E001985,2025-07-06,2025-07-12,Mendoza,Tucuman,mercado_envios,34.91,25878.65,6
+E000811,2025-11-05,2025-11-09,Mendoza,Rosario,correo_argentino,39.64,23624.94,4
+E001181,2025-02-01,2025-01-26,Salta,Cordoba,andreani,2.14,3429.38,6
+E000812,2025-05-13,17/05/2025,Cordoba,Buenos Aires,andreani,33.11,21520.58,4
+E000813,2024-08-30,2024-09-07,Salta,Cordoba,mercado_envios,18.42,25984.14,8
+E000814,2025-07-06,2025-07-11,Mendoza,Bahia Blanca,correo_argentino,11.54,8141.72,5
+E000815,2025-11-27,2025-11-29,Mendoza,Bahia Blanca,oca,33.72,35213.42,2
+E000816,2025-03-15,2025-03-16,Bahia Blanca,Buenos Aires,oca,9.8,47140.53,1
+E000817,2025-05-25,2025-05-29,Mendoza,Buenos Aires,mercado_envios,15.31,20733.66,4
+E000818,31/03/2024,2024-04-09,Salta,Rosario,oca,22.15,37366.07,9
+E000819,2025-12-13,2025-12-15,Mendoza,Bahia Blanca,andreani,31.23,55085.76,2
+E000820,2024-06-07,2024-06-08,Tucuman,Cordoba,mercado_envios,13.35,59039.64,1
+E000821,2025-11-18,2025-11-24,Tucuman,Cordoba,OCA,39.9,52323.57,6
+E000822,2024-12-04,12/12/2024,Tucuman,Mendoza,andreani,28.16,57830.29,8
+E000823,2024-07-16,2024-07-22,Buenos Aires,Mendoza,correo_argentino,39.86,40949.81,
+E000824,2025-06-16,2025-06-19,Cordoba,Rosario,andreani,30.79,55685.57,3
+E000825,2024-12-06,2024-12-12,Salta,Cordoba, MERCADO_ENVIOS,36.62,15978.38,6
+E000826,04/12/2024,2024-12-13,Cordoba,Salta,mercado_envios,2.15,37368.48,9
+E000827,2024-12-17,2024-12-26,Mendoza,Salta,oca,28.42,39117.99,9
+E000828,2025-12-03,2025-12-09,Salta,Cordoba,mercado_envios,30.16,33069.45,
+E000829,2024-10-24,2024-10-30,Salta,Mendoza,MERCADO_ENVIOS ,19.31,31711.19,6
+E000830,2024-09-26,2024-09-27,Tucuman,Salta,mercado_envios,31.94,33916.68,
+E000831,02/08/2025,2025-08-11,Mendoza,Tucuman,mercado_envios,4.66,21419.41,9
+E000832,2025-08-05,2025-08-12,Bahia Blanca,Rosario,correo_argentino,15.09,52417.14,7
+E000833,2024-04-30,2024-05-05,Buenos Aires,Tucuman,oca,16.65,45775.88,5
+E000834,2025-03-30,2025-04-02,Cordoba,Buenos Aires,mercado_envios,7.03,8059.18,3
+E000835,28/01/2024,2024-02-03,Rosario,Mendoza,mercado_envios,25.5,7787.13,6
+E000836,2024-11-17,2024-11-25,Buenos Aires,Mendoza,correo_argentino,28.7,36621.18,8
+E000837,10/11/2024,2024-11-12,Rosario,Tucuman,mercado_envios,34.93,34071.77,2
+E000838,2024-09-21,2024-09-26,Mendoza,Buenos Aires,andreani,31.91,52373.48,5
+E000839,2024-10-15,2024-10-19,Mendoza,Buenos Aires,mercado_envios,4.49,50109.43,
+E000840,2024-03-27,2024-04-03,Salta,Cordoba,mercado_envios,10.78,19831.64,7
+E000108,2025-08-07,2025-08-13,Buenos Aires,Mendoza,ANDREANI,28.36,22189.32,6
+E000841,2024-09-30,03/10/2024,Buenos Aires,Salta,andreani,14.44,36939.43,3
+E000842,2024-08-31,01/09/2024,Tucuman,Buenos Aires,andreani,3.19,15855.52,1
+E000843,2025-11-15,2025-11-18,Tucuman,Rosario,andreani,25.09,6456.4,3
+E000844,2025-01-30,2025-02-06,Cordoba,Rosario,correo_argentino,1.97,25282.57,7
+E000845,2024-03-28,2024-04-06,Tucuman,Mendoza,mercado_envios,7.37,9685.21,9
+E000846,22/07/2025,2025-07-31,Salta,Rosario,andreani,34.83,14431.15,9
+E000847,2024-02-03,2024-02-12,Salta,Bahia Blanca,correo_argentino,17.98,40548.29,
+E000848,2024-07-06,2024-07-09,Salta,Tucuman,mercado_envios,15.17,50537.1,3
+E000849,2024-01-20,2024-01-25,Cordoba,Buenos Aires,oca,13.82,20871.34,5
+E000850,2024-07-31,2024-08-07,Tucuman,Bahia Blanca,andreani,25.31,37733.85,7
+E000851,2024-03-22,2024-03-23,Bahia Blanca,Rosario,correo_argentino,6.15,41356.39,1
+E000852,2025-05-12,2025-05-17,Tucuman,Cordoba,correo_argentino,0.96,6714.28,5
+E000853,2025-02-18,2025-02-26,Bahia Blanca,Rosario,andreani,24.88,35691.96,8
+E000854,2025-10-01,2025-10-08,Tucuman,Buenos Aires,andreani,28.04,6606.6,7
+E000855,2025-05-02,2025-05-05,Salta,Mendoza,correo_argentino,5.12,8550.63,3
+E000856,2025-12-21,2025-12-28,Buenos Aires,Bahia Blanca,andreani,13.16,26610.11,7
+E000857,2024-02-24,2024-02-29,Salta,Bahia Blanca, OCA,5.79,37740.07,5
+E000858,22/10/2024,2024-10-24,Bahia Blanca,Salta,correo_argentino,30.77,43866.77,2
+E000859,2025-10-10,2025-10-14,Mendoza,Buenos Aires,mercado_envios,8.77,49148.5,4
+E000860,2025-01-26,2025-02-01,Salta,Buenos Aires,correo_argentino,36.03,7707.34,
+E000861,2024-11-15,2024-11-20,Mendoza,Salta,oca,5.35,16130.09,
+E000862,2025-09-08,2025-09-11,Rosario,Mendoza,andreani,13.18,34992.4,3
+E000863,2024-12-09,2024-12-15,Bahia Blanca,Cordoba,correo_argentino,33.89,"50.594,01",6
+E000864,2024-06-07,2024-06-12,Salta,Tucuman,andreani,28.41,37816.68,5
+E000865,2024-01-07,2024-01-09,Buenos Aires,Salta,oca,21.67,51484.04,2
+E000866,2025-10-14,2025-10-21,Rosario,Salta,oca,4.74,40433.37,7
+E000867,2024-01-31,2024-02-01,Salta,Mendoza,correo_argentino,31.68,56851.32,1
+E000868,18/12/2024,2024-12-23,Buenos Aires,Salta,mercado_envios,12.91,20051.14,5
+E000869,2024-11-25,2024-11-28,Bahia Blanca,Rosario,mercado_envios,25.95,38539.06,3
+E000870,2024-03-02,2024-03-11,Cordoba,Mendoza,andreani,13.52,23163.47,9
+E000871,2024-12-11,2024-12-17,Buenos Aires,Mendoza,OCA,36.76,9916.98,6
+E000872,2025-10-27,2025-10-30,Tucuman,Buenos Aires,correo_argentino,39.76,22706.43,3
+E000873,2024-06-01,2024-06-07,Bahia Blanca,Cordoba,oca,36.76,"9.747,54",6
+E000874,2024-09-05,2024-08-28,Buenos Aires,Rosario,oca,27.2,26448.55,8
+E000875,2025-01-29,2025-02-04,Salta,Buenos Aires,andreani,28.56,36136.91,6
+E000876,2025-07-08,2025-07-10,Tucuman,Rosario,oca,22.49,7670.05,2
+E000877,2025-08-29,07/09/2025,Buenos Aires,Bahia Blanca,andreani,16.42,56701.52,9
+E000878,2024-03-09,2024-03-16,Buenos Aires,Mendoza,correo_argentino,33.27,48914.74,7
+E000879,2025-07-22,2025-07-25,Buenos Aires,Rosario,mercado_envios,14.54,2637.32,3
+E000880,2024-04-17,2024-04-21,Tucuman,Buenos Aires,correo_argentino,25.7,55428.6,4
+E000881,2024-06-08,09/06/2024,Buenos Aires,Mendoza,oca,12.81,56596.1,1
+E000882,2024-03-20,2024-03-21,Rosario,Mendoza,OCA ,16.98,54238.01,1
+E000883,2024-03-06,2024-03-14,Mendoza,Buenos Aires,mercado_envios,14.43,40915.88,
+E000884,2024-11-16,2024-11-24,Cordoba,Salta,andreani,34.11,58002.65,8
+E000885,2025-04-14,2025-04-15,Buenos Aires,Cordoba,oca,23.86,10606.84,1
+E000886,2024-12-12,2024-12-16,Tucuman,Buenos Aires,andreani,5.57,16574.73,4
+E000887,2025-08-06,2025-08-15,Rosario,Mendoza,andreani,25.34,13362.41,9
+E000888,2025-03-02,2025-03-08,Salta,Buenos Aires,andreani,25.24,"18.037,56",6
+E000889,2024-05-12,2024-05-14,Cordoba,Salta,correo_argentino,9.68,47000.66,2
+E000890,2025-04-21,2025-04-27,Rosario,Salta,OCA,27.27,10911.17,6
+E000891,2025-01-18,2025-01-20,Rosario,Mendoza,oca,39.36,33415.94,2
+E002144,2024-10-27,2024-10-29,Salta,Cordoba,mercado_envios,39.7,49241.21,2
+E000892,2025-01-23,2025-01-24,Rosario,Buenos Aires,mercado_envios,20.43,51504.62,1
+E000893,2024-08-10,2024-08-19,Tucuman,Buenos Aires,correo_argentino,28.4,52673.65,9
+E000894,2024-07-07,2024-07-15,Tucuman,Rosario,andreani,24.6,28085.8,8
+E000895,2025-05-30,2025-06-02,Bahia Blanca,Rosario,correo_argentino,23.4,15520.87,3
+E000896,2024-01-11,2024-01-17,Tucuman,Rosario,CORREO_ARGENTINO,16.13,55549.33,6
+E000897,2025-03-24,2025-04-01,Rosario,Bahia Blanca,mercado_envios,14.24,50240.89,8
+E000898,2024-03-15,2024-03-17,Mendoza,Salta, OCA,1.76,20751.36,2
+E000899,2024-07-13,2024-07-18,Tucuman,Salta,andreani,14.57,59105.52,5
+E000900,18/04/2024,2024-04-23,Mendoza,Cordoba,mercado_envios,30.49,29922.72,5
+E000901,2025-10-19,2025-10-24,Bahia Blanca,Cordoba,oca,38.97,32667.72,5
+E000902,2024-06-06,2024-06-09,Buenos Aires,Cordoba,oca,18.32,54868.14,3
+E001061,2024-10-30,2024-11-01,Cordoba,Bahia Blanca,mercado_envios,-38.59,19539.57,2
+E000903,2024-05-01,2024-05-03,Mendoza,Buenos Aires,andreani,35.95,35961.38,2
+E000904,03/06/2025,2025-06-04,Tucuman,Cordoba,correo_argentino,15.88,25530.71,1
+E000905,2025-10-27,2025-10-28,Salta,Mendoza,mercado_envios,-23.89,5919.87,1
+E000906,2024-09-11,2024-09-14,Salta,Tucuman,mercado_envios,34.13,10859.13,3
+E000907,2025-12-08,2025-12-13,Cordoba,Buenos Aires,andreani,35.12,24724.54,5
+E000908,2024-08-06,2024-08-10,Salta,Mendoza,mercado_envios,25.63,28045.13,4
+E000909,2024-03-12,2024-03-16,Mendoza,Bahia Blanca,andreani,31.93,"45.270,03",4
+E000910,2025-04-25,2025-04-28,Cordoba,Rosario,oca,30.1,8395.59,3
+E000911,2024-09-08,2024-09-12,Mendoza,Cordoba,oca,35.9,7920.11,4
+E000912,2025-02-02,2025-02-08,Cordoba,Mendoza,andreani,33.5,4193.38,6
+E000913,2025-10-24,2025-11-02,Tucuman,Salta,mercado_envios,23.94,18563.98,9
+E000914,2024-01-22,2024-01-24,Salta,Mendoza,correo_argentino,11.19,33212.42,2
+E000915,2025-01-22,2025-01-24,Mendoza,Cordoba,correo_argentino,15.67,14721.72,2
+E000916,2025-11-18,2025-11-27,Mendoza,Rosario,mercado_envios,29.43,31705.54,
+E000917,2024-05-06,2024-05-15,Cordoba,Salta,oca,8.58,22567.07,9
+E000918,2024-11-24,01/12/2024,Bahia Blanca,Salta,andreani,28.54,32796.98,7
+E000919,2025-01-16,2025-01-15,Bahia Blanca,Buenos Aires,mercado_envios,16.53,10332.41,1
+E000920,2025-04-23,2025-04-25,Salta,Bahia Blanca,andreani,29.47,28020.95,2
+E000921,2024-08-18,2024-08-23,Tucuman,Rosario,MERCADO_ENVIOS,12.23,13393.3,5
+E000922,2025-03-29,2025-04-03,Buenos Aires,Salta,oca,-9.96,21288.35,5
+E000923,30/01/2024,2024-02-01,Mendoza,Tucuman,mercado_envios,7.78,59002.7,2
+E000924,2024-01-03,2024-01-08,Bahia Blanca,Buenos Aires,correo_argentino,16.68,56571.22,5
+E000925,2024-09-28,2024-09-30,Rosario,Tucuman,mercado_envios,13.93,29602.66,2
+E000926,2024-07-27,2024-08-02,Tucuman,Rosario,correo_argentino,14.99,32188.61,6
+E000927,2025-03-03,2025-03-09,Buenos Aires,Salta,mercado_envios,28.63,19393.31,6
+E000928,2024-04-08,2024-04-15,Salta,Buenos Aires,oca,5.07,10107.32,7
+E000929,2025-05-12,2025-05-20,Cordoba,Salta,mercado_envios,-36.19,25363.36,8
+E000930,17/05/2025,2025-05-20,Bahia Blanca,Cordoba,oca,1.71,25908.74,3
+E000931,05/02/2025,2025-02-10,Buenos Aires,Rosario,correo_argentino,18.82,13379.1,5
+E000932,2024-08-20,2024-08-29,Salta,Bahia Blanca,andreani,1.24,33837.65,9
+E000933,2024-09-23,2024-09-29,Cordoba,Rosario,correo_argentino,11.23,11596.45,6
+E000934,2025-06-21,30/06/2025,Salta,Mendoza,andreani,15.88,33278.82,9
+E000935,06/10/2024,2024-10-10,Cordoba,Rosario,correo_argentino,21.87,19899.44,4
+E000936,2025-05-25,2025-06-01,Tucuman,Salta,mercado_envios,33.27,35019.33,7
+E000937,2025-01-15,2025-01-19,Cordoba,Tucuman,andreani,11.46,"7.002,67",4
+E000938,2025-09-24,2025-09-29,Cordoba,Mendoza,oca,4.45,13274.19,5
+E000939,2024-02-02,2024-02-06,Rosario,Salta,oca,12.29,21489.71,4
+E000940,07/11/2024,2024-11-16,Rosario,Mendoza,mercado_envios,26.64,23058.38,9
+E000941,2024-11-26,2024-11-27,Rosario,Buenos Aires, MERCADO_ENVIOS,36.08,34085.24,1
+E000942,2025-03-18,2025-03-23,Cordoba,Buenos Aires,mercado_envios,36.78,6138.18,5
+E000943,2024-03-27,2024-04-04,Mendoza,Bahia Blanca,correo_argentino,26.4,12671.04,8
+E000944,2025-08-18,2025-08-24,Mendoza,Tucuman,oca,20.29,11757.26,6
+E000945,2025-02-17,2025-02-13,Mendoza,Salta,mercado_envios,1.97,20485.1,4
+E000946,2024-12-30,2024-12-31,Buenos Aires,Cordoba,andreani,35.27,41737.73,1
+E000947,2025-05-16,2025-05-25,Buenos Aires,Cordoba,oca,35.39,52371.13,9
+E000948,2024-10-10,17/10/2024,Cordoba,Bahia Blanca,correo_argentino,4.22,33967.42,7
+E000949,2025-12-07,2025-12-11,Buenos Aires,Rosario,mercado_envios,-18.4,47015.1,4
+E000950,25/04/2024,2024-04-28,Salta,Bahia Blanca,mercado_envios,30.64,13154.81,3
+E000951,2025-05-11,2025-05-16,Salta,Buenos Aires,oca,26.87,18050.18,5
+E000952,2025-01-03,2025-01-07,Mendoza,Salta,correo_argentino,38.29,57479.93,4
+E000953,2024-11-27,2024-12-04,Salta,Buenos Aires,oca,11.2,6400.87,
+E000954,2024-06-27,2024-07-04,Salta,Rosario,MERCADO_ENVIOS,7.97,57053.7,7
+E000955,2025-01-05,2025-01-14,Mendoza,Tucuman,oca,29.4,27967.63,9
+E000956,2025-11-20,2025-11-23,Cordoba,Bahia Blanca,mercado_envios,39.44,8505.12,3
+E000957,2024-10-01,2024-10-07,Mendoza,Cordoba,andreani,33.51,21229.5,6
+E000958,2025-03-24,2025-03-25,Salta,Bahia Blanca,andreani,9.15,8580.97,1
+E000959,2025-05-20,2025-05-23,Cordoba,Mendoza,correo_argentino,8.96,23252.93,3
+E000960,2025-06-30,2025-07-04,Cordoba,Buenos Aires,mercado_envios,15.83,4615.15,4
+E000961,2024-11-27,2024-12-06,Buenos Aires,Rosario,mercado_envios,17.99,30724.52,9
+E000962,2024-08-20,2024-08-25,Mendoza,Rosario,correo_argentino,32.41,20596.32,5
+E000963,2024-08-16,18/08/2024,Buenos Aires,Tucuman,correo_argentino,14.79,56700.36,2
+E000964,2025-01-04,2025-01-09,Rosario,Bahia Blanca,mercado_envios,2.58,41410.78,5
+E000965,2024-06-14,2024-06-19,Buenos Aires,Cordoba,oca,23.83,12666.88,5
+E000966,2024-12-05,06/12/2024,Tucuman,Cordoba,oca,24.51,42465.92,1
+E000967,2025-09-07,2025-09-15,Mendoza,Salta,oca,24.47,12153.77,8
+E000968,2025-09-14,2025-09-19,Buenos Aires,Salta,oca,11.12,19709.97,5
+E000969,2024-09-13,2024-09-17,Tucuman,Salta,mercado_envios,-35.9,38615.34,4
+E000970,2025-08-14,2025-08-20,Rosario,Tucuman,oca,1.4,31236.14,6
+E000971,2024-06-19,2024-06-21,Bahia Blanca,Cordoba,andreani,32.66,33330.42,2
+E000972,2025-10-12,2025-10-21,Mendoza,Buenos Aires,correo_argentino,37.34,4036.16,9
+E000973,2025-07-01,2025-07-05,Rosario,Salta,oca,7.84,31689.28,
+E000974,2025-02-20,2025-02-22,Rosario,Cordoba,andreani,19.21,7723.97,2
+E000975,2024-06-17,2024-06-19,Buenos Aires,Bahia Blanca,mercado_envios,8.67,27752.42,2
+E000976,2025-07-01,2025-07-04,Tucuman,Rosario,ANDREANI ,9.14,3181.48,3
+E000977,2024-02-15,2024-02-17,Bahia Blanca,Rosario,andreani,4.44,16092.75,2
+E000978,2024-07-06,2024-07-15,Tucuman,Cordoba,correo_argentino,16.89,26591.27,9
+E000979,29/04/2024,2024-05-01,Bahia Blanca,Rosario,mercado_envios,9.11,45377.4,2
+E000980,2024-06-24,2024-06-26,Salta,Rosario,andreani,18.3,8483.74,2
+E000981,11/03/2025,2025-03-12,Cordoba,Bahia Blanca,mercado_envios,31.39,9909.85,1
+E000982,2025-09-10,2025-09-08,Cordoba,Tucuman,andreani,5.56,40683.06,2
+E000983,2024-04-15,2024-04-16,Rosario,Cordoba,correo_argentino,2.95,43649.12,1
+E000984,2024-08-12,2024-08-18,Rosario,Tucuman,correo_argentino,39.88,9994.68,
+E000985,2025-11-30,2025-12-08,Mendoza,Bahia Blanca,mercado_envios,30.73,56441.57,8
+E000986,2024-12-27,2025-01-03,Mendoza,Buenos Aires,andreani,20.54,8136.68,7
+E000987,2024-07-29,2024-07-31,Rosario,Cordoba,mercado_envios,32.41,59225.18,2
+E000988,2025-06-18,2025-06-19,Mendoza,Tucuman,mercado_envios,34.32,11783.82,1
+E000989,30/04/2025,2025-05-01,Mendoza,Bahia Blanca,correo_argentino,39.84,35707.76,1
+E000990,2024-05-03,2024-05-04,Salta,Mendoza,oca,15.42,"15.407,28",1
+E000991,2025-06-29,2025-07-04,Tucuman,Buenos Aires,andreani,18.54,39638.68,5
+E000992,2025-02-15,2025-02-19,Bahia Blanca,Cordoba,correo_argentino,10.31,12328.5,4
+E000993,2024-01-18,2024-01-23,Cordoba,Rosario,oca,19.14,9760.75,
+E000994,2024-09-04,2024-09-08,Cordoba,Buenos Aires,correo_argentino,0.35,50572.69,
+E000995,08/02/2025,2025-02-13,Bahia Blanca,Rosario,correo_argentino,4.66,36525.73,5
+E000996,2024-08-22,2024-08-23,Cordoba,Rosario,mercado_envios,28.43,13233.1,1
+E000997,2025-02-16,2025-02-24,Tucuman,Cordoba,andreani,24.03,28734.75,8
+E000998,2024-12-02,2024-12-05,Mendoza,Tucuman,andreani,3.99,26879.48,3
+E000999,2025-11-24,2025-11-29,Bahia Blanca,Mendoza,correo_argentino,12.61,8474.13,5
+E001000,2024-04-22,2024-04-26,Rosario,Buenos Aires,correo_argentino,10.45,48791.4,4
+E001001,2025-01-27,2025-02-03,Bahia Blanca,Mendoza,andreani,10.08,40199.24,7
+E001002,2025-09-04,2025-09-13,Cordoba,Mendoza,correo_argentino,21.45,59028.14,9
+E001003,2025-11-07,2025-11-09,Rosario,Bahia Blanca,oca,38.66,30915.88,2
+E001004,2024-11-15,2024-11-23,Rosario,Cordoba,mercado_envios,4.35,43288.95,8
+E001005,2024-02-14,2024-02-17,Salta,Bahia Blanca,oca,36.93,33396.11,3
+E001006,2024-04-08,2024-04-09,Cordoba,Salta,mercado_envios,18.19,3336.54,
+E001007,2025-02-12,2025-02-10,Cordoba,Salta,andreani,36.65,4382.49,2
+E001008,2024-10-31,2024-11-06,Cordoba,Buenos Aires,ANDREANI ,8.1,9795.87,6
+E000581,2024-04-02,2024-04-05,Salta,Bahia Blanca,andreani,-30.96,27597.91,3
+E001009,2025-09-26,2025-09-28,Bahia Blanca,Buenos Aires,mercado_envios,39.89,29384.3,2
+E001010,2024-12-13,2024-12-20,Salta,Cordoba,mercado_envios,3.19,"13.144,28",7
+E001011,2024-07-05,2024-07-08,Mendoza,Rosario, MERCADO_ENVIOS,39.52,58261.1,3
+E001012,2024-08-11,2024-08-15,Bahia Blanca,Salta,correo_argentino,22.37,59631.62,4
+E001013,2024-11-24,2024-11-26,Bahia Blanca,Salta,andreani,23.1,49867.32,2
+E001014,2024-03-15,2024-03-20,Buenos Aires,Rosario,andreani,-9.47,33380.67,5
+E001015,14/05/2025,2025-05-22,Tucuman,Rosario,oca,39.67,59006.12,8
+E001016,2024-08-15,2024-08-20,Salta,Mendoza,oca,26.57,13001.93,5
+E001017,24/02/2024,2024-03-03,Salta,Mendoza,oca,17.43,58224.42,8
+E001018,2025-06-22,2025-06-23,Tucuman,Bahia Blanca, MERCADO_ENVIOS,7.33,38380.91,1
+E001019,2025-08-10,2025-08-19,Cordoba,Buenos Aires,mercado_envios,-7.15,27337.35,9
+E001020,2025-12-16,2025-12-23,Buenos Aires,Salta,OCA ,22.34,26922.03,7
+E001021,2024-07-13,2024-07-14,Buenos Aires,Cordoba,andreani,39.22,39114.18,1
+E001022,2024-08-13,2024-08-21,Buenos Aires,Cordoba,correo_argentino,1.17,17661.43,8
+E001023,2025-07-14,2025-07-23,Tucuman,Rosario,andreani,29.44,"36.446,01",9
+E001024,2025-01-01,2025-01-02,Bahia Blanca,Buenos Aires,correo_argentino,38.98,50342.9,1
+E001025,2024-11-24,2024-11-27,Buenos Aires,Mendoza,correo_argentino,5.8,5899.27,3
+E001026,2024-11-23,2024-11-28,Rosario,Buenos Aires,oca,16.19,11279.84,
+E001027,2025-04-01,2025-04-02,Mendoza,Tucuman,correo_argentino,30.96,23625.18,1
+E001028,2024-03-01,2024-03-07,Tucuman,Bahia Blanca,andreani,30.55,44376.16,6
+E001029,2025-02-09,2025-02-05,Cordoba,Salta,mercado_envios,24.47,52949.0,4
+E001030,2025-08-25,2025-09-01,Cordoba,Rosario,oca,35.16,32311.05,7
+E001031,2024-02-28,2024-02-29,Mendoza,Salta,andreani,39.4,10119.72,1
+E001032,2024-02-22,2024-03-02,Rosario,Buenos Aires,andreani,15.68,37765.9,
+E001033,2025-03-05,2025-03-07,Tucuman,Cordoba,andreani,11.33,52947.96,2
+E001034,2024-01-29,2024-02-02,Bahia Blanca,Rosario,mercado_envios,9.37,49513.4,4
+E001035,2025-08-22,2025-08-23,Cordoba,Salta,mercado_envios,18.34,39752.21,1
+E001036,2024-08-27,2024-08-30,Cordoba,Bahia Blanca,ANDREANI ,22.91,25020.14,3
+E001037,2024-12-15,2024-12-22,Buenos Aires,Cordoba,andreani,5.27,8978.17,
+E001038,2025-11-06,07/11/2025,Buenos Aires,Salta,andreani,14.39,27147.11,1
+E001039,2025-02-24,2025-03-04,Bahia Blanca,Tucuman,oca,0.74,5357.39,8
+E001040,2025-12-25,2025-12-26,Salta,Buenos Aires,oca,29.56,17906.9,1
+E001041,2025-09-06,2025-09-08,Mendoza,Tucuman,correo_argentino,0.58,16017.02,
+E001042,2025-06-24,2025-06-26,Buenos Aires,Rosario,correo_argentino,27.46,8379.41,2
+E001043,2024-12-30,2025-01-05,Cordoba,Bahia Blanca, OCA,17.15,50924.46,6
+E001044,2024-07-30,2024-08-02,Salta,Cordoba,correo_argentino,5.26,17247.91,3
+E001045,28/01/2025,2025-02-01,Buenos Aires,Salta,correo_argentino,26.51,15272.53,4
+E001046,2024-12-13,2024-12-21,Rosario,Cordoba,CORREO_ARGENTINO,2.71,52444.45,8
+E001047,2025-05-09,2025-05-18,Cordoba,Buenos Aires,OCA,35.44,6360.26,9
+E001048,23/09/2024,2024-10-02,Tucuman,Buenos Aires,mercado_envios,36.75,13874.62,9
+E001049,2024-02-28,2024-03-06,Salta,Buenos Aires,mercado_envios,28.32,32305.36,7
+E001050,09/01/2025,2025-01-12,Rosario,Buenos Aires,mercado_envios,34.96,48324.6,3
+E001051,2025-10-02,2025-09-26,Buenos Aires,Cordoba,mercado_envios,29.27,51608.72,6
+E001052,2024-06-25,2024-07-01,Mendoza,Bahia Blanca,correo_argentino,35.42,46703.49,6
+E001053,2025-10-07,2025-10-11,Mendoza,Tucuman,andreani,25.36,43663.86,4
+E001054,30/04/2025,2025-05-07,Salta,Buenos Aires,andreani,16.16,50617.06,7
+E001055,2025-05-12,2025-05-21,Tucuman,Salta,correo_argentino,7.27,6163.21,9
+E001056,2025-02-22,2025-02-26,Rosario,Tucuman,correo_argentino,37.81,56811.15,4
+E001057,2025-12-20,2025-12-25,Rosario,Bahia Blanca,oca,18.15,37289.71,5
+E001058,2025-09-10,2025-09-17,Tucuman,Bahia Blanca,andreani,27.61,13831.75,7
+E001059,2024-12-10,2024-12-12,Salta,Buenos Aires,oca,6.88,44789.93,2
+E001060,2024-05-10,2024-05-16,Rosario,Tucuman,oca,1.42,42210.69,6
+E001061,2024-10-30,2024-11-01,Cordoba,Bahia Blanca,mercado_envios,-38.59,19539.57,2
+E001062,2025-04-30,2025-05-08,Tucuman,Rosario,OCA ,2.24,24390.12,8
+E001063,2025-04-12,2025-04-20,Rosario,Mendoza,mercado_envios,39.09,5865.58,8
+E001064,2025-08-31,2025-09-03,Mendoza,Bahia Blanca,correo_argentino,6.77,52107.88,3
+E001065,2025-03-18,2025-03-20,Buenos Aires,Tucuman,oca,10.46,33386.73,2
+E001066,2024-06-13,14/06/2024,Tucuman,Buenos Aires,andreani,37.77,56099.28,1
+E001067,22/08/2024,2024-08-25,Cordoba,Rosario,correo_argentino,34.63,42875.46,3
+E001068,2025-09-07,2025-09-15,Cordoba,Salta,correo_argentino,37.55,48000.5,8
+E001069,2024-06-01,2024-06-06,Rosario,Bahia Blanca, CORREO_ARGENTINO,38.11,47371.73,5
+E001070,2024-11-02,2024-11-06,Bahia Blanca,Salta,correo_argentino,4.66,35122.64,
+E001071,2025-11-27,28/11/2025,Mendoza,Rosario,mercado_envios,4.23,35437.31,1
+E001969,2025-05-30,2025-06-08,Buenos Aires,Bahia Blanca,mercado_envios,28.34,32754.46,9
+E001072,25/07/2024,2024-08-02,Salta,Mendoza,mercado_envios,38.7,26507.02,8
+E001073,2025-06-09,2025-06-13,Buenos Aires,Rosario,correo_argentino,16.72,7118.76,4
+E001074,2024-12-12,2024-12-15,Buenos Aires,Tucuman,andreani,3.11,17197.27,3
+E001690,2025-02-06,2025-02-15,Rosario,Mendoza,oca,4.64,24933.58,9
+E001075,2024-11-30,2024-12-02,Bahia Blanca,Cordoba,correo_argentino,4.35,57628.59,2
+E001076,2025-09-23,2025-10-01,Cordoba,Rosario,andreani,14.25,31441.54,8
+E001077,23/02/2024,2024-02-29,Tucuman,Mendoza,mercado_envios,6.22,49860.63,6
+E001078,2025-01-19,28/01/2025,Rosario,Cordoba,oca,7.69,43594.19,9
+E001079,2025-07-08,2025-07-12,Tucuman,Salta,correo_argentino,13.23,35856.09,4
+E001080,2025-09-04,2025-09-09,Buenos Aires,Rosario,CORREO_ARGENTINO ,6.71,14700.63,5
+E001081,2024-11-03,2024-11-12,Rosario,Tucuman,andreani,0.77,"31.955,76",9
+E001082,2025-03-27,2025-03-29,Tucuman,Cordoba,correo_argentino,30.42,"50.322,27",2
+E001083,2024-01-25,2024-01-27,Mendoza,Buenos Aires,andreani,25.74,6550.97,2
+E001084,18/08/2025,2025-08-20,Salta,Cordoba,andreani,38.93,48856.23,2
+E001085,2025-05-17,2025-05-26,Mendoza,Cordoba,mercado_envios,38.18,49681.46,9
+E001086,2024-07-03,2024-07-12,Rosario,Buenos Aires,oca,14.6,5007.2,9
+E001087,2024-08-18,2024-08-21,Mendoza,Bahia Blanca,MERCADO_ENVIOS ,32.41,57905.08,3
+E001088,2024-07-19,2024-07-25,Rosario,Tucuman,mercado_envios,29.03,51389.54,6
+E001089,28/07/2025,2025-08-02,Cordoba,Mendoza,correo_argentino,35.32,29433.23,5
+E001090,2024-07-01,2024-07-10,Cordoba,Tucuman,mercado_envios,35.8,40050.34,9
+E001091,2025-09-12,2025-09-13,Salta,Rosario,oca,13.97,55922.08,1
+E001092,2024-01-20,2024-01-22,Mendoza,Buenos Aires,andreani,9.41,8157.36,2
+E001093,2025-12-20,24/12/2025,Mendoza,Buenos Aires,correo_argentino,25.96,20030.78,4
+E001094,2025-09-15,2025-09-21,Salta,Tucuman,correo_argentino,4.78,2706.71,6
+E001095,2025-10-02,2025-10-11,Rosario,Buenos Aires,oca,12.64,"34.969,43",9
+E001096,2025-01-29,2025-02-02,Salta,Tucuman,correo_argentino,11.67,42525.75,4
+E001097,2025-01-28,2025-02-05,Salta,Cordoba,MERCADO_ENVIOS ,10.43,31342.9,8
+E001098,2025-04-09,2025-04-11,Mendoza,Bahia Blanca,oca,11.72,12223.75,2
+E001099,2025-02-03,2025-02-12,Buenos Aires,Cordoba,andreani,27.05,44472.1,9
+E001100,2024-10-23,31/10/2024,Bahia Blanca,Tucuman,correo_argentino,28.32,35903.28,8
+E001101,2024-10-24,2024-11-02,Cordoba,Bahia Blanca,oca,17.14,22783.78,9
+E001102,02/11/2025,2025-11-07,Tucuman,Mendoza,correo_argentino,21.8,28904.97,5
+E001103,2024-07-26,2024-07-20,Buenos Aires,Mendoza,andreani,2.88,32268.88,6
+E001104,2025-08-03,2025-07-26,Cordoba,Tucuman,correo_argentino,8.28,7318.92,8
+E001105,2025-01-10,2025-01-13,Tucuman,Cordoba,mercado_envios,25.72,34439.24,3
+E001106,2025-10-27,2025-10-30,Mendoza,Bahia Blanca,andreani,18.46,34299.47,3
+E001107,2024-11-20,2024-11-27,Buenos Aires,Tucuman,andreani,31.39,30045.7,7
+E001108,2024-10-27,2024-11-03,Cordoba,Bahia Blanca,andreani,18.2,34639.21,7
+E001109,2024-01-05,2024-01-14,Tucuman,Rosario,correo_argentino,31.74,14255.69,
+E001110,2025-05-20,28/05/2025,Cordoba,Bahia Blanca,andreani,16.17,54107.66,8
+E001111,12/10/2025,2025-10-19,Tucuman,Mendoza,oca,28.64,24462.09,7
+E001112,2024-01-28,2024-02-03,Salta,Tucuman,andreani,39.29,3694.41,6
+E001113,2025-03-27,2025-04-04,Buenos Aires,Salta,mercado_envios,30.07,24839.54,8
+E001114,2025-02-15,2025-02-14,Rosario,Cordoba,mercado_envios,31.65,51458.35,1
+E001115,2025-08-16,2025-08-21,Cordoba,Mendoza,mercado_envios,-9.01,45523.83,5
+E001116,2024-01-29,2024-02-07,Bahia Blanca,Tucuman,correo_argentino,22.79,36817.72,9
+E001117,2025-11-30,2025-12-09,Rosario,Salta,correo_argentino,32.76,"38.966,69",9
+E001118,20/11/2024,2024-11-22,Mendoza,Cordoba,oca,34.96,15816.57,2
+E001119,2024-06-15,2024-06-20,Rosario,Mendoza,mercado_envios,17.34,20841.98,5
+E001120,2024-05-28,2024-05-31,Rosario,Bahia Blanca,oca,-32.92,8886.26,3
+E001121,2024-01-19,2024-01-21,Mendoza,Bahia Blanca,correo_argentino,3.83,29174.66,2
+E001122,2024-06-19,2024-06-24,Tucuman,Buenos Aires, CORREO_ARGENTINO,25.66,48148.36,5
+E001123,2024-02-13,2024-02-19,Cordoba,Bahia Blanca,andreani,36.53,47317.26,6
+E001124,2024-07-01,2024-07-05,Tucuman,Rosario,correo_argentino,25.53,32635.64,4
+E001125,2025-06-20,2025-06-24,Mendoza,Bahia Blanca,mercado_envios,3.78,10658.2,4
+E001126,2024-03-03,2024-03-04,Rosario,Cordoba,correo_argentino,26.09,20195.6,1
+E001127,2025-03-02,2025-03-08,Mendoza,Cordoba,andreani,4.31,6720.86,6
+E001128,2025-01-19,2025-01-28,Salta,Buenos Aires,oca,5.56,31272.46,
+E000027,2025-10-26,2025-11-04,Mendoza,Buenos Aires,mercado_envios,-13.21,3043.05,9
+E001129,2025-01-17,2025-01-24,Cordoba,Buenos Aires,correo_argentino,28.88,27971.85,7
+E001130,2025-12-16,2025-12-19,Tucuman,Mendoza,correo_argentino,33.92,8634.1,3
+E001131,2024-07-28,2024-08-03,Rosario,Cordoba,andreani,27.07,53761.77,6
+E001132,2025-04-20,2025-04-25,Buenos Aires,Cordoba,andreani,32.73,26782.49,5
+E001133,2025-05-09,2025-05-10,Salta,Mendoza,andreani,19.99,46497.95,1
+E001134,2025-03-01,2025-03-07,Bahia Blanca,Salta,oca,1.44,37575.32,6
+E001443,2024-02-26,2024-02-28,Mendoza,Bahia Blanca,andreani,7.85,45213.88,2
+E001135,2025-07-12,2025-07-20,Cordoba,Tucuman,correo_argentino,9.83,45669.2,8
+E001136,2025-12-15,2025-12-12,Buenos Aires,Bahia Blanca,andreani,31.15,10267.08,3
+E001137,2025-04-25,2025-04-30,Bahia Blanca,Cordoba,andreani,10.26,45250.11,5
+E001138,2024-01-24,2024-02-02,Mendoza,Tucuman,correo_argentino,21.69,23782.89,9
+E001139,04/03/2024,2024-03-09,Mendoza,Tucuman,oca,17.61,19320.07,5
+E001140,2024-08-10,2024-08-17,Buenos Aires,Rosario,oca,37.85,57662.02,7
+E001141,2025-02-08,11/02/2025,Rosario,Tucuman,andreani,23.03,25688.59,3
+E001142,2024-12-11,2024-12-18,Buenos Aires,Cordoba,mercado_envios,5.55,"56.326,54",7
+E001143,2024-10-27,2024-10-28,Salta,Bahia Blanca,mercado_envios,13.86,27947.8,1
+E001144,2025-04-01,2025-04-05,Rosario,Bahia Blanca,oca,11.36,55250.58,4
+E001145,2024-04-11,2024-04-19,Tucuman,Bahia Blanca,oca,6.03,54409.25,8
+E001146,2024-05-02,2024-05-07,Bahia Blanca,Buenos Aires,oca,18.41,59508.71,5
+E001147,2024-04-10,2024-04-15,Cordoba,Tucuman,MERCADO_ENVIOS ,13.5,49684.04,5
+E001148,2025-02-26,2025-03-07,Mendoza,Tucuman,correo_argentino,-33.02,30245.15,9
+E001149,05/01/2024,2024-01-13,Tucuman,Buenos Aires,correo_argentino,9.27,3237.91,8
+E001150,2024-04-23,2024-04-25,Salta,Buenos Aires,andreani,35.42,56216.79,2
+E001151,2025-04-08,13/04/2025,Mendoza,Buenos Aires,correo_argentino,38.99,22277.16,5
+E001152,2024-01-07,2024-01-15,Cordoba,Bahia Blanca,CORREO_ARGENTINO,13.21,38888.78,8
+E001153,2024-01-12,2024-01-19,Cordoba,Bahia Blanca,oca,31.87,"47.270,55",7
+E001154,2024-10-15,2024-10-21,Cordoba,Salta,correo_argentino,39.69,34632.77,6
+E001155,2025-02-23,2025-03-03,Cordoba,Tucuman,oca,2.25,10271.75,8
+E001156,2025-04-24,2025-05-03,Cordoba,Rosario,correo_argentino,18.55,13100.67,9
+E001157,2025-11-24,2025-11-27,Rosario,Salta,andreani,-14.61,8695.18,3
+E001158,2024-02-04,2024-02-11,Mendoza,Buenos Aires,mercado_envios,28.46,58212.33,7
+E001159,2024-06-10,2024-06-06,Cordoba,Rosario,oca,34.47,5237.72,4
+E001160,2024-10-01,2024-10-07,Mendoza,Bahia Blanca,correo_argentino,33.48,53577.49,6
+E001161,2025-10-10,2025-10-16,Cordoba,Buenos Aires,andreani,1.91,38477.63,6
+E001162,2024-06-14,2024-06-21,Tucuman,Buenos Aires, OCA,11.79,34761.58,7
+E001163,2025-06-23,2025-06-25,Bahia Blanca,Salta,correo_argentino,24.04,41247.74,2
+E001164,2024-08-10,2024-08-13,Salta,Tucuman,correo_argentino,15.28,32917.5,3
+E001165,2024-03-13,2024-03-16,Cordoba,Rosario,correo_argentino,4.12,23855.78,3
+E001166,2024-09-30,2024-10-07,Rosario,Mendoza,mercado_envios,30.67,8459.47,7
+E001167,2025-10-15,2025-10-17,Bahia Blanca,Tucuman,mercado_envios,30.07,21519.0,2
+E001168,2024-10-24,29/10/2024,Mendoza,Bahia Blanca,mercado_envios,35.06,39517.84,5
+E001169,2025-03-31,04/04/2025,Rosario,Salta,correo_argentino,36.2,40514.53,4
+E001170,2025-02-09,2025-02-15,Mendoza,Buenos Aires,oca,10.83,"41.403,15",6
+E001171,2024-05-11,2024-05-17,Rosario,Tucuman,andreani,1.35,31581.55,6
+E000021,2024-08-10,2024-08-14,Mendoza,Rosario,correo_argentino,7.42,7868.5,4
+E001172,2025-10-03,2025-10-04,Cordoba,Bahia Blanca,andreani,29.24,22156.13,1
+E001173,2024-01-02,10/01/2024,Salta,Tucuman,mercado_envios,15.81,5494.28,8
+E001174,2025-02-03,2025-02-06,Bahia Blanca,Mendoza,mercado_envios,16.35,50298.05,3
+E001175,2024-05-20,25/05/2024,Tucuman,Mendoza,correo_argentino,15.78,44956.21,5
+E001176,2025-05-13,2025-05-22,Mendoza,Salta,correo_argentino,10.15,33407.44,9
+E001177,2025-11-01,10/11/2025,Tucuman,Salta,correo_argentino,7.92,48880.4,9
+E001178,2025-04-11,2025-04-14,Rosario,Tucuman,oca,16.99,58552.77,3
+E001179,2025-01-21,2025-01-30,Salta,Cordoba,andreani,20.33,"38.707,44",9
+E001180,2024-10-13,2024-10-20,Tucuman,Buenos Aires,mercado_envios,28.1,12399.23,7
+E001181,2025-02-01,2025-01-26,Salta,Cordoba,andreani,2.14,3429.38,6
+E001182,2025-09-19,2025-09-20,Bahia Blanca,Salta,andreani,32.79,23868.73,1
+E001183,2024-07-10,2024-07-12,Tucuman,Cordoba,oca,24.99,31882.69,2
+E001184,2024-07-29,2024-08-02,Cordoba,Rosario,correo_argentino,8.81,41883.54,4
+E001185,2024-03-15,19/03/2024,Salta,Mendoza,correo_argentino,27.9,56240.26,4
+E001186,2024-09-20,2024-09-27,Salta,Mendoza,oca,5.05,58046.93,7
+E001187,2024-05-02,2024-05-07,Mendoza,Rosario,mercado_envios,28.44,"23.088,11",5
+E001188,2024-02-16,2024-02-25,Cordoba,Mendoza,andreani,10.12,33684.94,9
+E001189,2024-11-12,2024-11-20,Mendoza,Tucuman,oca,32.45,15663.06,8
+E001190,2025-08-18,2025-08-20,Bahia Blanca,Salta,andreani,26.63,36835.73,2
+E001191,2025-09-22,2025-09-24,Rosario,Salta,mercado_envios,28.45,8119.65,2
+E001192,2024-06-06,2024-06-15,Tucuman,Buenos Aires, MERCADO_ENVIOS,35.13,17383.35,9
+E001193,2024-09-21,2024-09-27,Salta,Bahia Blanca,andreani,29.67,36362.81,6
+E001194,15/07/2025,2025-07-18,Buenos Aires,Salta,mercado_envios,39.95,41872.59,3
+E001195,2025-07-21,2025-07-27,Rosario,Salta,mercado_envios,13.22,45580.73,6
+E001196,2024-07-16,2024-07-17,Bahia Blanca,Tucuman,andreani,5.86,20467.46,1
+E001197,2025-08-02,2025-08-11,Cordoba,Mendoza,MERCADO_ENVIOS ,17.41,5538.71,9
+E001198,06/12/2024,2024-12-14,Tucuman,Bahia Blanca,oca,11.87,50750.7,8
+E001199,2025-08-04,2025-08-05,Rosario,Mendoza,correo_argentino,7.54,6682.93,1
+E001200,2024-10-15,2024-10-17,Cordoba,Buenos Aires,ANDREANI ,37.87,16209.68,2
+E001201,2024-05-27,2024-06-03,Bahia Blanca,Buenos Aires,andreani,20.54,35782.39,7
+E001202,2024-02-20,2024-02-21,Tucuman,Buenos Aires,andreani,13.79,35100.18,1
+E001203,2024-07-22,2024-07-31,Mendoza,Salta,oca,26.44,15903.85,
+E001204,2025-03-10,2025-03-19,Buenos Aires,Bahia Blanca,correo_argentino,30.34,56484.1,9
+E001205,2025-11-13,2025-11-04,Bahia Blanca,Cordoba,correo_argentino,39.3,21334.31,9
+E001206,23/02/2025,2025-03-04,Tucuman,Salta,mercado_envios,35.69,11617.81,9
+E001207,2025-08-11,2025-08-17,Salta,Bahia Blanca,correo_argentino,13.62,"50.662,84",6
+E001208,2024-11-06,2024-11-15,Tucuman,Salta,mercado_envios,26.66,41694.64,9
+E001209,2025-07-29,2025-08-07,Salta,Mendoza,mercado_envios,27.88,29338.51,9
+E001210,2025-03-20,2025-03-28,Tucuman,Salta,mercado_envios,34.24,27169.21,8
+E001211,2024-01-16,2024-01-18,Cordoba,Buenos Aires,mercado_envios,8.2,13434.26,2
+E001782,2025-06-17,2025-06-25,Cordoba,Bahia Blanca,correo_argentino,4.29,30721.96,8
+E001212,2024-02-06,2024-02-10,Salta,Rosario,oca,33.16,42408.39,4
+E002362,2024-07-26,2024-07-27,Mendoza,Cordoba,correo_argentino,5.34,45018.75,
+E001213,2024-02-28,2024-03-07,Rosario,Tucuman,correo_argentino,24.52,14856.76,
+E001214,2024-08-08,17/08/2024,Mendoza,Salta,oca,32.08,58703.34,9
+E001215,2025-09-02,2025-09-10,Cordoba,Buenos Aires,mercado_envios,5.81,37352.02,8
+E001216,2024-01-14,2024-01-17,Mendoza,Buenos Aires,mercado_envios,8.51,21156.14,
+E001217,2024-11-16,2024-11-21,Tucuman,Mendoza,andreani,30.22,49671.15,5
+E001218,2025-06-10,2025-06-19,Tucuman,Salta,andreani,4.31,34820.87,9
+E001219,2025-08-25,2025-09-01,Bahia Blanca,Salta,andreani,27.84,12319.12,7
+E001220,2025-06-13,17/06/2025,Buenos Aires,Rosario,andreani,33.48,32685.78,4
+E001221,2024-11-18,2024-11-22,Salta,Rosario,oca,33.32,31943.11,4
+E001222,2024-04-27,2024-04-29,Cordoba,Salta,andreani,23.33,10274.07,2
+E001223,2025-01-01,2025-01-10,Buenos Aires,Tucuman,andreani,6.54,10783.9,9
+E001224,2024-07-03,2024-07-05,Cordoba,Tucuman,correo_argentino,34.77,20903.24,2
+E001225,2025-04-15,2025-04-20,Mendoza,Buenos Aires,mercado_envios,10.97,40675.66,5
+E001226,2024-08-05,2024-08-08,Rosario,Bahia Blanca,correo_argentino,27.95,53202.24,3
+E001227,2024-09-19,2024-09-27,Bahia Blanca,Salta,correo_argentino,31.45,26551.27,8
+E001228,2025-06-28,2025-07-07,Rosario,Tucuman,correo_argentino,-26.44,27448.06,9
+E000091,2024-06-27,2024-07-01,Buenos Aires,Cordoba,andreani,18.27,4790.59,4
+E001229,2024-11-10,2024-11-19,Cordoba,Bahia Blanca,andreani,35.03,31492.26,
+E001230,2024-02-19,2024-02-25,Bahia Blanca,Cordoba,oca,25.25,8388.54,6
+E001231,2025-04-29,2025-05-01,Cordoba,Buenos Aires,mercado_envios,6.58,57122.25,2
+E001232,2024-08-14,23/08/2024,Buenos Aires,Rosario,andreani,7.72,53543.68,9
+E000419,2024-02-11,2024-02-09,Mendoza,Tucuman,andreani,0.92,57178.23,2
+E001233,2024-08-13,2024-08-16,Cordoba,Mendoza,correo_argentino,15.18,21614.88,3
+E001234,2025-06-26,2025-06-30,Tucuman,Cordoba,andreani,23.46,21699.02,4
+E001235,2025-03-14,2025-03-21,Mendoza,Buenos Aires,mercado_envios,35.22,59829.93,7
+E001236,2025-11-25,2025-11-27,Bahia Blanca,Tucuman,oca,13.14,13910.43,2
+E001237,09/05/2024,2024-05-15,Rosario,Tucuman,correo_argentino,36.79,12996.8,6
+E001238,2025-01-29,2025-02-03,Buenos Aires,Bahia Blanca,oca,9.48,"4.317,71",5
+E001239,2025-10-27,2025-10-30,Bahia Blanca,Tucuman,correo_argentino,39.72,11423.51,3
+E001240,2025-01-01,2025-01-06,Mendoza,Bahia Blanca,correo_argentino,26.79,27067.9,5
+E001241,2024-12-10,2024-12-19,Bahia Blanca,Cordoba,oca,0.67,42471.44,9
+E001242,2024-02-17,2024-02-16,Cordoba,Buenos Aires,mercado_envios,19.03,39478.83,1
+E001243,2024-06-26,2024-07-03,Cordoba,Salta,andreani,38.33,33737.06,7
+E001244,25/08/2024,2024-09-01,Bahia Blanca,Buenos Aires,andreani,21.6,42482.21,7
+E001245,2024-09-17,2024-09-19,Bahia Blanca,Mendoza,andreani,3.46,22905.77,2
+E001246,2025-06-02,2025-06-04,Tucuman,Buenos Aires,andreani,-27.2,21206.72,2
+E001247,2024-03-11,2024-03-16,Mendoza,Tucuman,oca,39.01,2557.9,5
+E001248,2024-03-30,2024-04-02,Salta,Tucuman,mercado_envios,18.85,17723.63,3
+E001249,2025-11-14,2025-11-19,Tucuman,Rosario,andreani,19.45,19955.34,5
+E001250,2025-11-07,2025-11-13,Rosario,Bahia Blanca,correo_argentino,36.69,34267.18,6
+E001251,2024-05-07,2024-05-14,Buenos Aires,Mendoza,correo_argentino,6.84,40961.58,7
+E001252,2024-06-08,2024-06-13,Cordoba,Buenos Aires,mercado_envios,7.14,35318.65,5
+E001253,2025-03-30,2025-04-08,Cordoba,Tucuman,mercado_envios,24.12,3063.88,9
+E001254,2025-11-20,2025-11-27,Buenos Aires,Mendoza,mercado_envios,36.59,46202.5,7
+E001255,2025-08-16,2025-08-17,Tucuman,Rosario,mercado_envios,17.78,13478.21,1
+E001256,2025-06-13,2025-06-19,Bahia Blanca,Salta,andreani,10.74,40110.56,6
+E001257,2025-04-06,2025-04-13,Salta,Mendoza,correo_argentino,34.14,33641.33,7
+E001258,2025-11-29,2025-12-03,Rosario,Salta,andreani,25.11,13093.01,4
+E001259,2025-04-19,21/04/2025,Cordoba,Bahia Blanca,oca,11.98,48155.18,2
+E001260,2024-10-22,2024-10-27,Bahia Blanca,Tucuman,oca,35.9,12671.85,5
+E001261,2024-11-24,2024-11-25,Bahia Blanca,Rosario,oca,10.18,59306.75,1
+E001262,2025-06-10,2025-06-18,Mendoza,Buenos Aires,oca,5.65,58148.2,8
+E001263,2025-04-28,03/05/2025,Rosario,Buenos Aires,andreani,33.39,40334.38,5
+E001264,24/02/2024,2024-02-25,Salta,Tucuman,andreani,18.08,31070.85,1
+E001265,2025-08-17,2025-08-21,Buenos Aires,Bahia Blanca,mercado_envios,24.43,45702.01,4
+E001266,2024-12-02,2024-12-11,Buenos Aires,Cordoba,correo_argentino,34.04,54882.73,9
+E001267,2024-09-02,2024-09-06,Cordoba,Rosario, ANDREANI,34.98,24629.15,4
+E001268,26/03/2024,2024-03-31,Tucuman,Bahia Blanca,correo_argentino,8.88,50034.57,5
+E001269,2024-03-22,2024-03-25,Bahia Blanca,Tucuman,ANDREANI ,11.56,3647.87,3
+E001270,2024-11-21,2024-11-28,Cordoba,Tucuman,andreani,4.86,"23.653,46",7
+E001271,2024-03-21,2024-03-25,Mendoza,Salta,oca,20.08,15575.9,4
+E000963,2024-08-16,18/08/2024,Buenos Aires,Tucuman,correo_argentino,14.79,56700.36,2
+E001272,2024-06-18,2024-06-26,Cordoba,Mendoza,oca,6.05,31916.58,8
+E001273,2024-07-31,2024-08-04,Salta,Buenos Aires,andreani,-26.99,11718.03,4
+E001274,2024-08-14,2024-08-16,Salta,Cordoba,mercado_envios,16.81,9602.35,2
+E001275,2024-08-05,2024-08-13,Cordoba,Buenos Aires,andreani,24.07,52673.83,
+E001276,2025-10-03,2025-10-12,Rosario,Mendoza,correo_argentino,30.82,4239.92,9
+E001277,2025-04-30,2025-05-05,Rosario,Mendoza,mercado_envios,-14.52,46341.56,5
+E001278,2025-08-20,2025-08-29,Tucuman,Mendoza,oca,21.16,6092.6,9
+E001279,2024-11-24,2024-12-03,Mendoza,Rosario,oca,28.17,48036.84,9
+E000333,2025-06-26,2025-06-30,Salta,Rosario,correo_argentino,0.71,30929.54,4
+E001280,2025-08-17,2025-08-20,Mendoza,Tucuman,mercado_envios,16.76,"2.990,35",3
+E001281,2025-11-04,2025-11-08,Mendoza,Tucuman,andreani,7.27,3032.83,4
+E001282,2025-09-13,2025-09-17,Buenos Aires,Tucuman,correo_argentino,0.22,22440.79,4
+E001283,2025-02-16,2025-02-18,Mendoza,Bahia Blanca,mercado_envios,-11.1,2531.37,2
+E001284,2024-06-07,2024-06-15,Buenos Aires,Salta,OCA ,2.01,27748.43,8
+E001285,18/06/2025,2025-06-26,Salta,Cordoba,andreani,20.98,38376.44,8
+E001286,2024-06-21,29/06/2024,Mendoza,Rosario,andreani,7.55,49498.3,8
+E001287,2024-02-21,2024-02-25,Rosario,Salta,andreani,39.83,17575.37,4
+E001288,2025-06-16,2025-06-18,Tucuman,Buenos Aires,mercado_envios,38.09,10329.38,2
+E001289,2024-12-30,2025-01-05,Tucuman,Bahia Blanca,OCA ,2.68,32903.46,6
+E001290,18/12/2025,2025-12-25,Buenos Aires,Salta,mercado_envios,37.83,30549.94,7
+E001291,2025-08-16,2025-08-17,Rosario,Mendoza,correo_argentino,1.52,30145.22,1
+E001292,2024-12-01,2024-12-02,Mendoza,Buenos Aires,andreani,2.61,54637.54,1
+E001293,2024-06-29,2024-07-01,Mendoza,Buenos Aires,andreani,7.42,54451.52,
+E001294,30/04/2024,2024-05-04,Tucuman,Rosario,oca,36.34,58596.35,4
+E001295,2024-10-22,2024-10-26,Tucuman,Mendoza,OCA,25.68,38794.11,4
+E001296,2025-10-30,2025-11-02,Rosario,Bahia Blanca,MERCADO_ENVIOS ,24.62,22957.53,3
+E001297,2025-08-31,2025-09-06,Rosario,Buenos Aires,mercado_envios,18.8,48495.29,6
+E001298,2024-11-19,2024-11-22,Bahia Blanca,Salta,andreani,-3.11,53403.06,3
+E001299,2025-08-27,2025-09-05,Buenos Aires,Rosario,ANDREANI,16.39,9575.07,9
+E001300,2024-08-09,14/08/2024,Bahia Blanca,Salta,andreani,37.26,8680.24,5
+E001301,2025-02-08,2025-02-03,Salta,Bahia Blanca,oca,38.5,56894.29,5
+E001302,2025-11-06,2025-11-14,Mendoza,Bahia Blanca,CORREO_ARGENTINO,15.65,52709.12,8
+E001303,2025-02-01,2025-02-06,Buenos Aires,Rosario,correo_argentino,-27.39,7567.59,5
+E001304,2024-09-26,2024-10-04,Salta,Buenos Aires,correo_argentino,32.66,19780.91,
+E001305,2024-04-05,2024-04-08,Mendoza,Rosario,correo_argentino,8.07,59155.41,3
+E001306,24/01/2024,2024-01-26,Bahia Blanca,Cordoba,mercado_envios,4.9,20984.91,2
+E001307,2024-04-06,2024-04-07,Buenos Aires,Bahia Blanca,mercado_envios,29.54,12228.12,1
+E001308,2025-06-27,2025-07-06,Bahia Blanca,Salta,correo_argentino,-11.89,44465.6,9
+E001309,2024-09-12,2024-09-15,Salta,Rosario,oca,7.89,2572.08,3
+E001310,2024-02-13,2024-02-19,Buenos Aires,Mendoza,andreani,-30.22,18075.67,6
+E001311,2024-07-31,2024-08-03,Rosario,Bahia Blanca,mercado_envios,39.01,24909.7,3
+E001312,2025-06-18,2025-06-24,Bahia Blanca,Rosario,andreani,25.66,46666.66,6
+E001313,2025-05-29,2025-05-30,Mendoza,Salta,mercado_envios,13.61,32378.89,1
+E001314,2025-03-27,2025-04-05,Tucuman,Cordoba,ANDREANI ,13.42,33747.9,9
+E001315,20/02/2025,2025-03-01,Bahia Blanca,Cordoba,andreani,36.79,6847.68,9
+E001316,2024-02-21,2024-02-24,Buenos Aires,Rosario,oca,12.25,31118.45,3
+E001317,2025-07-21,2025-07-29,Bahia Blanca,Tucuman,MERCADO_ENVIOS,38.9,12069.75,8
+E001318,08/12/2024,2024-12-16,Cordoba,Buenos Aires,andreani,14.89,36717.81,8
+E000767,15/10/2024,2024-10-23,Salta,Rosario,oca,27.63,4120.18,8
+E001319,20/08/2025,2025-08-22,Tucuman,Cordoba,oca,7.49,47440.76,2
+E001320,2024-07-23,2024-07-26,Rosario,Mendoza,oca,7.82,39893.51,3
+E001321,2024-05-04,2024-05-09,Buenos Aires,Tucuman,andreani,21.73,48688.89,5
+E001322,2024-02-15,2024-02-21,Tucuman,Mendoza,correo_argentino,4.57,46226.48,6
+E001323,2025-12-18,2025-12-27,Mendoza,Cordoba,mercado_envios,39.51,57949.79,
+E001324,2025-06-06,2025-06-11,Mendoza,Cordoba,andreani,10.68,32762.15,5
+E001325,2024-04-15,2024-04-18,Buenos Aires,Bahia Blanca,mercado_envios,25.68,14834.13,3
+E001326,2024-07-05,2024-07-13,Rosario,Mendoza,mercado_envios,13.54,12980.83,8
+E001327,2025-10-26,2025-10-29,Bahia Blanca,Mendoza,andreani,19.03,15758.65,3
+E001328,2024-09-25,2024-09-28,Salta,Tucuman,correo_argentino,3.73,"49.672,77",3
+E001329,2025-06-24,2025-06-29,Rosario,Buenos Aires,mercado_envios,7.28,6094.93,5
+E001330,2024-06-29,2024-07-06,Rosario,Mendoza,correo_argentino,29.11,"44.825,29",7
+E001331,2025-10-02,2025-10-05,Rosario,Salta,correo_argentino,12.21,22142.06,3
+E001332,2025-12-24,2025-12-31,Buenos Aires,Salta,mercado_envios,-19.97,20598.8,7
+E001333,2025-10-19,2025-10-21,Rosario,Salta,CORREO_ARGENTINO,29.39,33691.75,2
+E001334,2024-03-14,2024-03-23,Salta,Cordoba,mercado_envios,21.32,41717.4,9
+E001335,2024-05-31,2024-06-07,Bahia Blanca,Cordoba,oca,9.73,29617.09,7
+E001336,2024-12-12,18/12/2024,Salta,Tucuman,oca,10.87,51873.72,6
+E001337,2025-05-18,2025-05-26,Buenos Aires,Mendoza,mercado_envios,18.49,"59.176,94",8
+E001338,2025-12-06,2025-12-10,Mendoza,Buenos Aires,correo_argentino,30.12,27053.49,4
+E001339,2024-04-11,2024-04-20,Tucuman,Buenos Aires,oca,13.96,5902.26,9
+E001340,26/08/2025,2025-08-28,Tucuman,Salta,mercado_envios,29.67,14260.77,2
+E001341,2025-06-11,2025-06-20,Rosario,Mendoza,andreani,24.07,49471.42,9
+E001342,06/05/2025,2025-05-08,Rosario,Bahia Blanca,oca,16.57,29645.66,2
+E001343,29/08/2025,2025-09-06,Cordoba,Mendoza,mercado_envios,26.41,28286.28,8
+E001344,2025-05-21,2025-05-30,Buenos Aires,Rosario,OCA,32.42,20900.82,9
+E000908,2024-08-06,2024-08-10,Salta,Mendoza,mercado_envios,25.63,28045.13,4
+E001345,2024-11-09,2024-11-18,Buenos Aires,Tucuman,oca,25.32,26861.3,9
+E001782,2025-06-17,2025-06-25,Cordoba,Bahia Blanca,correo_argentino,4.29,30721.96,8
+E001346,2025-01-17,2025-01-22,Rosario,Cordoba,mercado_envios,15.15,16849.61,5
+E001347,2025-05-03,2025-05-11,Salta,Cordoba,mercado_envios,-16.8,42152.65,8
+E001348,2024-01-14,2024-01-18,Buenos Aires,Rosario,oca,18.65,3740.07,4
+E001349,2024-11-21,2024-11-22,Cordoba,Mendoza,oca,34.2,43842.82,1
+E001350,2025-10-14,2025-10-23,Tucuman,Buenos Aires,andreani,23.22,21473.76,9
+E001351,2024-09-09,2024-09-14,Mendoza,Tucuman,correo_argentino,36.47,57796.79,5
+E001352,2025-07-09,2025-07-15,Mendoza,Buenos Aires,correo_argentino,10.67,44857.1,6
+E001353,2024-05-25,2024-05-27,Buenos Aires,Mendoza,mercado_envios,3.96,47565.03,2
+E001354,2024-02-28,2024-02-29,Salta,Mendoza,correo_argentino,10.2,22207.39,1
+E001355,2024-08-06,2024-08-15,Salta,Cordoba,oca,38.61,53706.99,9
+E001356,2025-02-26,2025-03-01,Mendoza,Tucuman,correo_argentino,21.51,24707.18,3
+E001357,2025-10-20,2025-10-22,Salta,Cordoba,correo_argentino,39.25,55627.72,2
+E001358,2025-01-30,2025-02-02,Buenos Aires,Mendoza,correo_argentino,36.66,53855.34,3
+E001359,2025-05-14,21/05/2025,Tucuman,Mendoza,correo_argentino,8.11,57497.72,7
+E001360,2024-05-12,19/05/2024,Mendoza,Salta,andreani,18.91,8617.02,7
+E001361,2024-02-15,2024-02-22,Bahia Blanca,Tucuman,correo_argentino,6.42,43556.07,
+E001362,05/05/2024,2024-05-10,Buenos Aires,Rosario,andreani,28.12,49809.64,5
+E001363,2025-02-19,2025-02-23,Rosario,Mendoza,andreani,8.24,35932.66,4
+E001364,2025-06-17,2025-06-20,Mendoza,Bahia Blanca,correo_argentino,28.23,49181.6,3
+E001365,2025-08-04,2025-08-10,Buenos Aires,Tucuman,mercado_envios,34.66,23755.24,6
+E001366,01/07/2024,2024-07-09,Mendoza,Bahia Blanca,mercado_envios,18.27,35400.62,8
+E001367,2025-08-12,2025-08-14,Tucuman,Mendoza,andreani,38.66,6096.25,2
+E001368,2024-12-01,2024-12-05,Buenos Aires,Bahia Blanca,mercado_envios,24.37,13072.19,4
+E001369,02/06/2025,2025-06-03,Tucuman,Buenos Aires,correo_argentino,15.01,20289.8,1
+E001370,2024-11-27,2024-12-04,Bahia Blanca,Salta,andreani,30.16,50137.5,
+E001371,2025-03-06,2025-03-07,Salta,Bahia Blanca,andreani,8.82,50320.9,1
+E001372,2025-10-07,2025-10-12,Bahia Blanca,Rosario,andreani,32.61,28222.74,5
+E000518,2025-12-05,2025-12-08,Rosario,Salta,oca,36.23,8480.53,3
+E001373,2024-01-15,2024-01-17,Buenos Aires,Bahia Blanca,mercado_envios,15.72,15548.16,2
+E001374,2024-03-17,2024-03-18,Mendoza,Buenos Aires,andreani,21.56,16815.63,1
+E001375,04/03/2025,2025-03-10,Bahia Blanca,Rosario,mercado_envios,16.53,9331.63,6
+E001376,2025-12-10,2025-12-18,Tucuman,Bahia Blanca,oca,33.81,9012.03,8
+E001377,2024-10-13,2024-10-19,Salta,Bahia Blanca,MERCADO_ENVIOS,33.4,39045.96,6
+E001378,2025-09-06,2025-09-08,Bahia Blanca,Rosario,correo_argentino,-12.03,39158.53,2
+E001379,2024-11-27,2024-12-02,Bahia Blanca,Salta,oca,11.74,33275.82,5
+E001380,2024-02-23,2024-03-02,Buenos Aires,Rosario,andreani,29.56,48682.28,8
+E001381,2025-03-19,2025-03-28,Rosario,Bahia Blanca,correo_argentino,37.59,36022.53,9
+E001382,2024-07-05,06/07/2024,Mendoza,Cordoba,mercado_envios,5.34,32780.31,1
+E001383,14/01/2025,2025-01-15,Rosario,Mendoza,andreani,27.72,4468.6,1
+E001384,2025-11-20,2025-11-24,Mendoza,Buenos Aires,correo_argentino,7.07,"7.858,12",4
+E001385,2025-12-18,2025-12-21,Buenos Aires,Salta,oca,1.53,13287.09,3
+E001386,2025-04-30,2025-05-03,Cordoba,Buenos Aires,OCA ,22.3,40798.71,3
+E001387,10/03/2024,2024-03-17,Mendoza,Tucuman,andreani,34.32,52858.48,7
+E001388,2024-02-07,2024-02-08,Bahia Blanca,Rosario,MERCADO_ENVIOS ,26.69,54397.91,1
+E001900,2024-07-07,2024-07-13,Buenos Aires,Salta,correo_argentino,24.84,58312.66,6
+E001389,2025-10-12,2025-10-13,Mendoza,Cordoba,andreani,39.85,51480.2,1
+E001390,26/11/2025,2025-11-29,Salta,Cordoba,oca,27.5,46294.77,3
+E001391,2025-03-27,2025-04-05,Buenos Aires,Tucuman,oca,5.46,37378.51,9
+E001392,16/12/2025,2025-12-21,Bahia Blanca,Rosario,andreani,0.23,42953.16,5
+E001393,2025-06-17,2025-06-22,Mendoza,Bahia Blanca,andreani,3.62,43384.95,5
+E000235,2024-10-24,2024-10-29,Mendoza,Buenos Aires,oca,24.0,29505.79,5
+E001394,2024-02-12,2024-02-18,Buenos Aires,Mendoza,oca,26.12,"55.431,58",6
+E001395,2024-11-03,2024-11-05,Tucuman,Mendoza,andreani,9.45,8744.34,2
+E001396,2025-09-11,2025-09-15,Tucuman,Buenos Aires,oca,13.54,18323.12,4
+E001397,2025-08-31,2025-09-02,Buenos Aires,Bahia Blanca,mercado_envios,11.83,34717.45,2
+E001398,2025-10-22,2025-10-23,Salta,Bahia Blanca,correo_argentino,-1.42,48643.1,1
+E001399,2025-12-24,2026-01-02,Bahia Blanca,Salta,andreani,21.08,59882.9,9
+E001400,2025-02-13,2025-02-20,Salta,Cordoba,mercado_envios,20.81,29990.31,7
+E001401,2025-05-07,2025-05-16,Rosario,Tucuman,andreani,8.25,22541.67,9
+E001402,06/06/2025,2025-06-15,Buenos Aires,Bahia Blanca,andreani,22.78,17856.21,9
+E001403,2024-06-11,2024-06-14,Mendoza,Salta,correo_argentino,19.06,54151.62,3
+E001404,2024-06-04,2024-06-06,Cordoba,Rosario,oca,32.21,9953.11,2
+E001405,2024-05-10,2024-05-17,Tucuman,Salta,correo_argentino,35.18,49540.69,7
+E001406,2024-04-29,01/05/2024,Mendoza,Cordoba,mercado_envios,19.95,48091.7,2
+E001407,2024-11-23,2024-12-01,Bahia Blanca,Tucuman,oca,10.42,56495.19,
+E001408,2024-02-26,2024-02-27,Rosario,Bahia Blanca,andreani,16.34,47128.21,1
+E001409,2024-04-16,2024-04-20,Rosario,Tucuman,andreani,11.01,39415.6,
+E001410,2024-09-18,2024-09-24,Tucuman,Bahia Blanca,correo_argentino,-20.0,23705.89,6
+E001411,2024-09-13,2024-09-14,Buenos Aires,Salta,oca,9.35,50613.92,1
+E001412,2025-12-09,2025-12-11,Salta,Mendoza,mercado_envios,11.32,5476.17,2
+E001413,2024-07-13,2024-07-19,Tucuman,Mendoza,correo_argentino,38.89,2610.0,6
+E001414,2024-06-09,2024-06-14,Rosario,Buenos Aires,mercado_envios,-18.71,55386.38,5
+E001415,2024-08-12,18/08/2024,Buenos Aires,Tucuman,andreani,39.84,25259.29,6
+E001416,2024-01-04,2024-01-05,Buenos Aires,Tucuman,andreani,4.3,22176.84,1
+E001417,2025-12-17,2025-12-26,Cordoba,Rosario,andreani,4.13,"53.136,21",9
+E001418,2024-11-12,2024-11-16,Buenos Aires,Cordoba,oca,5.8,9365.93,4
+E001419,2025-07-15,2025-07-17,Rosario,Salta,oca,36.52,31412.46,2
+E001420,17/04/2024,2024-04-18,Buenos Aires,Bahia Blanca,oca,29.15,36739.38,1
+E001421,2024-03-19,2024-03-24,Tucuman,Cordoba,mercado_envios,1.35,55878.27,5
+E001422,2025-03-06,2025-03-15,Cordoba,Salta,oca,15.96,17848.67,9
+E001423,2025-05-22,2025-05-17,Tucuman,Bahia Blanca,andreani,23.87,43748.97,5
+E001424,2024-03-07,2024-03-08,Bahia Blanca,Buenos Aires,andreani,0.33,58654.07,1
+E001425,2025-05-07,13/05/2025,Buenos Aires,Mendoza,andreani,23.2,16314.03,6
+E001426,2025-01-20,2025-01-28,Bahia Blanca,Buenos Aires,oca,18.85,44830.3,8
+E001427,2025-05-26,2025-05-29,Cordoba,Buenos Aires,correo_argentino,32.19,"50.666,79",3
+E001428,2025-11-06,2025-11-15,Bahia Blanca,Tucuman,correo_argentino,24.86,11714.2,9
+E001429,2025-09-24,2025-10-01,Cordoba,Tucuman,andreani,11.17,54072.24,7
+E001430,2024-10-29,2024-11-07,Tucuman,Bahia Blanca,oca,18.1,7365.44,
+E001431,2024-09-27,2024-10-05,Mendoza,Buenos Aires,mercado_envios,31.75,49392.25,8
+E001432,2025-02-04,09/02/2025,Bahia Blanca,Tucuman,oca,22.78,39015.5,5
+E001433,2024-11-03,2024-11-12,Bahia Blanca,Buenos Aires,oca,34.42,52861.56,9
+E001434,2024-11-15,2024-11-17,Cordoba,Rosario,andreani,12.93,17176.16,2
+E001435,2024-02-02,2024-02-08,Mendoza,Cordoba,mercado_envios,13.73,53214.63,6
+E001436,2025-06-28,2025-07-07,Salta,Cordoba,ANDREANI,32.68,6848.31,9
+E001437,18/01/2025,2025-01-27,Cordoba,Tucuman,andreani,28.18,29519.76,9
+E001438,2025-10-13,2025-10-16,Rosario,Buenos Aires,andreani,35.73,53482.1,3
+E001439,10/07/2024,2024-07-16,Salta,Bahia Blanca,oca,12.61,43146.84,6
+E001440,2025-05-16,2025-05-17,Cordoba,Rosario,oca,28.31,27485.84,1
+E001441,2024-08-24,2024-08-26,Mendoza,Bahia Blanca,andreani,32.53,22613.87,2
+E001442,2025-02-10,13/02/2025,Tucuman,Cordoba,mercado_envios,6.67,27665.22,3
+E001443,2024-02-26,2024-02-28,Mendoza,Bahia Blanca,andreani,7.85,45213.88,2
+E001444,2024-02-12,2024-02-21,Salta,Mendoza,oca,30.72,22380.64,9
+E001445,06/08/2024,2024-08-09,Rosario,Tucuman,andreani,25.15,28459.52,3
+E001446,2024-08-01,2024-08-10,Rosario,Cordoba,correo_argentino,23.69,49792.84,9
+E001447,2025-01-26,2025-02-04,Cordoba,Buenos Aires,mercado_envios,38.06,47329.89,9
+E001448,2024-09-03,2024-09-11,Rosario,Mendoza,correo_argentino,-4.95,20088.72,8
+E001449,2024-03-30,2024-03-31,Cordoba,Rosario,oca,3.65,35335.84,
+E001450,2024-11-21,2024-11-24,Tucuman,Cordoba, CORREO_ARGENTINO,21.35,41635.33,3
+E001451,2024-02-09,2024-02-11,Rosario,Buenos Aires,mercado_envios,38.44,30817.32,2
+E001452,20/07/2024,2024-07-21,Tucuman,Cordoba,oca,9.33,39129.93,1
+E001453,2024-03-18,2024-03-19,Mendoza,Tucuman,mercado_envios,12.61,"23.956,74",1
+E001454,2024-05-31,2024-06-08,Rosario,Salta,CORREO_ARGENTINO,11.53,39819.67,8
+E002025,2024-05-07,2024-05-15,Mendoza,Cordoba,oca,29.81,46057.39,8
+E001455,2025-09-16,2025-09-20,Tucuman,Rosario,correo_argentino,7.56,7605.41,4
+E001456,2024-05-15,2024-05-18,Buenos Aires,Mendoza,oca,31.49,58779.64,3
+E001457,2024-09-12,2024-09-21,Cordoba,Salta,andreani,-26.46,38797.12,9
+E001458,2025-09-22,2025-09-25,Salta,Mendoza,andreani,10.33,51058.16,3
+E001459,11/11/2024,2024-11-17,Tucuman,Mendoza,correo_argentino,3.95,45662.4,6
+E001460,2025-11-12,14/11/2025,Bahia Blanca,Salta,oca,22.14,16425.31,2
+E001461,2024-10-06,2024-10-10,Tucuman,Mendoza, CORREO_ARGENTINO,31.81,59542.88,4
+E001462,2025-12-03,2025-12-07,Tucuman,Buenos Aires,oca,32.47,20195.09,4
+E001463,2025-04-24,2025-04-28,Tucuman,Mendoza,andreani,28.53,44552.56,4
+E001464,2024-09-12,2024-09-20,Tucuman,Rosario,andreani,13.98,30751.53,8
+E001465,29/04/2024,2024-04-30,Tucuman,Salta,correo_argentino,8.26,24737.92,1
+E001466,2025-01-20,2025-01-29,Salta,Bahia Blanca,oca,28.02,28361.36,9
+E001467,2024-05-17,2024-05-22,Mendoza,Salta,correo_argentino,7.17,44268.94,5
+E001468,2024-05-19,2024-05-24,Mendoza,Cordoba,oca,33.73,21249.58,5
+E001469,2025-08-08,2025-08-16,Cordoba,Mendoza,mercado_envios,25.86,5969.24,8
+E001470,2024-10-06,2024-10-11,Rosario,Bahia Blanca,mercado_envios,24.76,58437.46,5
+E001471,2024-11-12,2024-11-04,Rosario,Mendoza,mercado_envios,30.91,51243.91,8
+E001472,23/11/2025,2025-11-26,Cordoba,Tucuman,andreani,31.36,56673.89,3
+E001473,2025-05-20,2025-05-24,Rosario,Tucuman,andreani,36.4,21677.16,4
+E001474,2025-12-25,2026-01-03,Tucuman,Buenos Aires,correo_argentino,22.44,50929.81,9
+E001475,2024-06-11,2024-06-07,Buenos Aires,Bahia Blanca,mercado_envios,7.73,21365.34,4
+E001476,06/05/2024,2024-05-07,Mendoza,Rosario,correo_argentino,39.61,28719.69,1
+E001477,2024-08-18,2024-08-20,Salta,Mendoza,andreani,13.88,53682.67,2
+E001478,2025-02-25,2025-03-06,Tucuman,Bahia Blanca,mercado_envios,19.6,21435.33,9
+E001479,2024-06-05,2024-06-07,Mendoza,Rosario,oca,16.67,6171.33,2
+E001480,25/09/2024,2024-09-29,Bahia Blanca,Tucuman,mercado_envios,37.28,24769.12,4
+E001481,2025-12-04,2025-12-11,Tucuman,Mendoza,mercado_envios,12.46,39091.5,7
+E001482,2024-06-28,2024-07-03,Tucuman,Rosario,mercado_envios,6.01,"30.475,56",5
+E001483,2025-03-14,2025-03-15,Cordoba,Salta,mercado_envios,29.34,38255.22,1
+E001484,08/10/2024,2024-10-12,Bahia Blanca,Cordoba,andreani,23.55,45224.14,4
+E001485,2024-12-10,2024-12-15,Buenos Aires,Rosario,mercado_envios,10.47,36019.32,5
+E001486,2025-06-30,2025-07-09,Cordoba,Rosario,oca,32.94,"42.032,36",9
+E001487,2024-01-24,30/01/2024,Salta,Buenos Aires,oca,38.97,34453.32,6
+E001488,2024-04-29,2024-05-06,Tucuman,Rosario,mercado_envios,7.46,"23.494,20",7
+E001489,2025-03-17,2025-03-22,Bahia Blanca,Buenos Aires,correo_argentino,37.78,16310.1,5
+E001490,2025-04-02,2025-04-08,Bahia Blanca,Buenos Aires,mercado_envios,22.0,9691.02,6
+E001491,2024-12-16,2024-12-25,Rosario,Mendoza,correo_argentino,18.2,46729.46,
+E001492,2024-10-12,2024-10-19,Salta,Bahia Blanca,correo_argentino,15.9,50058.99,7
+E001493,2024-09-11,2024-09-19,Rosario,Cordoba,oca,16.62,29526.61,8
+E001494,2025-03-11,2025-03-20,Rosario,Bahia Blanca,oca,30.0,25520.96,9
+E001495,2024-05-26,2024-05-28,Salta,Bahia Blanca,correo_argentino,33.21,33079.29,
+E001496,2024-09-25,2024-10-02,Rosario,Mendoza,correo_argentino,30.94,8301.58,
+E001497,2024-08-19,2024-08-27,Mendoza,Buenos Aires,oca,25.32,33640.03,8
+E001498,2025-09-25,2025-09-29,Rosario,Salta,andreani,39.4,31645.8,4
+E001499,2025-05-06,12/05/2025,Mendoza,Cordoba,andreani,5.33,37607.87,6
+E001500,2025-06-28,2025-06-29,Buenos Aires,Tucuman,correo_argentino,29.22,37296.97,1
+E001501,2025-05-20,2025-05-22,Mendoza,Rosario,OCA ,39.75,16064.19,2
+E001502,2025-10-18,2025-10-25,Rosario,Tucuman,oca,18.72,"14.222,45",7
+E001503,2025-12-08,2025-12-15,Mendoza,Cordoba,mercado_envios,30.79,30817.41,7
+E001504,2025-04-23,2025-04-25,Tucuman,Salta,andreani,5.24,42676.31,2
+E001505,13/02/2024,2024-02-20,Bahia Blanca,Salta,andreani,8.16,4791.41,7
+E001506,2025-09-13,2025-09-22,Bahia Blanca,Rosario,andreani,25.81,"19.637,11",9
+E001507,2025-09-14,2025-09-17,Mendoza,Bahia Blanca,correo_argentino,16.59,20984.2,3
+E001508,2024-11-19,2024-11-24,Tucuman,Rosario, CORREO_ARGENTINO,11.85,41463.22,5
+E001509,2024-04-04,2024-04-13,Bahia Blanca,Rosario,andreani,15.76,38289.35,9
+E001510,2024-06-22,2024-06-29,Cordoba,Tucuman,andreani,15.89,49154.02,7
+E001511,2025-08-05,2025-08-10,Buenos Aires,Mendoza,oca,7.74,7547.14,5
+E001512,2025-07-21,2025-07-25,Cordoba,Rosario,mercado_envios,22.33,27535.89,4
+E001513,2024-11-10,2024-11-12,Cordoba,Salta,correo_argentino,1.68,24402.77,2
+E001514,20/07/2024,2024-07-25,Salta,Bahia Blanca,correo_argentino,8.97,22884.04,5
+E001515,25/04/2024,2024-04-29,Mendoza,Bahia Blanca,mercado_envios,19.1,11965.52,4
+E001516,2025-08-12,2025-08-15,Buenos Aires,Salta,OCA ,37.7,18200.8,3
+E001517,2025-12-21,2025-12-25,Salta,Buenos Aires,OCA ,8.45,55767.2,4
+E001518,2024-01-21,2024-01-29,Mendoza,Tucuman,oca,20.89,6950.39,
+E001519,2024-02-01,2024-02-02,Tucuman,Bahia Blanca,mercado_envios,8.56,56355.67,1
+E001248,2024-03-30,2024-04-02,Salta,Tucuman,mercado_envios,18.85,17723.63,3
+E001520,2025-05-28,2025-05-30,Tucuman,Cordoba,oca,26.94,55034.26,2
+E001521,2024-02-25,2024-02-26,Cordoba,Rosario,MERCADO_ENVIOS,7.06,2889.18,1
+E001522,08/07/2025,2025-07-10,Rosario,Salta,mercado_envios,36.0,8817.16,2
+E001523,2024-02-16,2024-02-20,Mendoza,Bahia Blanca,andreani,31.13,51569.12,4
+E001524,2025-12-24,2025-12-26,Mendoza,Buenos Aires,mercado_envios,28.57,10048.92,2
+E001525,2025-06-02,2025-06-06,Tucuman,Buenos Aires,andreani,24.62,57572.76,4
+E001526,2024-06-07,2024-06-02,Cordoba,Buenos Aires,andreani,38.97,41395.52,5
+E002069,2025-07-21,2025-07-28,Bahia Blanca,Cordoba,mercado_envios,35.17,41172.72,
+E001527,2025-10-09,2025-10-18,Salta,Buenos Aires,correo_argentino,31.7,18957.0,9
+E001528,2024-02-27,2024-03-02,Cordoba,Rosario,andreani,30.65,"25.218,34",4
+E001529,2024-02-05,2024-02-09,Mendoza,Bahia Blanca, ANDREANI,36.31,10162.92,4
+E001530,2024-03-03,07/03/2024,Rosario,Tucuman,mercado_envios,9.93,11934.99,4
+E001531,2024-12-12,2024-12-14,Buenos Aires,Bahia Blanca,andreani,30.52,53735.85,2
+E001532,2024-07-15,2024-07-23,Buenos Aires,Tucuman,mercado_envios,14.68,11033.7,8
+E001533,2024-02-25,2024-03-05,Cordoba,Bahia Blanca,oca,32.9,40674.66,9
+E001534,2024-05-05,2024-05-08,Buenos Aires,Mendoza,CORREO_ARGENTINO ,29.1,32919.26,3
+E001535,2025-04-21,29/04/2025,Tucuman,Mendoza,andreani,29.62,13359.5,8
+E001536,2024-09-19,2024-09-26,Mendoza,Buenos Aires,correo_argentino,11.49,"9.883,98",7
+E001537,2024-12-10,17/12/2024,Rosario,Cordoba,correo_argentino,36.83,7561.95,7
+E001538,2024-03-17,2024-03-08,Tucuman,Buenos Aires,oca,5.02,45234.96,9
+E001539,2024-07-20,2024-07-24,Buenos Aires,Bahia Blanca,andreani,-18.81,25976.91,4
+E001540,2024-11-26,2024-12-04,Mendoza,Tucuman,oca,32.79,34263.32,8
+E001541,2025-05-19,2025-05-24,Buenos Aires,Salta,mercado_envios,-20.65,51989.27,5
+E001542,2025-11-26,2025-11-18,Rosario,Bahia Blanca,andreani,28.14,46264.21,8
+E001543,2025-07-02,2025-07-07,Buenos Aires,Mendoza,correo_argentino,17.03,22767.05,5
+E001544,2024-08-06,2024-08-08,Tucuman,Mendoza,mercado_envios,17.77,8915.82,2
+E001545,2024-06-23,2024-06-28,Bahia Blanca,Rosario,correo_argentino,35.4,19177.2,
+E001546,2025-08-25,2025-08-27,Buenos Aires,Salta,oca,10.65,51011.66,2
+E001547,2025-11-29,01/12/2025,Cordoba,Salta,andreani,8.38,23969.12,2
+E001548,2025-12-07,2025-12-15,Rosario,Bahia Blanca,correo_argentino,-17.3,12883.38,8
+E001549,2025-10-08,2025-10-17,Cordoba,Bahia Blanca,andreani,-5.65,3820.78,9
+E001550,2025-10-03,2025-10-09,Bahia Blanca,Rosario,mercado_envios,28.38,23990.85,6
+E001551,2024-03-21,2024-03-23,Tucuman,Buenos Aires,oca,34.87,27120.24,2
+E001552,2025-08-23,2025-08-29,Bahia Blanca,Salta,oca,20.41,4915.71,6
+E001553,2024-02-29,07/03/2024,Mendoza,Buenos Aires,andreani,36.96,53477.98,7
+E001554,2025-05-14,2025-05-18,Rosario,Cordoba,oca,-9.87,24030.31,4
+E001555,2024-08-08,2024-08-12,Cordoba,Bahia Blanca,mercado_envios,31.67,47124.2,4
+E001556,2024-07-23,2024-07-27,Salta,Buenos Aires,mercado_envios,20.91,55394.75,
+E001557,2024-08-04,2024-08-08,Mendoza,Rosario,oca,38.88,46806.8,4
+E001558,2025-02-20,2025-02-24,Cordoba,Tucuman,correo_argentino,34.03,17792.14,4
+E001559,2024-04-03,2024-04-11,Salta,Mendoza,oca,27.16,47861.17,8
+E001560,2025-06-11,2025-06-19,Mendoza,Cordoba,andreani,16.14,12067.78,8
+E001561,2024-04-08,2024-04-12,Cordoba,Tucuman,CORREO_ARGENTINO ,9.34,12857.33,4
+E001562,2025-10-17,24/10/2025,Mendoza,Tucuman,oca,5.12,15025.13,7
+E001563,2025-12-13,2025-12-20,Mendoza,Buenos Aires,oca,9.03,32705.86,7
+E001564,2024-01-22,2024-01-23,Rosario,Bahia Blanca,mercado_envios,2.25,19048.69,1
+E001565,2025-12-23,2025-12-24,Tucuman,Buenos Aires,oca,3.31,16594.75,1
+E001566,2024-05-23,2024-05-26,Cordoba,Salta,mercado_envios,22.05,11433.6,3
+E001567,2025-08-29,2025-08-30,Mendoza,Cordoba,CORREO_ARGENTINO ,2.42,34170.52,1
+E001568,2024-10-18,2024-10-20,Bahia Blanca,Tucuman,andreani,10.23,17413.31,2
+E001569,2024-11-04,2024-11-12,Salta,Tucuman,andreani,37.32,18620.38,8
+E001570,2025-02-01,2025-02-10,Cordoba,Salta,oca,5.9,55929.37,9
+E001571,2024-03-14,21/03/2024,Mendoza,Buenos Aires,andreani,20.06,30465.43,7
+E001572,2025-03-15,2025-03-23,Tucuman,Salta,mercado_envios,14.64,26204.18,8
+E001573,2025-01-12,2025-01-17,Bahia Blanca,Tucuman,mercado_envios,4.38,57120.79,
+E001574,2024-09-08,2024-09-16,Salta,Cordoba,MERCADO_ENVIOS,14.95,5109.18,8
+E001575,2024-08-23,2024-09-01,Cordoba,Rosario,CORREO_ARGENTINO ,25.49,47499.63,9
+E001576,2024-10-12,2024-10-21,Rosario,Buenos Aires,oca,39.87,21440.42,
+E001577,2024-01-09,2024-01-15,Salta,Bahia Blanca,andreani,-26.04,29796.47,6
+E001578,2025-07-28,31/07/2025,Bahia Blanca,Rosario,oca,9.84,20563.17,3
+E001579,2024-10-30,2024-11-03,Salta,Rosario,mercado_envios,25.25,33249.84,4
+E001580,2024-04-12,2024-04-16,Tucuman,Rosario,andreani,29.79,28876.99,4
+E001581,2025-02-11,2025-02-20,Mendoza,Bahia Blanca,andreani,18.59,56278.29,9
+E001582,2025-07-13,2025-07-19,Buenos Aires,Bahia Blanca,mercado_envios,11.51,40994.03,6
+E001583,2024-07-07,2024-07-08,Salta,Buenos Aires,mercado_envios,12.89,53239.18,1
+E001584,2025-02-22,25/02/2025,Bahia Blanca,Cordoba,mercado_envios,25.97,12808.65,3
+E001585,2024-02-06,2024-02-12,Cordoba,Buenos Aires,CORREO_ARGENTINO,2.58,31399.27,6
+E001586,01/01/2024,2024-01-07,Tucuman,Rosario,correo_argentino,37.91,8177.33,6
+E001587,2024-04-14,2024-04-22,Mendoza,Rosario,andreani,36.74,38674.24,
+E001588,2025-07-16,2025-07-24,Rosario,Salta,mercado_envios,21.6,40147.27,8
+E001589,30/03/2024,2024-04-04,Bahia Blanca,Buenos Aires,mercado_envios,13.84,28721.04,5
+E001590,2024-03-19,2024-03-23,Bahia Blanca,Mendoza,correo_argentino,16.41,35555.76,4
+E001591,2024-04-13,2024-04-12,Salta,Mendoza,mercado_envios,14.82,31915.24,1
+E001592,2025-07-31,2025-08-07,Salta,Tucuman,mercado_envios,16.94,33306.53,7
+E001593,2024-05-24,2024-05-30,Buenos Aires,Rosario,correo_argentino,11.55,43295.79,6
+E001594,2024-05-16,2024-05-25,Salta,Rosario,andreani,2.99,33772.67,9
+E001595,2025-11-11,2025-11-20,Salta,Buenos Aires,mercado_envios,20.07,4501.48,9
+E001596,2025-09-28,29/09/2025,Tucuman,Mendoza,oca,39.73,6762.22,1
+E001597,2024-11-29,2024-12-04,Mendoza,Bahia Blanca,andreani,39.4,2737.17,5
+E001598,2025-02-02,2025-02-03,Salta,Buenos Aires,oca,4.41,8587.18,1
+E001599,2025-07-11,2025-07-16,Rosario,Tucuman,oca,25.94,9515.21,5
+E001600,2025-01-13,2025-01-16,Salta,Rosario,andreani,10.04,47270.81,3
+E001601,2024-10-29,2024-11-07,Mendoza,Cordoba,correo_argentino,39.22,"31.466,09",9
+E001602,2024-10-16,2024-10-17,Salta,Mendoza,andreani,25.37,58080.28,1
+E001603,2025-03-17,2025-03-20,Mendoza,Tucuman,andreani,0.77,5355.05,3
+E001604,2024-02-12,2024-02-21,Buenos Aires,Mendoza, OCA,13.66,34208.16,9
+E001605,2024-07-27,2024-08-02,Tucuman,Rosario,andreani,27.37,56763.5,6
+E001606,2024-12-26,2024-12-30,Tucuman,Rosario, CORREO_ARGENTINO,16.72,21829.01,4
+E001607,2024-11-02,2024-11-08,Salta,Cordoba,mercado_envios,18.51,17838.32,
+E001608,2024-07-15,2024-07-17,Bahia Blanca,Rosario,mercado_envios,13.51,46622.55,2
+E001609,2025-02-07,2025-02-09,Salta,Rosario,correo_argentino,18.59,"24.251,51",2
+E001610,2024-01-10,2024-01-14,Tucuman,Mendoza,CORREO_ARGENTINO,15.22,50536.31,4
+E001611,2024-07-30,2024-08-04,Bahia Blanca,Mendoza,correo_argentino,23.17,28675.64,5
+E001247,2024-03-11,2024-03-16,Mendoza,Tucuman,oca,39.01,2557.9,5
+E001612,2024-11-11,2024-11-13,Buenos Aires,Rosario,correo_argentino,6.94,20636.06,2
+E001613,2025-03-06,2025-03-13,Bahia Blanca,Salta,correo_argentino,5.94,3901.2,7
+E001614,2024-12-19,2024-12-25,Tucuman,Salta,oca,0.77,7421.66,
+E001615,2025-05-26,2025-05-29,Salta,Tucuman,mercado_envios,38.71,38557.24,3
+E001616,2025-11-05,2025-11-10,Cordoba,Bahia Blanca,correo_argentino,10.84,46001.3,5
+E001617,2025-12-12,2025-12-15,Cordoba,Tucuman,andreani,20.99,36060.57,3
+E001618,2025-05-25,2025-05-31,Rosario,Salta,oca,26.86,28865.08,6
+E001619,2024-06-05,2024-06-10,Bahia Blanca,Tucuman,andreani,6.74,11366.26,
+E001620,2025-06-28,2025-07-01,Mendoza,Tucuman,correo_argentino,38.89,15081.87,3
+E001621,27/08/2024,2024-09-05,Cordoba,Bahia Blanca,andreani,9.27,2930.07,9
+E001622,2025-07-11,2025-07-19,Salta,Bahia Blanca,mercado_envios,1.74,7016.99,8
+E001623,2025-10-13,16/10/2025,Mendoza,Cordoba,correo_argentino,26.26,41739.62,3
+E001624,2024-01-16,2024-01-25,Cordoba,Tucuman, MERCADO_ENVIOS,14.57,21309.71,9
+E001625,2024-05-31,2024-06-01,Tucuman,Bahia Blanca,mercado_envios,4.82,"2.750,54",1
+E001626,2024-04-23,2024-05-02,Salta,Buenos Aires,mercado_envios,1.02,46118.68,9
+E001627,2025-09-07,2025-09-16,Bahia Blanca,Tucuman,oca,2.08,28499.47,9
+E001628,2025-08-09,2025-08-13,Cordoba,Salta,OCA,19.95,19425.38,4
+E001629,2025-12-19,2025-12-27,Rosario,Buenos Aires,oca,24.22,57984.6,8
+E001630,2025-06-03,2025-06-06,Tucuman,Salta,mercado_envios,12.6,46198.07,3
+E001631,2024-11-27,2024-12-05,Mendoza,Bahia Blanca,andreani,0.74,51402.57,8
+E001632,2025-04-08,2025-04-15,Tucuman,Mendoza,oca,11.58,53768.22,7
+E001633,2025-02-08,2025-02-13,Tucuman,Buenos Aires,andreani,13.67,48853.71,5
+E001634,2024-03-30,2024-04-04,Cordoba,Rosario,correo_argentino,31.49,44080.68,5
+E001635,2024-12-21,2024-12-13,Tucuman,Bahia Blanca,correo_argentino,12.62,44131.69,8
+E001636,2024-01-28,2024-01-23,Buenos Aires,Tucuman,correo_argentino,30.85,38085.96,5
+E001637,28/03/2024,2024-04-02,Mendoza,Salta,mercado_envios,12.4,13505.27,5
+E001638,2024-12-09,2024-12-15,Buenos Aires,Salta,mercado_envios,6.71,2591.07,6
+E001639,05/09/2024,2024-09-07,Bahia Blanca,Cordoba,andreani,38.88,59163.79,2
+E001640,2025-11-10,2025-11-16,Salta,Mendoza,oca,34.27,24350.15,6
+E001641,08/02/2024,2024-02-17,Rosario,Buenos Aires,correo_argentino,6.66,54744.73,9
+E001642,2025-06-20,2025-06-28,Cordoba,Tucuman,oca,36.9,46291.01,
+E001643,2025-07-01,2025-07-03,Buenos Aires,Rosario,andreani,11.98,26140.15,2
+E001644,2025-12-27,2026-01-02,Bahia Blanca,Cordoba,mercado_envios,5.34,13889.2,6
+E001645,2024-11-27,2024-12-03,Cordoba,Mendoza,oca,6.48,"10.050,27",6
+E001646,2024-02-20,2024-02-21,Tucuman,Rosario,oca,12.73,27517.33,1
+E001647,2025-08-21,2025-08-26,Mendoza,Cordoba,correo_argentino,11.13,54446.09,5
+E001648,2025-07-08,2025-07-16,Bahia Blanca,Tucuman,CORREO_ARGENTINO,33.55,11799.08,8
+E001649,2025-02-03,12/02/2025,Bahia Blanca,Cordoba,oca,11.8,3682.89,9
+E001650,2024-03-25,2024-03-30,Salta,Bahia Blanca,mercado_envios,20.57,14148.54,5
+E001651,2024-06-02,2024-06-11,Mendoza,Salta,correo_argentino,5.42,59783.09,9
+E001652,2025-01-27,2025-02-05,Bahia Blanca,Mendoza,correo_argentino,12.06,22601.34,9
+E001653,2024-11-23,2024-11-25,Tucuman,Rosario,mercado_envios,27.34,13226.48,2
+E001654,2025-05-09,2025-05-17,Tucuman,Rosario,mercado_envios,23.42,10386.31,8
+E001655,2024-01-25,2024-02-02,Bahia Blanca,Cordoba,mercado_envios,16.25,"51.715,28",8
+E001656,2025-05-31,04/06/2025,Salta,Buenos Aires,oca,21.85,8578.75,4
+E001657,2024-01-27,2024-02-02,Cordoba,Bahia Blanca,oca,2.86,53613.77,6
+E001658,2024-02-05,2024-02-08,Salta,Buenos Aires,mercado_envios,20.1,52536.24,3
+E001659,2024-11-24,2024-12-02,Buenos Aires,Rosario,mercado_envios,2.15,17720.2,8
+E001660,2024-06-27,2024-07-04,Salta,Cordoba,CORREO_ARGENTINO,17.66,26785.35,7
+E001661,2024-09-30,2024-09-27,Salta,Buenos Aires,andreani,17.74,35220.67,3
+E001662,2025-07-21,2025-07-26,Tucuman,Rosario,oca,35.04,7873.79,5
+E001663,02/04/2024,2024-04-06,Cordoba,Tucuman,mercado_envios,1.45,45970.9,4
+E001664,2025-11-23,2025-11-15,Rosario,Bahia Blanca,mercado_envios,2.69,5186.43,8
+E001665,2024-11-19,2024-11-25,Cordoba,Rosario,andreani,28.76,40560.36,6
+E001666,2025-01-27,2025-02-03,Tucuman,Rosario,oca,37.04,"17.235,68",7
+E001667,2025-04-04,2025-04-09,Cordoba,Bahia Blanca,mercado_envios,8.62,13614.35,5
+E001668,2025-02-04,2025-02-13,Salta,Mendoza,ANDREANI ,5.68,38335.65,9
+E001669,03/03/2024,2024-03-07,Bahia Blanca,Tucuman,oca,33.03,24709.37,4
+E001670,2024-05-31,2024-06-03,Cordoba,Rosario,mercado_envios,4.14,28441.09,3
+E001671,2025-09-08,2025-09-13,Mendoza,Cordoba,correo_argentino,28.8,46888.82,
+E001672,2024-10-28,2024-11-06,Bahia Blanca,Tucuman,andreani,34.17,7339.61,9
+E001673,2024-02-19,2024-02-28,Bahia Blanca,Tucuman,andreani,32.42,25501.11,9
+E001674,2025-03-04,2025-03-13,Buenos Aires,Mendoza, ANDREANI,2.87,54995.2,9
+E001675,2024-10-18,2024-10-17,Buenos Aires,Cordoba,correo_argentino,11.11,51319.53,1
+E001676,2024-08-05,2024-08-14,Tucuman,Mendoza,mercado_envios,21.57,2677.7,9
+E001677,2024-09-20,2024-09-24,Rosario,Bahia Blanca,mercado_envios,19.51,46874.43,4
+E001678,2024-02-29,2024-03-05,Cordoba,Rosario,mercado_envios,16.39,21258.87,5
+E001679,2024-08-27,2024-08-31,Mendoza,Rosario,oca,0.88,51373.01,4
+E001680,2024-02-23,2024-02-29,Buenos Aires,Bahia Blanca,mercado_envios,32.95,40620.15,6
+E001681,2024-05-12,2024-05-20,Bahia Blanca,Cordoba,oca,12.32,59037.11,8
+E001682,2024-04-02,2024-04-10,Buenos Aires,Cordoba,mercado_envios,21.32,56861.75,8
+E001683,2024-12-24,2024-12-27,Bahia Blanca,Salta,andreani,11.92,"10.856,77",3
+E001684,2025-02-20,2025-02-23,Rosario,Mendoza,OCA ,19.24,38310.83,3
+E001685,2025-08-21,2025-08-29,Mendoza,Cordoba,mercado_envios,36.05,56499.22,8
+E001686,2024-07-28,2024-08-06,Bahia Blanca,Cordoba,andreani,1.86,44631.47,
+E001687,2025-01-16,2025-01-19,Cordoba,Tucuman,correo_argentino,31.0,52877.93,3
+E001688,2024-11-30,2024-11-27,Bahia Blanca,Tucuman,oca,39.12,54745.46,3
+E001689,15/09/2025,2025-09-17,Cordoba,Salta,oca,21.93,10666.92,2
+E001690,2025-02-06,2025-02-15,Rosario,Mendoza,oca,4.64,24933.58,9
+E001691,2025-01-24,31/01/2025,Cordoba,Tucuman,mercado_envios,6.69,52409.9,7
+E001692,27/01/2025,2025-02-02,Rosario,Tucuman,andreani,8.78,34488.76,6
+E001693,2025-10-09,2025-10-08,Tucuman,Rosario,mercado_envios,3.9,37628.04,1
+E001694,2024-09-21,2024-09-23,Salta,Rosario,mercado_envios,32.58,51579.7,
+E001695,2024-04-10,2024-04-13,Mendoza,Cordoba, ANDREANI,19.99,9496.59,3
+E001696,2025-01-10,13/01/2025,Cordoba,Buenos Aires,correo_argentino,33.44,39381.73,3
+E001611,2024-07-30,2024-08-04,Bahia Blanca,Mendoza,correo_argentino,23.17,28675.64,5
+E001697,2024-06-04,2024-06-12,Tucuman,Mendoza, CORREO_ARGENTINO,22.87,44895.37,8
+E001698,14/02/2025,2025-02-21,Salta,Buenos Aires,correo_argentino,5.13,36036.91,7
+E001699,2025-06-13,2025-06-20,Buenos Aires,Tucuman,mercado_envios,28.41,22116.19,7
+E001700,2024-07-04,2024-07-10,Tucuman,Mendoza,correo_argentino,19.43,19759.08,6
+E001701,2025-01-15,2025-01-17,Cordoba,Bahia Blanca,mercado_envios,17.73,7175.79,2
+E001702,2024-02-14,2024-02-19,Bahia Blanca,Mendoza,correo_argentino,31.77,"48.260,33",5
+E001703,2025-05-16,2025-05-20,Cordoba,Mendoza,andreani,23.73,47999.86,4
+E001704,2025-03-23,2025-04-01,Salta,Mendoza,mercado_envios,37.91,59311.68,9
+E001705,2024-11-23,2024-11-24,Salta,Bahia Blanca,correo_argentino,10.58,54472.77,1
+E001706,2025-05-15,2025-05-17,Bahia Blanca,Buenos Aires,OCA ,4.25,55354.97,2
+E001707,2024-09-28,2024-10-07,Buenos Aires,Cordoba,oca,38.78,16710.4,
+E001708,2025-08-16,2025-08-20,Tucuman,Rosario,andreani,10.24,"51.791,80",4
+E001709,2025-03-25,2025-04-03,Rosario,Bahia Blanca,correo_argentino,15.73,3841.52,9
+E001710,2024-04-20,2024-04-27,Salta,Cordoba,correo_argentino,18.33,36321.67,7
+E001711,2024-03-18,2024-03-19,Cordoba,Rosario,correo_argentino,15.97,47825.12,1
+E001712,2025-10-19,2025-10-23,Tucuman,Rosario,mercado_envios,23.68,51210.27,4
+E001713,28/06/2025,2025-07-03,Buenos Aires,Mendoza,correo_argentino,10.46,30586.66,5
+E001714,2024-12-16,2024-12-25,Rosario,Mendoza, MERCADO_ENVIOS,28.69,36569.43,9
+E001715,2025-01-19,2025-01-24,Rosario,Cordoba,oca,17.38,12633.14,
+E001716,2025-06-06,2025-06-11,Bahia Blanca,Rosario,oca,29.21,"13.862,68",5
+E001717,2024-10-27,2024-11-05,Mendoza,Tucuman,correo_argentino,17.35,18748.79,9
+E001718,2024-03-24,2024-03-28,Buenos Aires,Bahia Blanca,andreani,17.38,32898.31,4
+E001719,2024-03-31,07/04/2024,Mendoza,Cordoba,oca,15.9,54532.39,7
+E001720,2025-04-21,2025-04-25,Cordoba,Tucuman,oca,23.51,13998.38,4
+E001721,27/08/2024,2024-09-04,Salta,Rosario,mercado_envios,33.88,27309.52,8
+E001722,2025-11-19,2025-11-27,Buenos Aires,Mendoza,mercado_envios,33.44,16288.01,8
+E001723,2025-12-19,2025-12-28,Tucuman,Buenos Aires,andreani,36.76,36494.21,9
+E001724,2025-12-28,2025-12-29,Cordoba,Rosario,andreani,36.64,24542.3,1
+E001725,2024-11-20,2024-11-25,Bahia Blanca,Buenos Aires,correo_argentino,30.94,"3.781,63",5
+E001726,2025-06-12,2025-06-18,Cordoba,Rosario,andreani,18.93,25332.89,6
+E001727,2024-03-11,18/03/2024,Cordoba,Mendoza,oca,3.55,55761.27,7
+E001728,2025-05-26,2025-06-01,Mendoza,Tucuman,mercado_envios,-11.28,4922.77,6
+E001729,2024-02-23,2024-02-24,Bahia Blanca,Mendoza,andreani,2.46,57300.92,1
+E001730,2025-07-09,2025-07-12,Bahia Blanca,Salta,correo_argentino,18.42,45193.21,3
+E001731,2025-12-11,2025-12-13,Bahia Blanca,Salta,oca,16.99,53641.25,2
+E001732,03/06/2024,2024-06-10,Buenos Aires,Mendoza,andreani,33.77,36959.8,7
+E001733,2024-09-23,2024-09-24,Cordoba,Bahia Blanca,oca,34.35,39806.06,1
+E001734,2024-04-05,2024-04-09,Rosario,Mendoza,correo_argentino,23.71,29838.36,4
+E001735,2024-07-29,03/08/2024,Buenos Aires,Salta,correo_argentino,12.33,22340.82,5
+E001736,2024-07-01,2024-07-04,Rosario,Cordoba, CORREO_ARGENTINO,2.25,44401.86,3
+E001737,2025-01-30,2025-01-31,Mendoza,Rosario,mercado_envios,35.81,12453.78,1
+E001738,2025-08-05,2025-08-10,Tucuman,Cordoba,andreani,8.69,41451.43,
+E001739,2025-01-12,2025-01-15,Cordoba,Buenos Aires,mercado_envios,8.8,26486.06,3
+E000729,2024-09-19,2024-09-20,Cordoba,Bahia Blanca,correo_argentino,33.94,54516.44,1
+E001740,2025-07-21,2025-07-23,Buenos Aires,Mendoza,andreani,4.95,"5.494,15",2
+E001741,2024-02-24,2024-03-03,Rosario,Salta,andreani,7.44,42520.08,8
+E001742,29/08/2025,2025-09-03,Cordoba,Mendoza,oca,17.78,31012.13,5
+E001743,2024-06-26,2024-07-01,Tucuman,Salta,ANDREANI ,2.12,13385.51,5
+E001744,2025-12-26,2025-12-31,Bahia Blanca,Rosario,oca,23.64,45864.0,5
+E001745,2024-11-16,2024-11-22,Buenos Aires,Tucuman,correo_argentino,7.75,55595.26,6
+E001746,2024-02-21,2024-03-01,Mendoza,Rosario,andreani,7.1,20702.49,
+E001747,2024-10-11,14/10/2024,Buenos Aires,Mendoza,correo_argentino,15.49,53050.17,3
+E001748,2025-04-19,2025-04-26,Bahia Blanca,Rosario,mercado_envios,5.54,"20.854,74",7
+E001749,14/08/2025,2025-08-23,Salta,Mendoza,correo_argentino,27.6,14209.93,9
+E001750,2024-10-20,2024-10-24,Cordoba,Mendoza,correo_argentino,16.26,25163.43,4
+E001751,2025-02-21,2025-03-02,Buenos Aires,Salta,mercado_envios,25.3,50540.46,9
+E001752,2024-11-28,2024-12-05,Rosario,Buenos Aires,andreani,20.36,35217.24,7
+E001753,2024-06-26,2024-07-01,Mendoza,Tucuman,oca,33.41,30440.81,
+E001754,2025-10-30,02/11/2025,Bahia Blanca,Rosario,mercado_envios,22.66,53298.93,3
+E001755,2025-06-15,2025-06-18,Rosario,Bahia Blanca,correo_argentino,4.79,13271.8,
+E001756,08/11/2024,2024-11-10,Buenos Aires,Bahia Blanca,andreani,6.0,29902.44,2
+E001757,2025-11-14,2025-11-21,Salta,Mendoza,oca,16.18,53989.49,7
+E001758,2025-05-25,2025-06-02,Mendoza,Cordoba,oca,15.63,13609.77,
+E001759,2024-01-07,2024-01-13,Rosario,Bahia Blanca,andreani,39.57,23566.26,6
+E001760,2024-04-01,2024-04-04,Bahia Blanca,Buenos Aires,CORREO_ARGENTINO,37.65,15910.25,3
+E001761,2025-01-24,2025-01-28,Tucuman,Buenos Aires,oca,9.58,13026.81,4
+E001762,2025-01-24,2025-02-01,Bahia Blanca,Salta,oca,3.39,33053.85,8
+E001763,2025-03-15,2025-03-22,Cordoba,Buenos Aires,correo_argentino,23.62,15037.88,
+E001764,2025-12-15,2025-12-10,Rosario,Mendoza,mercado_envios,14.81,27561.99,5
+E001765,2024-02-05,2024-02-11,Tucuman,Cordoba,ANDREANI,20.16,33389.48,6
+E001766,2024-04-03,2024-03-26,Tucuman,Salta,mercado_envios,14.36,58724.84,8
+E001767,29/06/2024,2024-07-02,Mendoza,Tucuman,mercado_envios,2.16,46807.38,3
+E001768,2024-07-28,2024-08-06,Mendoza,Salta,andreani,28.27,13622.06,9
+E001769,2024-04-30,2024-05-06,Tucuman,Rosario,oca,23.73,15489.26,6
+E001770,2025-11-17,2025-11-21,Salta,Mendoza,oca,5.66,16475.08,4
+E001771,2025-09-14,2025-09-17,Buenos Aires,Rosario,andreani,26.96,56421.19,
+E001772,2024-05-12,2024-05-05,Cordoba,Mendoza,andreani,11.04,3253.17,7
+E001773,2025-02-13,2025-02-20,Salta,Rosario,oca,29.05,44373.95,7
+E001774,2025-12-30,07/01/2026,Cordoba,Buenos Aires,oca,29.89,25743.34,8
+E001775,2025-06-23,2025-06-26,Salta,Mendoza,mercado_envios,7.82,16263.89,3
+E001776,2025-04-05,2025-04-08,Salta,Bahia Blanca,oca,18.84,36184.95,3
+E001777,2024-08-23,2024-08-26,Rosario,Tucuman,correo_argentino,33.79,22126.3,3
+E001778,2025-07-10,2025-07-12,Tucuman,Mendoza,andreani,25.65,25580.27,2
+E001779,2024-01-01,09/01/2024,Bahia Blanca,Buenos Aires,correo_argentino,39.57,36957.78,8
+E001780,2025-01-14,2025-01-18,Salta,Tucuman,oca,5.59,18601.57,4
+E001781,2024-01-11,2024-01-18,Rosario,Bahia Blanca,oca,2.22,14555.73,7
+E001782,2025-06-17,2025-06-25,Cordoba,Bahia Blanca,correo_argentino,4.29,30721.96,8
+E002028,2025-08-19,2025-08-23,Cordoba,Buenos Aires,mercado_envios,26.1,9619.28,4
+E001783,2024-05-07,2024-05-15,Rosario,Buenos Aires,correo_argentino,7.52,25088.83,8
+E001784,2025-11-18,2025-11-22,Buenos Aires,Mendoza,andreani,21.98,"53.719,49",4
+E001785,2024-09-21,2024-09-22,Buenos Aires,Tucuman,andreani,-32.01,45848.81,1
+E001786,2024-11-11,2024-11-16,Bahia Blanca,Rosario,andreani,8.91,26981.87,5
+E001787,2025-11-27,2025-11-28,Tucuman,Cordoba,mercado_envios,36.35,58021.82,1
+E001788,2025-12-30,2026-01-03,Cordoba,Salta,andreani,0.85,32037.27,4
+E001789,2025-07-22,2025-07-23,Mendoza,Buenos Aires,andreani,37.15,54519.65,1
+E001790,2024-11-20,2024-11-24,Buenos Aires,Rosario,oca,30.85,"28.273,19",4
+E001791,2025-03-24,2025-03-27,Mendoza,Bahia Blanca,mercado_envios,38.73,3545.49,3
+E001792,2025-05-24,2025-05-17,Mendoza,Rosario,mercado_envios,8.87,36166.5,7
+E001793,2025-01-13,2025-01-21,Rosario,Mendoza,MERCADO_ENVIOS ,31.34,5856.33,8
+E001794,2024-12-26,2024-12-27,Cordoba,Buenos Aires,mercado_envios,12.76,22668.08,1
+E001795,2024-03-13,2024-03-14,Salta,Tucuman,oca,21.33,39643.15,1
+E001796,2024-01-17,2024-01-21,Rosario,Buenos Aires,andreani,37.25,24803.11,4
+E001797,2025-09-19,2025-09-20,Buenos Aires,Rosario,mercado_envios,39.56,54862.96,1
+E001798,2025-01-30,2025-02-04,Tucuman,Cordoba,correo_argentino,17.43,6316.68,5
+E001799,2025-08-21,2025-08-27,Mendoza,Bahia Blanca,mercado_envios,30.32,31017.41,6
+E001800,2025-08-09,2025-08-18,Buenos Aires,Salta,mercado_envios,4.85,39216.5,9
+E001801,2025-11-19,2025-11-26,Buenos Aires,Rosario,mercado_envios,14.13,24601.17,7
+E001802,2024-08-19,2024-08-25,Cordoba,Mendoza,correo_argentino,31.66,8176.89,6
+E001803,2024-04-28,2024-05-04,Cordoba,Mendoza, ANDREANI,28.66,30037.67,6
+E001804,2025-02-23,2025-02-22,Buenos Aires,Mendoza,oca,2.74,42800.04,1
+E001805,2024-11-03,2024-11-12,Buenos Aires,Rosario,mercado_envios,3.44,53630.76,9
+E001806,2025-01-22,2025-01-29,Tucuman,Rosario,correo_argentino,25.27,20611.62,7
+E001807,2025-04-05,2025-04-07,Rosario,Mendoza,oca,19.08,"32.148,47",2
+E001808,2025-07-27,2025-07-31,Mendoza,Bahia Blanca,correo_argentino,0.43,51215.05,4
+E001809,2025-09-28,2025-10-02,Buenos Aires,Mendoza,correo_argentino,20.65,28463.3,4
+E001810,2024-09-02,2024-09-04,Mendoza,Cordoba,oca,7.8,59840.42,2
+E001811,2024-07-17,2024-07-19,Salta,Tucuman,ANDREANI ,8.11,41488.31,2
+E001812,2024-01-08,2024-01-10,Bahia Blanca,Tucuman,correo_argentino,29.77,50245.79,2
+E001813,2025-07-05,2025-07-12,Tucuman,Rosario,oca,37.16,41561.35,7
+E001814,2025-09-03,2025-09-09,Bahia Blanca,Cordoba,correo_argentino,28.22,39393.78,6
+E001815,2025-07-04,2025-07-12,Tucuman,Rosario,correo_argentino,3.38,37366.78,8
+E001816,2024-08-14,2024-08-23,Rosario,Buenos Aires,correo_argentino,33.39,19527.93,
+E001817,2025-11-03,2025-11-07,Rosario,Buenos Aires,mercado_envios,15.15,47691.93,4
+E001818,2024-02-28,2024-03-07,Bahia Blanca,Tucuman,oca,3.41,15317.27,8
+E001819,2025-03-25,2025-03-27,Bahia Blanca,Rosario,oca,30.49,30023.66,2
+E001820,2025-09-27,2025-09-28,Rosario,Bahia Blanca,mercado_envios,-10.56,9699.44,1
+E001821,2024-10-29,04/11/2024,Rosario,Cordoba,mercado_envios,30.01,2779.4,6
+E001822,2024-09-25,2024-09-17,Salta,Bahia Blanca,oca,39.01,27381.49,8
+E001823,2025-01-15,2025-01-24,Cordoba,Tucuman,correo_argentino,33.41,15285.13,9
+E001824,2025-02-03,2025-02-12,Tucuman,Salta,oca,35.22,28918.33,9
+E001825,2024-12-15,2024-12-21,Buenos Aires,Mendoza,correo_argentino,36.33,52111.29,6
+E001826,2024-06-30,2024-07-09,Cordoba,Bahia Blanca,oca,8.17,51406.28,9
+E001827,2024-02-20,2024-02-22,Mendoza,Tucuman,mercado_envios,38.1,37631.6,2
+E001828,2025-11-22,2025-11-29,Bahia Blanca,Tucuman,correo_argentino,8.84,53422.01,
+E001829,2024-07-30,2024-08-02,Salta,Mendoza,oca,0.68,30907.79,3
+E001830,2024-09-22,2024-09-28,Rosario,Tucuman,correo_argentino,33.54,30804.39,6
+E001831,2024-09-12,2024-09-20,Bahia Blanca,Tucuman,oca,28.21,41635.49,8
+E001832,2025-04-08,2025-04-11,Salta,Mendoza,andreani,29.49,45959.21,3
+E001833,2024-07-04,2024-06-30,Mendoza,Salta,andreani,0.69,47518.42,4
+E001834,2025-02-26,2025-03-04,Salta,Tucuman,mercado_envios,17.62,34897.98,6
+E001835,2025-07-31,2025-08-09,Rosario,Bahia Blanca,andreani,1.83,4099.96,9
+E001836,2024-06-30,2024-07-05,Mendoza,Rosario,correo_argentino,26.55,26796.15,5
+E001837,2025-04-04,2025-04-09,Mendoza,Tucuman,oca,33.49,6786.17,5
+E001838,2025-09-09,2025-09-17,Bahia Blanca,Cordoba,mercado_envios,7.46,41824.11,8
+E001839,2024-01-22,2024-01-28,Bahia Blanca,Mendoza,mercado_envios,11.21,4105.26,
+E000195,2024-03-06,2024-03-12,Salta,Cordoba,mercado_envios,33.58,20764.27,6
+E001840,2024-06-30,2024-07-05,Cordoba,Salta,oca,4.11,"25.482,19",5
+E001841,2024-06-14,2024-06-15,Tucuman,Rosario,andreani,16.98,21418.24,1
+E001842,2025-03-19,2025-03-28,Salta,Tucuman,mercado_envios,2.15,7705.47,9
+E001843,2025-06-12,2025-06-15,Salta,Mendoza,andreani,30.3,29621.55,3
+E001844,2025-08-20,2025-08-23,Tucuman,Buenos Aires,correo_argentino,27.01,56521.03,3
+E001845,2025-12-08,2025-12-09,Mendoza,Bahia Blanca,andreani,15.56,36276.08,1
+E001846,2025-04-27,2025-05-01,Buenos Aires,Rosario,mercado_envios,6.41,5769.64,
+E001847,2024-02-18,2024-02-20,Cordoba,Mendoza,ANDREANI,18.51,53102.31,2
+E001848,2025-06-29,2025-07-04,Cordoba,Salta,oca,17.33,49911.54,5
+E001849,2024-05-06,2024-05-11,Tucuman,Buenos Aires,andreani,27.39,6055.83,5
+E001850,2024-02-04,2024-02-13,Cordoba,Buenos Aires,correo_argentino,19.43,5200.37,9
+E001851,2025-07-29,2025-08-07,Cordoba,Mendoza,correo_argentino,28.46,13981.56,9
+E001852,2025-01-25,2025-01-28,Cordoba,Tucuman,andreani,12.75,52369.06,3
+E001853,2024-06-10,2024-06-18,Tucuman,Salta,mercado_envios,12.2,54015.27,8
+E001854,16/12/2024,2024-12-19,Rosario,Mendoza,correo_argentino,31.83,21630.01,3
+E001855,2025-10-14,2025-10-15,Rosario,Bahia Blanca,andreani,30.21,27897.47,1
+E001856,2025-02-10,2025-02-12,Mendoza,Buenos Aires, MERCADO_ENVIOS,21.2,11680.37,2
+E001857,2025-12-30,2026-01-08,Tucuman,Rosario,oca,11.54,26691.24,
+E001858,2024-03-06,2024-03-15,Tucuman,Cordoba,correo_argentino,30.61,57270.46,9
+E001859,2025-11-08,2025-11-12,Salta,Tucuman,ANDREANI ,20.06,3555.19,4
+E001860,2024-12-31,2025-01-07,Cordoba,Tucuman,andreani,29.43,9797.89,7
+E001861,30/08/2025,2025-09-02,Mendoza,Cordoba,correo_argentino,22.8,7285.73,3
+E001862,2024-01-04,2024-01-11,Salta,Tucuman,mercado_envios,10.68,26372.67,
+E001863,2025-06-19,2025-06-20,Buenos Aires,Rosario,andreani,10.94,55007.99,1
+E001864,2025-03-24,2025-03-18,Cordoba,Tucuman,mercado_envios,14.92,22578.55,6
+E001865,2024-09-13,2024-09-20,Bahia Blanca,Cordoba,mercado_envios,32.54,19845.66,7
+E001866,2025-07-04,2025-07-06,Bahia Blanca,Mendoza,correo_argentino,30.83,"21.873,73",2
+E001867,2025-06-28,2025-06-22,Rosario,Salta,oca,32.74,7795.48,6
+E001868,2025-09-15,2025-09-21,Mendoza,Buenos Aires,mercado_envios,19.99,38373.34,6
+E001869,2024-08-05,2024-08-13,Cordoba,Salta,correo_argentino,36.44,44413.77,
+E001870,2025-04-24,2025-04-26,Cordoba,Rosario,ANDREANI,29.26,3567.87,2
+E001871,2025-09-30,2025-10-08,Bahia Blanca,Cordoba,mercado_envios,12.38,37519.55,8
+E001872,2024-10-25,2024-11-03,Tucuman,Bahia Blanca,andreani,27.43,22329.67,9
+E001873,2025-01-15,2025-01-23,Cordoba,Rosario,mercado_envios,27.13,15944.23,
+E001874,2025-07-29,01/08/2025,Salta,Rosario,andreani,33.83,21578.3,3
+E001875,2025-12-16,2025-12-22,Bahia Blanca,Tucuman,correo_argentino,4.99,22862.3,6
+E001876,2025-07-24,2025-07-28,Tucuman,Cordoba,MERCADO_ENVIOS ,34.84,14476.64,4
+E001877,2025-03-16,17/03/2025,Tucuman,Salta,andreani,26.49,56873.73,1
+E001878,2024-07-10,2024-07-18,Mendoza,Buenos Aires,oca,23.43,42344.71,8
+E001879,2024-06-27,2024-06-29,Cordoba,Salta,correo_argentino,10.19,37284.96,2
+E001880,2025-10-20,2025-10-22,Mendoza,Rosario,mercado_envios,6.74,45425.82,2
+E001881,2024-03-22,2024-03-29,Salta,Buenos Aires,andreani,21.25,27752.78,7
+E001882,2025-03-26,03/04/2025,Bahia Blanca,Rosario,oca,35.14,54643.4,8
+E001883,2024-04-01,2024-04-07,Cordoba,Salta,andreani,32.29,38207.98,
+E001884,2024-06-14,2024-06-23,Salta,Buenos Aires,oca,29.73,27662.58,9
+E001885,2025-10-03,2025-10-11,Tucuman,Buenos Aires,CORREO_ARGENTINO ,16.82,34140.02,8
+E001886,2025-06-27,2025-07-06,Bahia Blanca,Cordoba,mercado_envios,7.35,40041.37,9
+E001887,2024-02-03,2024-01-26,Mendoza,Cordoba,oca,34.01,37867.89,8
+E001888,2024-08-25,2024-09-01,Bahia Blanca,Tucuman,oca,14.61,44926.51,7
+E001889,2024-08-15,2024-08-18,Cordoba,Buenos Aires,andreani,14.15,28087.69,3
+E001890,2024-11-17,2024-11-21,Salta,Rosario,correo_argentino,21.29,49439.0,
+E001891,2025-02-13,2025-02-22,Mendoza,Buenos Aires,correo_argentino,16.62,22821.26,9
+E001892,2025-11-15,2025-11-17,Salta,Tucuman,correo_argentino,11.04,33636.58,2
+E000383,2024-08-25,2024-09-01,Cordoba,Bahia Blanca,andreani,35.73,32208.26,7
+E001893,2024-01-03,2024-01-05,Mendoza,Rosario,mercado_envios,10.91,19262.6,2
+E001894,2025-08-04,2025-08-08,Salta,Bahia Blanca,mercado_envios,26.0,42164.68,4
+E001895,2024-09-06,2024-09-10,Rosario,Salta,andreani,38.41,54127.72,4
+E000783,2025-03-11,2025-03-17,Buenos Aires,Rosario,andreani,17.61,59844.5,6
+E001896,2025-06-26,2025-06-30,Rosario,Tucuman,correo_argentino,4.61,"27.317,38",4
+E001897,2024-07-26,2024-07-29,Buenos Aires,Bahia Blanca,andreani,13.36,29476.27,3
+E001898,2024-05-24,2024-05-29,Tucuman,Cordoba,mercado_envios,1.31,57452.62,5
+E001899,2024-10-06,2024-10-09,Rosario,Salta,correo_argentino,8.32,18173.53,3
+E001900,2024-07-07,2024-07-13,Buenos Aires,Salta,correo_argentino,24.84,58312.66,6
+E001901,2024-10-20,2024-10-23,Rosario,Tucuman,correo_argentino,14.33,14381.91,3
+E001902,2024-04-30,2024-05-06,Tucuman,Mendoza,mercado_envios,-36.49,15416.89,6
+E001903,2024-06-07,2024-05-29,Cordoba,Tucuman,mercado_envios,8.86,39869.49,9
+E001904,2024-11-29,2024-12-02,Cordoba,Tucuman,andreani,15.13,36165.95,3
+E001905,2024-06-17,2024-06-19,Mendoza,Tucuman,correo_argentino,25.85,"7.229,40",2
+E001906,2024-04-22,2024-04-24,Salta,Buenos Aires, MERCADO_ENVIOS,29.8,38338.82,2
+E001907,2024-03-27,2024-03-31,Mendoza,Cordoba,mercado_envios,14.21,19874.72,4
+E001908,2025-09-13,2025-09-06,Buenos Aires,Mendoza,mercado_envios,18.2,44693.42,7
+E001909,2024-07-03,2024-07-12,Salta,Bahia Blanca,oca,-0.3,14807.81,9
+E001910,2024-07-28,2024-08-01,Rosario,Mendoza,correo_argentino,27.27,13938.96,
+E001911,2025-02-07,2025-02-16,Salta,Mendoza,andreani,32.09,35226.72,9
+E001912,2025-10-02,2025-10-08,Bahia Blanca,Mendoza,oca,9.6,16357.09,6
+E001913,2024-06-21,2024-06-28,Rosario,Cordoba,correo_argentino,31.7,55820.57,7
+E001914,2025-10-11,2025-10-12,Rosario,Bahia Blanca,oca,37.13,35951.69,1
+E001915,2025-07-16,23/07/2025,Cordoba,Rosario,mercado_envios,31.72,46103.4,7
+E001916,2024-04-26,2024-05-03,Tucuman,Rosario,correo_argentino,23.63,44974.91,7
+E001917,2025-05-09,2025-05-13,Cordoba,Mendoza,mercado_envios,13.79,12833.82,4
+E001918,2024-06-23,2024-06-30,Tucuman,Salta,mercado_envios,17.66,31676.17,7
+E001919,2024-03-02,2024-03-03,Rosario,Bahia Blanca,correo_argentino,29.93,29986.9,1
+E001920,2025-12-05,2025-12-14,Buenos Aires,Salta,ANDREANI,29.41,9612.1,9
+E001921,2025-02-07,2025-02-11,Tucuman,Salta,mercado_envios,21.78,"59.110,85",4
+E001922,2024-01-11,2024-01-14,Salta,Rosario,mercado_envios,23.56,37090.82,3
+E001923,07/03/2024,2024-03-16,Bahia Blanca,Cordoba,mercado_envios,13.39,40330.86,9
+E001924,2024-06-17,2024-06-21,Bahia Blanca,Cordoba,andreani,-11.13,20206.52,4
+E001925,2024-12-08,12/12/2024,Tucuman,Bahia Blanca,mercado_envios,37.76,7328.94,4
+E001926,2024-01-08,2024-01-12,Salta,Bahia Blanca,andreani,30.09,"43.887,73",4
+E001927,2024-07-02,2024-07-06,Mendoza,Cordoba,correo_argentino,8.96,51462.79,4
+E001928,2024-10-12,2024-10-16,Rosario,Salta,andreani,34.99,36466.04,4
+E001929,2024-10-24,2024-10-18,Bahia Blanca,Buenos Aires,andreani,24.53,32911.05,6
+E001930,2024-04-23,2024-04-27,Salta,Rosario,oca,35.21,51631.26,4
+E001931,2025-06-13,2025-06-20,Mendoza,Cordoba,correo_argentino,4.79,9394.86,7
+E001932,2024-07-21,2024-07-28,Tucuman,Bahia Blanca,oca,9.37,17402.44,7
+E001933,2024-07-25,2024-07-30,Mendoza,Salta,andreani,25.45,44749.19,5
+E001934,2024-03-22,2024-03-30,Buenos Aires,Salta,oca,31.21,35534.76,
+E001935,2025-07-21,2025-07-30,Bahia Blanca,Tucuman,correo_argentino,38.86,43094.53,9
+E001936,2024-09-10,2024-09-11,Salta,Bahia Blanca,oca,13.02,22790.62,
+E001937,2025-12-16,2025-12-25,Buenos Aires,Tucuman,correo_argentino,30.16,36398.21,9
+E001938,2024-03-25,2024-03-30,Buenos Aires,Mendoza,mercado_envios,39.33,51303.09,5
+E001939,2025-01-21,27/01/2025,Mendoza,Buenos Aires,mercado_envios,18.06,58428.37,6
+E001940,2025-11-30,2025-12-05,Buenos Aires,Rosario,correo_argentino,25.43,10344.97,5
+E001941,2025-11-14,2025-11-09,Mendoza,Bahia Blanca,correo_argentino,34.35,20955.15,5
+E001942,2024-11-27,2024-12-02,Bahia Blanca,Salta,oca,13.73,26866.39,5
+E001943,2025-07-30,2025-08-05,Rosario,Buenos Aires,mercado_envios,22.11,32901.8,6
+E001944,2024-02-03,2024-02-09,Cordoba,Rosario,oca,38.72,10422.96,
+E001945,2024-06-22,24/06/2024,Cordoba,Buenos Aires,mercado_envios,25.36,17584.31,2
+E001946,2025-08-16,2025-08-19,Salta,Bahia Blanca,oca,31.36,5278.48,3
+E001947,2024-12-10,2024-12-11,Buenos Aires,Rosario,mercado_envios,14.64,13966.65,1
+E001948,2025-06-09,2025-06-16,Buenos Aires,Rosario,mercado_envios,16.88,2904.93,7
+E001949,2025-04-22,2025-04-18,Tucuman,Rosario,andreani,7.88,51421.87,4
+E001950,2025-07-15,2025-07-16,Rosario,Tucuman,oca,12.74,37862.32,
+E001951,2024-02-16,2024-02-24,Bahia Blanca,Rosario,andreani,24.64,36587.35,8
+E001952,07/09/2024,2024-09-10,Cordoba,Salta,oca,4.58,58085.09,3
+E001953,2024-06-18,2024-06-19,Tucuman,Mendoza,andreani,4.64,49451.24,1
+E001954,2024-12-15,2024-12-22,Tucuman,Cordoba,CORREO_ARGENTINO,20.78,21956.07,7
+E001955,2024-02-15,20/02/2024,Buenos Aires,Bahia Blanca,mercado_envios,2.99,51826.37,5
+E001956,2025-02-18,2025-02-19,Mendoza,Cordoba,correo_argentino,28.86,13435.83,1
+E001957,2025-08-17,2025-08-19,Rosario,Mendoza,andreani,-27.15,50094.04,2
+E001958,2024-02-18,2024-02-23,Bahia Blanca,Salta,oca,20.89,37135.7,5
+E001959,09/02/2024,2024-02-17,Buenos Aires,Rosario,oca,31.17,5796.03,8
+E001960,2025-12-27,2026-01-03,Tucuman,Bahia Blanca,andreani,21.34,30331.77,7
+E001961,2025-08-11,2025-08-12,Cordoba,Buenos Aires,mercado_envios,11.06,17974.2,1
+E001962,2024-06-03,2024-06-10,Bahia Blanca,Mendoza,oca,21.22,4953.93,7
+E001963,2025-05-15,24/05/2025,Buenos Aires,Bahia Blanca,andreani,1.02,24781.01,9
+E001964,2025-07-29,2025-07-31,Salta,Cordoba,mercado_envios,39.8,30881.38,
+E001965,2024-08-08,2024-08-10,Bahia Blanca,Rosario,mercado_envios,1.68,45277.03,2
+E001966,2024-01-16,2024-01-20,Cordoba,Bahia Blanca,andreani,35.74,"47.637,33",4
+E001967,04/11/2024,2024-11-06,Tucuman,Bahia Blanca,correo_argentino,25.62,53972.13,2
+E001968,2025-12-05,2025-12-12,Buenos Aires,Salta,oca,16.81,31673.21,7
+E001969,2025-05-30,2025-06-08,Buenos Aires,Bahia Blanca,mercado_envios,28.34,32754.46,9
+E001970,2024-05-08,2024-05-15,Tucuman,Bahia Blanca,correo_argentino,28.69,15438.44,7
+E001971,2024-07-10,2024-07-17,Tucuman,Salta,andreani,23.68,24578.74,7
+E001972,2024-05-29,2024-05-31,Salta,Rosario,andreani,31.65,43363.59,2
+E001973,2024-06-25,2024-06-26,Tucuman,Rosario,mercado_envios,29.93,3413.61,1
+E001974,2024-02-12,2024-02-17,Bahia Blanca,Salta,andreani,20.67,"15.131,29",5
+E001975,2024-08-20,2024-08-11,Buenos Aires,Salta,oca,1.07,7588.96,9
+E001976,2024-08-12,2024-08-16,Buenos Aires,Cordoba,correo_argentino,17.88,53495.04,4
+E001977,2025-07-23,2025-07-31,Cordoba,Bahia Blanca,correo_argentino,38.86,44630.29,8
+E001978,2025-01-04,2025-01-06,Bahia Blanca,Buenos Aires,correo_argentino,38.63,"22.603,04",2
+E001979,2025-03-23,25/03/2025,Cordoba,Buenos Aires,correo_argentino,31.2,37748.07,2
+E001980,2024-03-13,2024-03-14,Buenos Aires,Cordoba,correo_argentino,26.92,31563.05,1
+E001981,2025-08-30,2025-09-05,Bahia Blanca,Salta,andreani,11.36,40848.89,6
+E001982,28/06/2024,2024-07-04,Cordoba,Rosario,oca,32.54,31296.12,6
+E001983,2024-02-07,15/02/2024,Salta,Cordoba,mercado_envios,14.62,53505.12,8
+E001984,2024-08-31,2024-09-03,Rosario,Bahia Blanca,oca,38.94,45926.82,3
+E001985,2025-07-06,2025-07-12,Mendoza,Tucuman,mercado_envios,34.91,25878.65,6
+E001986,2025-02-15,2025-02-24,Bahia Blanca,Rosario,oca,14.74,8903.46,9
+E001987,2025-05-13,19/05/2025,Cordoba,Buenos Aires,oca,36.61,56120.95,6
+E001988,2025-03-20,2025-03-11,Bahia Blanca,Tucuman,mercado_envios,10.3,4847.65,9
+E001989,2025-07-02,2025-07-04,Buenos Aires,Cordoba,correo_argentino,35.66,21407.22,2
+E001990,2025-03-06,2025-03-07,Salta,Rosario,CORREO_ARGENTINO ,5.49,28506.72,1
+E001991,2024-11-18,2024-11-20,Cordoba,Tucuman,oca,1.06,18240.58,
+E001992,2025-12-05,2025-12-09,Cordoba,Bahia Blanca,oca,3.89,51372.47,4
+E001993,2025-07-12,2025-07-21,Bahia Blanca,Mendoza,oca,36.25,10799.24,9
+E001994,2024-09-02,2024-09-04,Bahia Blanca,Tucuman,oca,13.84,"7.618,24",2
+E001995,2024-07-15,2024-07-22,Buenos Aires,Salta,correo_argentino,34.0,18334.35,7
+E001996,2025-11-18,2025-11-27,Rosario,Tucuman,correo_argentino,35.75,56091.83,9
+E001997,2024-12-25,2024-12-30,Salta,Mendoza,oca,16.34,38830.7,5
+E001998,2025-09-10,2025-09-15,Mendoza,Bahia Blanca,oca,20.45,55255.53,5
+E001999,2024-08-25,2024-08-30,Cordoba,Bahia Blanca,correo_argentino,37.9,56064.46,5
+E002000,2025-11-12,2025-11-17,Cordoba,Rosario,mercado_envios,35.49,29030.0,5
+E002001,2025-01-17,2025-01-22,Rosario,Cordoba,oca,29.04,"59.183,49",5
+E002002,2025-08-29,2025-09-05,Mendoza,Tucuman,mercado_envios,-11.69,56750.4,7
+E002003,15/11/2025,2025-11-19,Cordoba,Tucuman,andreani,6.14,38117.36,4
+E002004,2025-04-12,2025-04-15,Cordoba,Buenos Aires,andreani,-35.15,28977.13,3
+E002005,2024-07-30,2024-08-08,Tucuman,Cordoba,oca,21.89,6448.06,9
+E002006,01/09/2025,2025-09-08,Salta,Cordoba,andreani,27.18,8380.99,7
+E002007,2024-09-23,2024-09-25,Mendoza,Bahia Blanca,mercado_envios,14.84,5198.12,2
+E002008,2025-10-06,2025-10-10,Bahia Blanca,Tucuman,mercado_envios,3.98,50879.42,4
+E002009,2024-04-08,2024-04-15,Cordoba,Buenos Aires,mercado_envios,26.51,52872.47,7
+E002010,2024-05-26,2024-05-31,Buenos Aires,Tucuman,MERCADO_ENVIOS ,38.22,39442.35,5
+E002011,2024-09-27,2024-09-26,Bahia Blanca,Mendoza,correo_argentino,9.81,45935.21,1
+E002012,2024-09-08,2024-09-14,Tucuman,Buenos Aires,mercado_envios,35.91,29697.38,6
+E002013,2025-09-08,2025-09-14,Mendoza,Bahia Blanca,correo_argentino,9.99,6321.25,
+E002014,2024-06-27,2024-07-05,Salta,Tucuman,correo_argentino,31.84,47214.36,8
+E002015,2024-01-31,06/02/2024,Buenos Aires,Bahia Blanca,correo_argentino,18.52,58043.71,6
+E002016,20/06/2025,2025-06-28,Rosario,Cordoba,correo_argentino,15.34,26277.68,8
+E002017,2024-04-05,06/04/2024,Rosario,Bahia Blanca,mercado_envios,20.14,57721.6,1
+E002018,2024-06-07,2024-06-15,Mendoza,Buenos Aires,correo_argentino,16.23,47633.06,8
+E002019,2025-04-07,2025-04-09,Rosario,Tucuman,correo_argentino,30.78,15667.65,
+E002020,2024-12-20,2024-12-23,Buenos Aires,Bahia Blanca,ANDREANI ,11.41,46670.25,3
+E002021,04/01/2024,2024-01-06,Mendoza,Bahia Blanca,oca,25.44,32908.22,2
+E002022,2024-07-14,2024-07-22,Mendoza,Bahia Blanca,mercado_envios,7.58,34976.07,8
+E002023,2025-04-03,2025-04-08,Buenos Aires,Salta,mercado_envios,9.91,31697.2,5
+E002024,2024-11-04,2024-11-13,Rosario,Tucuman,correo_argentino,10.08,6218.5,9
+E002025,2024-05-07,2024-05-15,Mendoza,Cordoba,oca,29.81,46057.39,8
+E002026,2025-12-29,30/12/2025,Salta,Buenos Aires,correo_argentino,33.5,31979.09,1
+E002027,2024-12-31,2025-01-07,Buenos Aires,Cordoba,correo_argentino,14.73,56299.45,
+E002028,2025-08-19,2025-08-23,Cordoba,Buenos Aires,mercado_envios,26.1,9619.28,4
+E002029,2025-06-28,2025-07-02,Mendoza,Salta,correo_argentino,36.12,26413.01,4
+E002030,2025-02-01,2025-02-06,Bahia Blanca,Tucuman,correo_argentino,39.88,31616.04,
+E002031,2025-01-03,2025-01-10,Bahia Blanca,Buenos Aires,oca,8.65,15970.99,7
+E002032,2024-11-01,2024-11-07,Mendoza,Cordoba,oca,6.51,50413.85,
+E002033,2024-05-23,2024-05-17,Cordoba,Tucuman,oca,38.34,11382.34,6
+E002034,2025-07-14,2025-07-21,Bahia Blanca,Cordoba,correo_argentino,11.08,30405.18,7
+E002035,24/04/2024,2024-04-25,Salta,Tucuman,mercado_envios,29.21,46095.27,1
+E002036,29/06/2024,2024-07-08,Rosario,Bahia Blanca,oca,14.1,57855.18,9
+E002037,2025-06-13,2025-06-14,Tucuman,Mendoza,mercado_envios,29.48,34505.54,1
+E002038,2024-10-15,2024-10-21,Tucuman,Rosario,correo_argentino,23.46,58696.79,6
+E002039,2025-10-04,2025-10-09,Salta,Rosario,oca,12.39,26077.51,5
+E002040,2025-03-15,2025-03-22,Cordoba,Salta,oca,37.09,8415.01,7
+E002041,2024-05-07,12/05/2024,Bahia Blanca,Tucuman,mercado_envios,7.35,53926.17,5
+E002042,2024-10-15,17/10/2024,Mendoza,Tucuman,mercado_envios,21.87,31781.66,2
+E002043,2024-02-02,2024-02-09,Mendoza,Buenos Aires,andreani,4.41,14997.14,7
+E002044,2025-04-05,2025-04-08,Cordoba,Salta,correo_argentino,10.76,"40.397,14",3
+E002045,2024-09-12,2024-09-17,Buenos Aires,Rosario,correo_argentino,37.23,"56.532,38",5
+E002263,2024-05-02,2024-05-07,Buenos Aires,Cordoba,correo_argentino,23.31,45187.47,5
+E002046,2024-07-25,2024-07-26,Tucuman,Bahia Blanca,andreani,30.88,9788.71,1
+E002047,27/12/2025,2026-01-04,Tucuman,Rosario,andreani,8.56,55455.69,8
+E002048,2024-09-25,2024-10-03,Tucuman,Cordoba,mercado_envios,25.49,32269.47,
+E002049,2025-11-13,2025-11-16,Mendoza,Bahia Blanca,andreani,23.68,25744.18,3
+E002050,2025-11-24,2025-11-26,Mendoza,Cordoba,oca,17.18,16778.6,2
+E002051,2024-08-13,2024-08-18,Bahia Blanca,Tucuman,correo_argentino,19.11,28679.87,5
+E001877,2025-03-16,17/03/2025,Tucuman,Salta,andreani,26.49,56873.73,1
+E002052,2025-08-05,2025-08-06,Salta,Buenos Aires,correo_argentino,2.51,4208.6,1
+E002053,2024-05-25,2024-05-30,Buenos Aires,Cordoba,andreani,16.68,6673.16,5
+E002054,2024-01-31,2024-02-03,Buenos Aires,Bahia Blanca,oca,2.87,7684.05,3
+E002055,2024-01-02,2024-01-06,Buenos Aires,Mendoza,mercado_envios,38.24,"57.605,14",4
+E002056,2024-09-29,2024-10-06,Buenos Aires,Mendoza,andreani,32.27,27932.33,7
+E002057,2025-06-09,2025-06-16,Mendoza,Rosario,andreani,18.04,16323.95,7
+E002058,2025-12-18,2025-12-20,Mendoza,Salta,MERCADO_ENVIOS ,9.65,3270.64,2
+E002059,2025-03-17,2025-03-23,Salta,Rosario,andreani,29.61,36312.15,6
+E002060,2024-03-01,09/03/2024,Salta,Mendoza,andreani,3.35,15126.49,8
+E000758,2025-11-04,2025-11-07,Rosario,Cordoba,OCA,10.67,3642.28,3
+E002061,2025-03-30,2025-04-08,Rosario,Salta,mercado_envios,14.66,12313.09,9
+E002062,2025-03-22,2025-03-23,Mendoza,Tucuman,andreani,30.98,20795.89,1
+E002063,2024-12-29,2025-01-03,Rosario,Mendoza,mercado_envios,36.01,7135.11,5
+E002064,2025-10-03,2025-10-12,Mendoza,Salta,andreani,21.05,20351.12,9
+E002065,2025-02-19,2025-02-27,Tucuman,Rosario,andreani,29.83,35773.03,
+E002066,2025-04-12,2025-04-20,Rosario,Buenos Aires,mercado_envios,2.36,35431.94,8
+E002067,2024-10-07,10/10/2024,Mendoza,Salta,correo_argentino,24.3,59176.27,3
+E002068,2024-02-18,2024-02-20,Buenos Aires,Bahia Blanca,oca,11.48,46486.37,
+E002069,2025-07-21,2025-07-28,Bahia Blanca,Cordoba,mercado_envios,35.17,41172.72,
+E002070,2024-10-11,2024-10-15,Cordoba,Salta,mercado_envios,8.72,"38.993,34",4
+E002071,2024-07-16,2024-07-25,Mendoza,Tucuman,correo_argentino,30.33,6430.31,9
+E002072,2024-06-18,2024-06-20,Salta,Bahia Blanca,correo_argentino,19.44,59458.22,
+E002073,2025-02-02,2025-02-09,Cordoba,Mendoza,mercado_envios,7.27,38840.46,7
+E002074,2024-09-28,2024-10-03,Rosario,Salta,correo_argentino,24.31,51731.25,5
+E002075,2024-11-10,2024-11-12,Cordoba,Rosario,correo_argentino,20.88,"58.748,13",2
+E002076,2025-09-12,2025-09-16,Rosario,Cordoba,correo_argentino,6.99,43876.22,4
+E002077,28/08/2024,2024-09-04,Bahia Blanca,Rosario,correo_argentino,1.53,44713.53,7
+E002078,2024-06-28,2024-07-04,Salta,Bahia Blanca,andreani,34.6,40108.48,6
+E002079,2024-06-09,2024-06-17,Tucuman,Salta,oca,14.35,29615.59,8
+E002080,2024-01-10,2024-01-17,Tucuman,Mendoza,MERCADO_ENVIOS,28.64,41169.31,7
+E002081,2024-09-10,2024-09-11,Bahia Blanca,Salta,andreani,11.57,7599.9,1
+E002082,2025-12-08,2025-12-02,Cordoba,Mendoza,andreani,23.59,5645.18,6
+E002083,04/11/2025,2025-11-05,Cordoba,Rosario,andreani,25.92,52690.06,1
+E002084,2024-03-11,2024-03-16,Rosario,Salta,andreani,30.69,13465.49,5
+E002085,2024-01-20,2024-01-23,Buenos Aires,Rosario,oca,25.87,33737.86,3
+E002086,2025-03-02,2025-03-11,Rosario,Cordoba,andreani,29.5,5590.89,9
+E002087,2025-07-17,2025-07-19,Buenos Aires,Cordoba,correo_argentino,37.35,7498.36,2
+E002088,2025-12-15,2025-12-17,Rosario,Tucuman,andreani,11.92,22935.59,2
+E002089,2024-05-16,2024-05-24,Tucuman,Salta,correo_argentino,28.22,22262.11,8
+E002090,2024-10-14,2024-10-18,Bahia Blanca,Mendoza,andreani,18.12,31998.51,4
+E002091,2025-05-10,2025-05-11,Tucuman,Rosario, CORREO_ARGENTINO,24.69,46964.4,1
+E002092,2025-04-22,2025-04-27,Buenos Aires,Salta,andreani,25.35,27302.06,5
+E002093,2025-09-12,2025-09-19,Cordoba,Salta,CORREO_ARGENTINO,17.12,30785.33,7
+E002094,2025-01-07,2025-01-10,Mendoza,Cordoba,andreani,9.91,6238.1,3
+E002095,2024-01-18,21/01/2024,Salta,Tucuman,mercado_envios,22.12,8848.14,3
+E002096,2025-03-14,2025-03-22,Buenos Aires,Mendoza,mercado_envios,15.99,2507.09,8
+E002097,2025-04-02,2025-04-03,Cordoba,Salta,correo_argentino,2.06,"37.862,84",1
+E002098,2025-05-04,2025-05-07,Bahia Blanca,Mendoza,correo_argentino,31.63,39669.89,3
+E002099,2025-05-04,2025-05-07,Tucuman,Rosario,andreani,25.18,36357.86,3
+E002100,2025-10-05,2025-10-13,Mendoza,Rosario,andreani,35.11,14532.91,8
+E002101,2025-01-04,2025-01-10,Tucuman,Buenos Aires,correo_argentino,38.22,24243.85,6
+E002102,25/03/2024,2024-03-30,Mendoza,Salta,oca,9.87,41016.72,5
+E002103,2025-10-28,2025-11-02,Mendoza,Tucuman,ANDREANI,6.81,47487.19,5
+E002104,2024-01-07,12/01/2024,Salta,Buenos Aires,correo_argentino,37.59,59903.59,5
+E002105,2024-07-24,2024-08-02,Salta,Tucuman,mercado_envios,30.31,45287.78,9
+E002106,2025-12-28,2025-12-31,Cordoba,Buenos Aires,mercado_envios,30.12,17773.61,3
+E002107,2025-06-16,2025-06-21,Cordoba,Rosario,oca,5.71,50738.52,5
+E002108,2024-05-24,2024-05-29,Mendoza,Buenos Aires,correo_argentino,-24.26,36273.74,5
+E002109,2024-09-21,24/09/2024,Tucuman,Bahia Blanca,correo_argentino,27.62,41236.53,3
+E002110,2025-01-10,2025-01-17,Buenos Aires,Tucuman,MERCADO_ENVIOS ,35.18,23346.62,7
+E000527,2024-08-15,2024-08-22,Salta,Cordoba,MERCADO_ENVIOS ,29.11,12381.84,7
+E001494,2025-03-11,2025-03-20,Rosario,Bahia Blanca,oca,30.0,25520.96,9
+E002111,2024-04-17,2024-04-21,Mendoza,Rosario,oca,20.64,11345.07,4
+E002112,2024-10-18,2024-10-20,Bahia Blanca,Tucuman,correo_argentino,19.86,52596.18,2
+E002113,2024-07-21,2024-07-30,Buenos Aires,Bahia Blanca,mercado_envios,-23.83,14453.23,9
+E002114,2024-05-12,2024-05-13,Bahia Blanca,Cordoba,mercado_envios,10.07,6488.48,1
+E002115,2025-02-11,2025-02-16,Salta,Mendoza, ANDREANI,17.08,59356.77,5
+E002116,2024-06-08,2024-06-15,Salta,Rosario,andreani,28.94,50010.42,7
+E002117,2024-09-10,2024-09-03,Mendoza,Rosario,andreani,1.66,35846.49,7
+E002118,2024-02-27,2024-03-01,Tucuman,Mendoza,andreani,19.13,33559.8,3
+E002119,2025-10-18,2025-10-27,Rosario,Bahia Blanca,mercado_envios,13.36,18156.91,9
+E002120,2024-10-25,2024-10-27,Tucuman,Bahia Blanca,oca,5.82,33964.97,2
+E002121,31/03/2024,2024-04-03,Cordoba,Salta,mercado_envios,16.71,11849.43,3
+E002122,2025-12-10,14/12/2025,Tucuman,Salta,mercado_envios,19.16,20393.23,4
+E002336,2024-06-03,2024-06-06,Tucuman,Salta,OCA,26.73,12832.35,3
+E002123,2024-08-19,2024-08-21,Salta,Cordoba,andreani,8.47,4012.19,2
+E002124,2024-09-09,2024-09-18,Tucuman,Cordoba,andreani,10.64,43670.5,
+E002125,2025-09-22,2025-09-24,Mendoza,Cordoba,correo_argentino,6.14,38180.06,2
+E002126,2024-12-16,2024-12-18,Buenos Aires,Rosario,oca,26.25,35267.8,2
+E002127,2024-09-05,2024-09-14,Rosario,Salta,mercado_envios,13.68,18664.71,9
+E002128,2024-12-06,2024-12-13,Cordoba,Rosario,correo_argentino,26.15,7653.63,7
+E002129,2024-05-20,29/05/2024,Tucuman,Bahia Blanca,correo_argentino,27.64,55644.22,9
+E002130,2024-02-19,2024-02-28,Rosario,Tucuman, MERCADO_ENVIOS,27.14,7097.14,9
+E002131,2024-01-03,2024-01-10,Cordoba,Bahia Blanca,correo_argentino,4.1,36965.77,7
+E002132,2024-07-08,2024-07-12,Mendoza,Rosario,oca,1.61,47206.58,4
+E002133,2025-03-06,11/03/2025,Rosario,Bahia Blanca,andreani,18.73,49903.66,5
+E002134,2025-11-05,2025-11-09,Bahia Blanca,Buenos Aires,andreani,35.14,40460.33,4
+E002135,2024-11-17,2024-11-24,Rosario,Salta,correo_argentino,27.49,56511.03,7
+E002136,2025-07-11,2025-07-15,Tucuman,Mendoza,mercado_envios,36.36,"22.907,17",4
+E002137,2025-08-22,2025-08-30,Buenos Aires,Cordoba,oca,15.99,19004.69,8
+E002138,2024-01-08,2024-01-17,Mendoza,Salta,andreani,32.91,33216.45,
+E002139,2025-09-02,2025-09-09,Cordoba,Mendoza,correo_argentino,29.6,19099.22,7
+E002140,2024-12-06,2024-12-15,Rosario,Tucuman,mercado_envios,29.95,21043.29,9
+E002141,2024-08-03,2024-08-05,Mendoza,Tucuman,andreani,15.86,15400.77,2
+E002142,2024-09-03,2024-09-12,Buenos Aires,Tucuman,mercado_envios,33.34,38637.7,9
+E002143,2024-07-01,2024-07-02,Salta,Mendoza,correo_argentino,9.97,8309.94,1
+E002144,2024-10-27,2024-10-29,Salta,Cordoba,mercado_envios,39.7,49241.21,2
+E002145,2024-07-01,2024-07-09,Cordoba,Bahia Blanca,mercado_envios,5.08,17748.12,8
+E002146,28/11/2024,2024-12-01,Rosario,Buenos Aires,oca,31.81,3488.06,3
+E002147,2025-09-07,2025-09-12,Salta,Rosario,andreani,6.13,15676.09,5
+E002148,2024-06-15,2024-06-20,Mendoza,Bahia Blanca,mercado_envios,31.51,24689.7,
+E002149,2024-11-26,2024-11-24,Rosario,Mendoza,mercado_envios,38.47,9340.85,2
+E002150,31/07/2025,2025-08-04,Buenos Aires,Rosario,correo_argentino,34.39,32700.17,4
+E002151,2024-09-24,2024-10-01,Cordoba,Mendoza,mercado_envios,31.14,51785.87,7
+E002152,2024-07-15,2024-07-20,Mendoza,Tucuman,oca,33.26,35650.02,5
+E002153,2025-11-10,2025-11-19,Buenos Aires,Cordoba,correo_argentino,3.92,42828.12,9
+E002154,2024-10-02,2024-10-04,Mendoza,Rosario,mercado_envios,11.69,3627.67,2
+E002155,2024-08-11,2024-08-16,Salta,Mendoza, ANDREANI,38.99,49738.42,5
+E002156,2024-01-31,2024-02-05,Buenos Aires,Bahia Blanca,correo_argentino,8.67,34887.18,5
+E002157,2024-05-31,2024-06-05,Salta,Cordoba,andreani,16.38,55867.11,5
+E002158,2024-02-18,2024-02-19,Bahia Blanca,Rosario,oca,2.74,29065.04,1
+E002159,2025-07-12,2025-07-13,Mendoza,Bahia Blanca,andreani,4.12,12356.01,
+E002160,2024-06-04,09/06/2024,Buenos Aires,Cordoba,oca,31.65,55644.55,5
+E002161,2024-03-23,2024-03-27,Buenos Aires,Mendoza,correo_argentino,36.14,43658.68,
+E002162,2024-04-09,2024-04-15,Buenos Aires,Bahia Blanca,andreani,28.11,39695.09,6
+E002163,2025-03-05,2025-03-11,Rosario,Buenos Aires,correo_argentino,26.18,23302.4,6
+E002164,2024-08-23,2024-08-26,Mendoza,Rosario,correo_argentino,5.73,41572.5,3
+E002165,2024-12-08,2024-12-11,Mendoza,Bahia Blanca,mercado_envios,21.56,9048.83,
+E002166,2024-07-15,2024-07-22,Rosario,Mendoza,andreani,37.78,14010.66,7
+E002167,2024-09-10,2024-09-11,Mendoza,Buenos Aires,mercado_envios,-38.66,16172.34,1
+E002168,2025-10-17,2025-10-20,Mendoza,Cordoba,correo_argentino,1.9,"40.361,83",3
+E002169,2025-02-02,2025-02-06,Tucuman,Cordoba,mercado_envios,14.28,54741.92,4
+E002170,2025-07-19,2025-07-21,Buenos Aires,Mendoza,correo_argentino,33.34,26012.89,2
+E002171,2024-07-27,2024-08-01,Tucuman,Cordoba,CORREO_ARGENTINO,18.75,22610.88,5
+E002172,2024-09-14,2024-09-23,Mendoza,Cordoba,mercado_envios,26.37,16699.86,9
+E002173,2025-01-06,2025-01-12,Cordoba,Bahia Blanca,correo_argentino,26.19,35548.02,6
+E002174,2024-12-06,2024-12-09,Cordoba,Bahia Blanca,correo_argentino,27.81,44573.95,3
+E002175,2024-03-24,2024-03-30,Buenos Aires,Tucuman,oca,28.27,6158.66,6
+E002176,2025-08-29,2025-09-01,Buenos Aires,Mendoza,andreani,35.28,27033.69,3
+E002177,2024-07-03,2024-07-09,Tucuman,Rosario,correo_argentino,11.44,10923.47,6
+E002178,2025-05-10,2025-05-14,Salta,Tucuman,mercado_envios,18.59,7338.51,4
+E002179,2025-02-08,2025-02-12,Rosario,Tucuman,andreani,-34.92,29060.53,4
+E002180,17/07/2025,2025-07-24,Tucuman,Cordoba,oca,38.39,5484.22,7
+E002181,2025-08-18,2025-08-21,Bahia Blanca,Buenos Aires, ANDREANI,27.93,44157.97,3
+E002182,2024-05-13,2024-05-21,Cordoba,Buenos Aires,andreani,18.74,10077.99,8
+E002183,2025-08-31,2025-09-01,Salta,Bahia Blanca,andreani,1.52,25694.53,1
+E002184,2025-05-29,2025-06-05,Buenos Aires,Salta,correo_argentino,25.33,34455.18,7
+E002185,2025-06-10,2025-06-16,Buenos Aires,Bahia Blanca,andreani,26.53,55143.03,
+E002186,2025-10-31,2025-11-04,Bahia Blanca,Salta,andreani,27.32,26958.8,4
+E002187,2025-09-12,2025-09-21,Rosario,Cordoba,andreani,31.76,5124.03,9
+E002188,2025-12-14,2025-12-23,Tucuman,Cordoba,mercado_envios,-17.65,40346.16,9
+E002189,2025-08-04,2025-08-07,Cordoba,Tucuman,andreani,28.78,32709.52,3
+E002190,2024-07-04,2024-07-10,Bahia Blanca,Rosario,oca,27.78,27880.27,6
+E002191,2024-06-25,2024-06-28,Bahia Blanca,Tucuman,mercado_envios,20.65,20150.45,3
+E002192,2024-03-10,2024-03-11,Salta,Mendoza,andreani,25.44,19713.8,1
+E002193,2024-04-12,2024-04-14,Salta,Cordoba,oca,36.61,47226.76,
+E002194,2025-10-27,2025-11-04,Mendoza,Rosario,mercado_envios,1.39,3580.72,8
+E002195,2024-01-11,17/01/2024,Rosario,Mendoza,mercado_envios,18.51,38995.4,6
+E002196,07/06/2025,2025-06-10,Buenos Aires,Mendoza,correo_argentino,5.4,49674.99,3
+E002197,2025-08-01,2025-08-06,Bahia Blanca,Tucuman,oca,34.48,58407.38,5
+E001292,2024-12-01,2024-12-02,Mendoza,Buenos Aires,andreani,2.61,54637.54,1
+E002198,2024-12-01,2024-12-06,Buenos Aires,Tucuman,mercado_envios,-35.58,43383.85,5
+E002199,2024-10-07,2024-10-11,Tucuman,Rosario,ANDREANI,11.34,35323.31,4
+E002200,2024-09-25,2024-10-02,Cordoba,Bahia Blanca,CORREO_ARGENTINO,20.26,38168.95,7
+E002201,2025-12-09,2025-12-16,Cordoba,Rosario,oca,1.6,3143.87,7
+E002202,2025-11-15,18/11/2025,Tucuman,Cordoba,andreani,29.28,41100.91,3
+E000152,2024-06-14,20/06/2024,Cordoba,Tucuman,correo_argentino,39.95,27365.23,6
+E002203,2024-03-30,2024-04-07,Rosario,Buenos Aires,mercado_envios,-20.82,11070.46,8
+E002204,2025-10-21,2025-10-22,Salta,Buenos Aires,andreani,9.81,55742.99,1
+E002205,03/05/2025,2025-05-05,Cordoba,Bahia Blanca,oca,19.86,51156.23,2
+E002206,08/06/2025,2025-06-17,Rosario,Cordoba,andreani,25.39,35068.56,9
+E002207,2024-03-26,2024-03-19,Mendoza,Salta,correo_argentino,31.68,56433.77,7
+E002208,2025-02-22,2025-02-27,Salta,Rosario,andreani,36.05,35372.04,5
+E002209,2024-07-25,02/08/2024,Bahia Blanca,Buenos Aires,andreani,25.49,52873.2,8
+E002210,2025-04-10,2025-04-12,Mendoza,Bahia Blanca,OCA,15.44,3081.69,2
+E002211,2024-11-14,2024-11-15,Buenos Aires,Mendoza,oca,24.42,14926.15,1
+E002212,2024-06-10,2024-06-14,Mendoza,Bahia Blanca,mercado_envios,13.91,54989.48,4
+E000535,14/09/2024,2024-09-17,Buenos Aires,Tucuman,correo_argentino,29.54,55364.23,3
+E002213,2024-02-09,2024-02-15,Bahia Blanca,Rosario,correo_argentino,39.16,38128.4,6
+E002214,2024-12-03,2024-12-09,Tucuman,Rosario,andreani,3.77,6008.57,6
+E002215,2025-04-27,2025-05-05,Cordoba,Mendoza,MERCADO_ENVIOS,30.81,39701.97,8
+E002216,2025-09-30,03/10/2025,Rosario,Tucuman,correo_argentino,29.2,16063.43,3
+E002217,27/02/2025,2025-03-07,Bahia Blanca,Rosario,andreani,28.62,42554.52,8
+E002218,2025-11-30,2025-12-06,Mendoza,Bahia Blanca,andreani,38.36,33106.93,6
+E002219,2025-07-05,2025-07-07,Mendoza,Buenos Aires,andreani,27.38,2730.59,2
+E002220,2025-12-19,2025-12-26,Cordoba,Salta,correo_argentino,12.28,21895.94,7
+E002221,2025-09-15,2025-09-24,Salta,Buenos Aires,andreani,24.0,16206.68,9
+E002222,2025-12-18,2025-12-19,Rosario,Buenos Aires,correo_argentino,14.98,56186.57,1
+E002223,21/01/2025,2025-01-23,Buenos Aires,Mendoza,oca,37.31,45365.69,2
+E002224,2025-05-08,2025-05-12,Buenos Aires,Bahia Blanca,andreani,11.71,4787.35,
+E002225,2024-07-24,2024-08-02,Bahia Blanca,Salta,correo_argentino,33.53,22657.66,9
+E002226,2024-07-05,2024-07-08,Bahia Blanca,Mendoza,andreani,26.79,14746.63,3
+E002227,2024-11-04,2024-11-07,Rosario,Cordoba,oca,26.39,19434.85,3
+E002228,2024-09-22,2024-09-23,Rosario,Mendoza, CORREO_ARGENTINO,17.13,11263.41,1
+E002229,2025-11-13,2025-11-14,Tucuman,Mendoza,andreani,21.92,12688.63,1
+E002230,2025-12-17,2025-12-24,Buenos Aires,Cordoba,oca,33.98,45784.41,7
+E002231,2025-06-08,2025-06-15,Salta,Bahia Blanca,mercado_envios,4.04,36495.87,
+E002232,2024-12-14,2024-12-15,Buenos Aires,Rosario,andreani,-15.85,15979.77,1
+E002233,2024-06-08,2024-06-12,Buenos Aires,Cordoba, OCA,14.39,22960.41,4
+E001607,2024-11-02,2024-11-08,Salta,Cordoba,mercado_envios,18.51,17838.32,
+E002234,2025-03-25,2025-03-30,Bahia Blanca,Buenos Aires,correo_argentino,20.0,58653.77,5
+E002235,2024-06-05,2024-06-07,Buenos Aires,Rosario,andreani,7.62,"15.918,44",2
+E002236,2025-06-24,2025-06-30,Tucuman,Salta,andreani,15.26,13505.59,6
+E002237,2024-09-23,01/10/2024,Cordoba,Buenos Aires,andreani,1.58,31617.9,8
+E002238,2024-08-02,2024-08-06,Salta,Bahia Blanca,andreani,27.32,10707.27,4
+E002239,2025-10-03,2025-10-10,Buenos Aires,Tucuman,andreani,12.18,46505.89,7
+E002240,2025-12-30,2026-01-03,Rosario,Buenos Aires,correo_argentino,35.0,58408.03,4
+E002241,2025-11-11,2025-11-15,Salta,Rosario,andreani,2.7,24167.64,4
+E002242,2024-03-06,2024-03-10,Salta,Cordoba,oca,34.53,54919.86,4
+E002243,2025-12-11,2025-12-12,Bahia Blanca,Mendoza,mercado_envios,16.19,54508.56,1
+E002244,2024-01-31,2024-02-02,Tucuman,Salta,mercado_envios,30.8,23972.92,2
+E002245,2024-12-09,2024-12-17,Salta,Tucuman,oca,26.08,42005.71,8
+E002246,2025-03-03,2025-03-06,Tucuman,Bahia Blanca,andreani,19.26,48713.24,3
+E002247,2024-11-05,2024-11-12,Cordoba,Salta,oca,33.69,15291.43,
+E002426,2024-08-13,19/08/2024,Salta,Buenos Aires,andreani,24.88,22614.74,6
+E002248,2024-10-21,2024-10-29,Bahia Blanca,Rosario,mercado_envios,30.34,45456.09,8
+E002249,2024-09-23,2024-10-01,Buenos Aires,Cordoba,andreani,9.42,28360.22,8
+E002250,2025-08-11,2025-08-17,Salta,Bahia Blanca,oca,34.89,22329.7,6
+E002251,2025-05-26,2025-06-03,Salta,Mendoza,andreani,27.87,45963.55,8
+E002252,2025-12-06,2025-12-08,Salta,Tucuman,oca,30.08,45705.43,2
+E002253,2025-03-08,2025-03-17,Salta,Mendoza,mercado_envios,34.54,37343.84,9
+E002254,2025-05-09,2025-05-15,Rosario,Salta,correo_argentino,6.89,28345.65,6
+E002255,2024-06-12,2024-06-19,Tucuman,Rosario,oca,17.01,"36.465,31",7
+E002256,2025-06-29,2025-07-08,Salta,Cordoba,MERCADO_ENVIOS,10.0,10952.71,9
+E002257,2025-04-24,2025-05-02,Buenos Aires,Cordoba,MERCADO_ENVIOS ,27.25,28031.38,8
+E002258,2025-05-05,2025-05-11,Salta,Rosario,oca,3.87,13234.96,6
+E002259,2025-09-25,2025-09-28,Salta,Bahia Blanca,MERCADO_ENVIOS,28.3,37793.2,3
+E002260,2024-11-08,2024-11-17,Rosario,Tucuman,andreani,12.28,29175.89,9
+E002261,2025-06-11,2025-06-14,Salta,Buenos Aires,mercado_envios,38.92,36697.33,3
+E002262,11/06/2024,2024-06-19,Buenos Aires,Bahia Blanca,oca,26.66,21805.38,8
+E002263,2024-05-02,2024-05-07,Buenos Aires,Cordoba,correo_argentino,23.31,45187.47,5
+E002264,2025-01-07,2025-01-10,Mendoza,Tucuman,mercado_envios,9.33,34444.88,3
+E002265,2024-05-04,2024-05-08,Mendoza,Buenos Aires,correo_argentino,11.34,53655.44,4
+E002266,2024-10-29,2024-11-07,Rosario,Bahia Blanca,correo_argentino,-18.73,34441.65,9
+E002267,2025-11-07,2025-11-13,Tucuman,Salta, CORREO_ARGENTINO,16.62,4572.42,6
+E002268,2025-05-31,2025-06-07,Buenos Aires,Tucuman,mercado_envios,22.81,26427.22,7
+E002269,2025-12-01,2025-12-10,Tucuman,Cordoba,oca,18.68,"38.900,96",9
+E002270,2024-09-25,2024-10-01,Rosario,Buenos Aires,andreani,18.13,34576.81,6
+E002271,2024-07-03,2024-07-05,Salta,Rosario,mercado_envios,5.63,32915.78,2
+E002272,2024-08-02,2024-08-08,Bahia Blanca,Buenos Aires,mercado_envios,27.47,53856.21,
+E002273,2025-09-20,2025-09-25,Rosario,Cordoba,oca,1.49,50256.2,5
+E002274,2024-02-21,2024-02-14,Tucuman,Bahia Blanca,mercado_envios,37.14,28525.58,7
+E002275,2025-05-13,2025-05-16,Cordoba,Tucuman,ANDREANI ,32.64,25508.85,3
+E002276,2025-08-23,2025-08-24,Tucuman,Buenos Aires,oca,34.77,11277.52,1
+E002366,2024-01-30,2024-02-01,Salta,Bahia Blanca,andreani,21.85,59577.15,2
+E002277,2025-09-27,2025-10-02,Buenos Aires,Cordoba,mercado_envios,37.99,11124.74,5
+E002278,2025-09-06,2025-08-29,Bahia Blanca,Salta,correo_argentino,38.64,46274.7,8
+E002279,2024-01-11,2024-01-19,Buenos Aires,Rosario,oca,7.69,40848.96,8
+E002280,2025-12-31,2025-12-25,Rosario,Salta,andreani,12.93,39163.82,6
+E002281,2025-07-10,2025-07-18,Salta,Mendoza,oca,-31.45,24633.22,8
+E002282,2024-07-16,2024-07-20,Salta,Bahia Blanca,correo_argentino,12.69,47685.43,4
+E002283,2024-04-08,2024-04-09,Salta,Rosario,mercado_envios,26.45,21690.4,1
+E002284,2025-11-14,2025-11-18,Mendoza,Salta,correo_argentino,18.68,58576.59,4
+E001080,2025-09-04,2025-09-09,Buenos Aires,Rosario,CORREO_ARGENTINO ,6.71,14700.63,5
+E002285,2025-09-02,07/09/2025,Mendoza,Tucuman,oca,15.45,33314.13,5
+E002286,2025-01-07,2025-01-15,Salta,Mendoza,correo_argentino,17.58,18913.03,8
+E002287,2024-01-02,2024-01-10,Cordoba,Tucuman,andreani,-27.44,59209.79,8
+E002288,2024-08-28,2024-09-05,Tucuman,Buenos Aires,correo_argentino,18.92,47404.68,8
+E002289,17/06/2025,2025-06-22,Buenos Aires,Mendoza,andreani,14.43,20806.47,5
+E002290,2025-02-04,2025-02-11,Mendoza,Salta,andreani,6.28,"37.877,68",7
+E002291,2025-09-11,2025-09-17,Salta,Tucuman,correo_argentino,37.8,19028.05,6
+E002292,2025-01-16,2025-01-21,Bahia Blanca,Buenos Aires,mercado_envios,-11.53,8026.74,5
+E001630,2025-06-03,2025-06-06,Tucuman,Salta,mercado_envios,12.6,46198.07,3
+E002293,2025-07-06,2025-07-08,Buenos Aires,Tucuman,andreani,6.91,10696.37,2
+E002294,2025-09-22,2025-10-01,Cordoba,Tucuman,oca,25.42,40239.61,9
+E002295,2025-12-30,2026-01-03,Mendoza,Cordoba,mercado_envios,17.06,34623.23,4
+E002296,2025-02-02,2025-02-08,Cordoba,Mendoza,mercado_envios,31.44,57282.59,6
+E002297,2024-10-30,2024-10-22,Rosario,Tucuman,oca,6.69,17299.11,8
+E002298,2025-07-09,2025-07-17,Buenos Aires,Salta,andreani,23.15,59368.95,8
+E002299,2024-06-16,2024-06-20,Cordoba,Bahia Blanca,mercado_envios,-4.93,25481.09,4
+E002300,2025-09-14,2025-09-15,Salta,Cordoba,correo_argentino,38.13,9454.81,1
+E002301,2025-02-07,2025-02-10,Cordoba,Buenos Aires,oca,22.03,4723.27,3
+E002302,2024-06-13,21/06/2024,Tucuman,Rosario,mercado_envios,20.22,9457.24,8
+E002303,2025-07-15,2025-07-06,Cordoba,Tucuman,oca,8.39,37775.95,9
+E002304,2025-09-13,2025-09-20,Bahia Blanca,Salta,mercado_envios,24.74,19170.66,
+E002305,2024-07-08,2024-07-17,Cordoba,Rosario,correo_argentino,9.2,53100.96,9
+E002306,2025-03-07,2025-03-12,Mendoza,Salta,andreani,34.87,21980.38,5
+E002307,2025-08-21,2025-08-23,Buenos Aires,Tucuman,andreani,23.58,2661.95,2
+E002308,2024-07-25,2024-07-26,Rosario,Cordoba,andreani,35.33,10481.07,1
+E002309,2025-02-08,2025-02-09,Mendoza,Cordoba,correo_argentino,21.13,2960.45,
+E002310,2025-10-18,2025-10-22,Tucuman,Mendoza,andreani,13.4,40630.85,4
+E002311,2025-10-30,08/11/2025,Mendoza,Buenos Aires,mercado_envios,4.44,16991.07,9
+E002312,2024-11-15,2024-11-21,Rosario,Tucuman,correo_argentino,12.03,49847.07,6
+E001782,2025-06-17,2025-06-25,Cordoba,Bahia Blanca,correo_argentino,4.29,30721.96,8
+E002313,2024-01-28,2024-02-02,Tucuman,Bahia Blanca,andreani,10.12,47708.46,5
+E002314,2025-12-30,2026-01-06,Salta,Buenos Aires,andreani,29.96,39520.46,7
+E002315,2025-12-03,11/12/2025,Tucuman,Salta,mercado_envios,20.93,48887.14,8
+E002316,2025-04-21,2025-04-24,Rosario,Mendoza, MERCADO_ENVIOS,12.18,31191.96,3
+E002317,2024-12-23,2024-12-24,Mendoza,Bahia Blanca,correo_argentino,5.87,18879.93,1
+E002318,2025-08-29,2025-09-02,Tucuman,Bahia Blanca,mercado_envios,8.34,49345.29,
+E002319,2024-09-20,24/09/2024,Cordoba,Rosario,oca,5.98,13759.2,4
+E002310,2025-10-18,2025-10-22,Tucuman,Mendoza,andreani,13.4,40630.85,4
+E002320,2025-11-20,2025-11-24,Rosario,Bahia Blanca,oca,26.24,11387.8,4
+E002321,20/05/2024,2024-05-25,Bahia Blanca,Salta,oca,35.67,4587.82,5
+E002322,2025-10-15,2025-10-19,Salta,Tucuman,oca,30.96,20583.13,4
+E002323,2024-10-30,2024-11-04,Buenos Aires,Bahia Blanca,oca,4.16,36594.98,5
+E002324,2024-03-13,2024-03-14,Salta,Tucuman,mercado_envios,14.63,30255.02,1
+E002325,2025-01-09,2025-01-15,Salta,Buenos Aires,andreani,12.25,"19.604,14",6
+E002326,2025-09-26,2025-10-05,Mendoza,Tucuman,correo_argentino,5.11,5753.04,9
+E002327,2025-02-13,2025-02-15,Tucuman,Bahia Blanca,correo_argentino,28.82,24118.63,2
+E002328,2025-07-18,2025-07-21,Bahia Blanca,Buenos Aires,correo_argentino,25.34,6714.09,
+E002329,2025-05-10,2025-05-13,Salta,Mendoza,andreani,32.62,44791.3,3
+E002330,2025-12-27,2026-01-04,Rosario,Tucuman,mercado_envios,6.69,37821.7,8
+E002331,2024-05-06,2024-05-08,Mendoza,Bahia Blanca,oca,27.86,42568.64,2
+E002332,2024-07-07,2024-07-09,Buenos Aires,Bahia Blanca,correo_argentino,30.0,46840.4,2
+E002333,2024-04-01,2024-04-04,Tucuman,Cordoba,mercado_envios,-13.52,6258.23,3
+E002334,2024-01-04,2024-01-13,Buenos Aires,Tucuman,mercado_envios,18.15,27400.3,9
+E002335,05/03/2025,2025-03-06,Cordoba,Salta,mercado_envios,19.49,47550.14,1
+E002336,2024-06-03,2024-06-06,Tucuman,Salta,OCA,26.73,12832.35,3
+E002337,2025-04-05,2025-04-10,Rosario,Mendoza,correo_argentino,9.9,2964.65,5
+E002338,2025-06-04,2025-06-11,Salta,Mendoza,mercado_envios,25.3,"47.922,78",7
+E002339,2025-02-23,2025-02-21,Rosario,Salta,correo_argentino,36.1,27099.76,2
+E002340,2024-01-11,13/01/2024,Rosario,Cordoba,mercado_envios,1.67,30102.81,2
+E000274,2024-02-12,2024-02-17,Mendoza,Bahia Blanca,oca,26.36,40381.09,5
+E002341,2024-09-23,2024-09-26,Buenos Aires,Bahia Blanca,correo_argentino,17.43,"4.733,44",3
+E002342,2024-02-03,2024-02-06,Mendoza,Buenos Aires,andreani,22.33,33065.74,3
+E002343,2025-02-18,2025-02-22,Mendoza,Buenos Aires,ANDREANI ,23.6,45089.64,4
+E002344,2024-06-11,13/06/2024,Salta,Tucuman,correo_argentino,3.77,22228.53,2
+E002345,2024-06-29,2024-07-02,Cordoba,Tucuman,andreani,-27.01,39170.3,3
+E002346,2025-01-08,2025-01-10,Rosario,Cordoba,andreani,25.55,36085.59,2
+E002347,2025-02-03,2025-02-07,Tucuman,Rosario,oca,-13.09,4972.67,4
+E002348,2024-04-27,2024-04-30,Rosario,Mendoza,ANDREANI ,13.0,51024.37,3
+E002349,2024-10-09,2024-10-16,Tucuman,Salta,oca,27.76,32735.17,7
+E002350,2024-08-26,02/09/2024,Cordoba,Tucuman,andreani,26.52,59092.99,7
+E002351,2025-10-13,2025-10-21,Mendoza,Salta,correo_argentino,20.4,36622.34,8
+E002352,04/07/2025,2025-07-07,Bahia Blanca,Cordoba,mercado_envios,34.24,39922.46,3
+E002353,2025-02-04,2025-02-05,Tucuman,Mendoza,andreani,26.96,47969.28,
+E002354,2025-01-01,2025-01-04,Tucuman,Mendoza,MERCADO_ENVIOS ,34.44,27140.13,3
+E002355,2024-04-27,2024-04-30,Mendoza,Rosario,mercado_envios,39.28,53745.13,3
+E002356,19/07/2025,2025-07-22,Bahia Blanca,Salta,mercado_envios,30.21,6261.12,3
+E002357,2025-08-14,2025-08-18,Tucuman,Mendoza,MERCADO_ENVIOS ,28.24,21061.1,4
+E002358,14/12/2024,2024-12-19,Bahia Blanca,Rosario,oca,18.0,14124.41,5
+E002359,2025-03-03,09/03/2025,Mendoza,Cordoba,oca,8.01,17068.69,6
+E002360,2024-03-10,2024-03-19,Buenos Aires,Tucuman,andreani,18.81,31964.25,9
+E002361,2025-09-14,2025-09-23,Buenos Aires,Rosario,oca,32.22,25055.81,9
+E002362,2024-07-26,2024-07-27,Mendoza,Cordoba,correo_argentino,5.34,45018.75,
+E002363,2025-07-22,27/07/2025,Cordoba,Mendoza,andreani,39.54,16914.79,5
+E002364,2025-06-16,2025-06-19,Cordoba,Salta,mercado_envios,32.02,10377.21,3
+E002365,2024-11-03,2024-11-11,Bahia Blanca,Rosario,oca,7.93,15151.25,
+E002366,2024-01-30,2024-02-01,Salta,Bahia Blanca,andreani,21.85,59577.15,2
+E002367,2025-12-10,2025-12-15,Cordoba,Mendoza,andreani,3.47,19789.78,
+E002368,2024-04-09,2024-04-11,Bahia Blanca,Buenos Aires,oca,15.77,43714.0,2
+E002369,2025-12-10,2025-12-14,Mendoza,Rosario,correo_argentino,15.79,43239.97,4
+E002370,2024-06-16,2024-06-22,Cordoba,Salta,CORREO_ARGENTINO,26.95,26698.1,6
+E002371,2025-07-11,2025-07-13,Tucuman,Mendoza,oca,37.37,5218.21,2
+E002372,2024-03-20,2024-03-21,Salta,Rosario,andreani,18.61,25290.02,1
+E002373,2025-04-30,2025-05-02,Mendoza,Bahia Blanca,oca,8.74,19779.49,2
+E002374,2025-01-30,2025-02-01,Bahia Blanca,Cordoba,andreani,38.29,37358.6,2
+E002375,2025-10-26,2025-10-31,Tucuman,Mendoza,oca,2.39,44076.14,5
+E002376,2024-01-19,2024-01-28,Tucuman,Rosario,mercado_envios,5.43,32821.66,9
+E002377,2024-06-14,2024-06-15,Mendoza,Bahia Blanca,MERCADO_ENVIOS ,2.74,45706.68,1
+E002378,2025-04-11,2025-04-18,Tucuman,Bahia Blanca,OCA ,29.63,10476.29,7
+E002379,2025-01-03,2025-01-11,Tucuman,Salta,oca,2.9,18889.65,8
+E002380,2025-02-02,2025-02-04,Rosario,Buenos Aires,oca,10.49,49530.14,2
+E002381,2024-09-19,2024-09-25,Salta,Bahia Blanca,mercado_envios,11.76,"40.750,93",6
+E002382,2024-03-06,2024-03-12,Bahia Blanca,Salta,oca,33.37,6950.52,6
+E002383,11/10/2025,2025-10-19,Tucuman,Buenos Aires,correo_argentino,16.34,51254.86,8
+E002384,2025-09-18,2025-09-26,Bahia Blanca,Mendoza,correo_argentino,2.23,53190.71,8
+E002385,2024-01-03,2024-01-11,Rosario,Bahia Blanca,mercado_envios,26.76,"47.368,14",8
+E002386,2025-12-29,2026-01-03,Cordoba,Tucuman,oca,-21.31,7776.89,5
+E002172,2024-09-14,2024-09-23,Mendoza,Cordoba,mercado_envios,26.37,16699.86,9
+E002387,2024-09-09,2024-09-13,Salta,Bahia Blanca,andreani,12.81,13788.74,
+E002388,03/04/2024,2024-04-11,Buenos Aires,Rosario,mercado_envios,32.77,26299.57,8
+E002389,2024-12-12,18/12/2024,Rosario,Tucuman,andreani,20.22,29934.96,6
+E002390,2024-11-20,2024-11-28,Rosario,Buenos Aires,MERCADO_ENVIOS ,1.27,26108.16,8
+E002391,2024-08-21,2024-08-22,Mendoza,Rosario,mercado_envios,0.75,23515.84,1
+E002392,2025-09-22,2025-09-24,Rosario,Buenos Aires,andreani,12.81,31909.83,2
+E002393,2024-03-27,2024-03-30,Bahia Blanca,Rosario,correo_argentino,5.27,53376.56,3
+E002394,2025-07-30,01/08/2025,Tucuman,Buenos Aires,andreani,30.0,34281.1,2
+E002395,2025-12-23,2025-12-15,Salta,Mendoza,andreani,10.39,29711.25,8
+E002396,2025-06-08,2025-06-13,Rosario,Bahia Blanca,oca,23.45,29373.98,5
+E002397,2025-05-26,2025-05-30,Cordoba,Buenos Aires,oca,24.4,51503.94,4
+E002398,2024-03-18,2024-03-19,Buenos Aires,Salta,andreani,33.68,17046.85,1
+E002399,2024-04-27,2024-04-30,Salta,Mendoza,oca,22.39,44565.96,3
+E002400,2024-08-16,2024-08-21,Buenos Aires,Mendoza,andreani,-7.64,16622.67,5
+E002401,2024-01-08,2024-01-15,Buenos Aires,Tucuman,andreani,26.12,"44.876,99",7
+E002402,2024-05-15,2024-05-19,Bahia Blanca,Cordoba,andreani,33.23,58448.53,4
+E002403,2024-09-15,2024-09-18,Rosario,Cordoba,mercado_envios,26.56,57398.98,3
+E002404,2024-02-19,2024-02-23,Mendoza,Bahia Blanca,mercado_envios,28.56,8506.44,4
+E002405,29/03/2024,2024-04-06,Bahia Blanca,Rosario,mercado_envios,2.03,46814.08,8
+E002406,2024-08-24,28/08/2024,Bahia Blanca,Rosario,oca,30.02,22729.16,4
+E002407,2025-04-20,2025-04-23,Bahia Blanca,Cordoba,correo_argentino,26.81,11256.7,3
+E002408,2025-09-26,2025-09-27,Salta,Cordoba,oca,33.17,4937.66,1
+E002409,2025-10-03,2025-10-12,Cordoba,Mendoza,andreani,19.39,26081.39,9
+E002410,2024-08-15,24/08/2024,Tucuman,Cordoba,oca,30.64,57384.48,9
+E002411,2024-09-26,2024-10-04,Tucuman,Salta,oca,33.38,57150.97,8
+E002412,2025-11-18,2025-11-19,Buenos Aires,Salta,andreani,28.05,33186.83,1
+E002413,2025-12-09,2025-12-15,Bahia Blanca,Salta,ANDREANI,39.44,25411.36,6
+E002414,2024-08-16,2024-08-21,Rosario,Bahia Blanca,CORREO_ARGENTINO,30.07,41210.27,5
+E002415,2025-12-13,2025-12-18,Mendoza,Cordoba,oca,17.85,25216.36,
+E002416,2025-08-12,19/08/2025,Rosario,Salta,correo_argentino,19.06,53002.86,7
+E002417,2025-08-04,2025-08-01,Cordoba,Buenos Aires,oca,38.82,46056.71,3
+E002418,2025-03-17,2025-03-18,Tucuman,Buenos Aires,oca,1.06,30614.83,1
+E002419,2024-07-26,2024-08-01,Buenos Aires,Bahia Blanca, MERCADO_ENVIOS,3.82,47273.93,6
+E002420,2024-09-08,2024-09-09,Salta,Bahia Blanca,correo_argentino,5.4,53943.7,1
+E002421,2025-07-04,2025-07-10,Cordoba,Tucuman,andreani,3.03,57018.28,6
+E002422,2024-11-18,23/11/2024,Salta,Bahia Blanca,andreani,30.89,8816.5,5
+E002423,2025-11-04,2025-11-08,Rosario,Cordoba,mercado_envios,21.47,53710.3,4
+E002424,2025-12-04,2025-12-07,Salta,Cordoba,mercado_envios,-12.9,27873.02,3
+E002425,2025-11-10,2025-11-13,Salta,Tucuman,correo_argentino,38.13,19127.69,3
+E002426,2024-08-13,19/08/2024,Salta,Buenos Aires,andreani,24.88,22614.74,6
+E002427,2025-06-29,2025-07-02,Mendoza,Buenos Aires,mercado_envios,32.7,45434.18,3
+E002428,2024-12-18,2024-12-15,Salta,Mendoza,oca,33.93,14771.72,3
+E002429,2024-09-07,2024-09-15,Rosario,Bahia Blanca,oca,33.55,38831.06,8
+E002430,2024-04-04,2024-04-08,Bahia Blanca,Rosario,andreani,6.38,"43.774,18",4
+E002431,2024-10-27,2024-11-02,Bahia Blanca,Salta,oca,26.59,33223.31,6
+E002432,2024-11-15,2024-11-22,Tucuman,Salta,correo_argentino,33.8,8401.78,
+E002433,2025-07-30,2025-08-06,Buenos Aires,Salta,andreani,14.24,15150.47,7
+E002434,2024-03-19,2024-03-27,Buenos Aires,Cordoba,andreani,29.67,43875.67,8
+E002435,2025-05-28,2025-05-29,Mendoza,Cordoba,correo_argentino,38.95,"50.136,00",1
+E002436,2025-05-24,2025-05-26,Cordoba,Rosario,mercado_envios,6.59,14365.04,2
+E002437,2024-09-04,2024-09-10,Bahia Blanca,Rosario,mercado_envios,38.53,33563.61,6
+E002438,2024-12-23,2024-12-28,Cordoba,Buenos Aires, MERCADO_ENVIOS,24.76,31019.41,5
+E002439,2025-03-29,2025-04-01,Buenos Aires,Tucuman,mercado_envios,28.04,56609.03,3
+E002440,2024-04-25,2024-05-04,Cordoba,Mendoza,OCA,11.23,7798.87,9
+E002441,2024-05-16,2024-05-23,Tucuman,Cordoba,correo_argentino,33.77,40705.54,7
+E002442,2025-02-13,2025-02-15,Rosario,Salta,oca,21.63,3572.55,2
+E002443,2024-04-30,2024-05-06,Cordoba,Tucuman,oca,36.47,14845.94,6
+E001099,2025-02-03,2025-02-12,Buenos Aires,Cordoba,andreani,27.05,44472.1,9
+E002444,2024-11-17,2024-11-26,Tucuman,Cordoba,mercado_envios,14.61,48377.17,9
+E002445,2025-09-08,2025-09-15,Salta,Bahia Blanca,mercado_envios,38.91,58605.91,7
+E002446,2025-09-10,2025-09-11,Cordoba,Bahia Blanca,andreani,25.15,29006.05,1
+E002447,2024-10-18,2024-10-21,Rosario,Bahia Blanca,correo_argentino,10.26,4876.01,3
+E002448,2025-04-14,2025-04-15,Salta,Rosario,oca,12.52,39360.59,
+E002449,2025-12-28,2025-12-31,Tucuman,Rosario,correo_argentino,4.75,6375.4,3
+E002450,2024-11-10,2024-11-18,Tucuman,Bahia Blanca,correo_argentino,16.82,21360.1,8
+E002451,2024-09-30,2024-10-07,Bahia Blanca,Rosario,andreani,29.52,26981.65,7
+E002452,2024-09-28,2024-10-07,Bahia Blanca,Rosario,mercado_envios,34.13,24319.53,9
+E002453,2024-03-30,2024-04-01,Salta,Cordoba,andreani,11.0,8942.92,2
+E002454,2025-07-19,26/07/2025,Bahia Blanca,Tucuman,andreani,25.78,17116.39,7
+E002455,2024-08-01,2024-08-07,Salta,Tucuman,correo_argentino,1.06,12864.9,6
+E002456,2025-08-09,2025-08-11,Bahia Blanca,Mendoza,andreani,-39.43,51281.37,2
+E002457,2025-04-07,2025-04-13,Salta,Tucuman,mercado_envios,-24.12,37539.74,6
+E002458,2025-07-13,2025-07-22,Buenos Aires,Bahia Blanca,ANDREANI,21.14,8315.56,9
+E002459,2024-02-26,01/03/2024,Cordoba,Rosario,oca,4.47,32149.21,4
+E002460,2024-12-29,2025-01-06,Salta,Rosario,mercado_envios,-11.5,49605.42,8
+E002461,2024-05-30,2024-05-31,Cordoba,Mendoza,correo_argentino,-24.91,28364.25,1
+E002462,2024-11-30,2024-12-04,Tucuman,Mendoza,mercado_envios,1.33,19269.03,
+E002463,2025-04-28,2025-05-01,Bahia Blanca,Buenos Aires,oca,29.3,46439.89,3
+E002464,2025-07-08,2025-07-09,Tucuman,Cordoba,mercado_envios,3.24,6315.96,1
+E002465,2024-10-27,2024-10-28,Bahia Blanca,Salta,oca,27.33,45600.6,
+E002466,2024-02-07,2024-02-09,Mendoza,Buenos Aires,mercado_envios,17.38,57319.09,2
+E002467,2024-03-10,2024-03-12,Cordoba,Tucuman,correo_argentino,3.09,17036.97,2
+E002468,2024-01-17,2024-01-23,Mendoza,Tucuman,andreani,26.82,46763.03,6
+E002469,2024-07-02,2024-07-05,Bahia Blanca,Rosario,mercado_envios,25.49,13317.34,3
+E002470,2025-09-16,2025-09-25,Cordoba,Buenos Aires,mercado_envios,21.96,5690.69,9
+E002471,2024-11-04,2024-11-10,Buenos Aires,Rosario,correo_argentino,24.5,55098.64,6
+E002472,2024-11-26,2024-12-02,Salta,Tucuman,andreani,22.68,50400.34,6
+E002473,2025-01-13,2025-01-20,Salta,Rosario,andreani,39.02,43305.33,7
+E002474,2024-03-25,29/03/2024,Bahia Blanca,Salta,oca,0.62,31205.34,4
+E002475,2024-09-03,2024-09-06,Buenos Aires,Bahia Blanca,oca,2.89,55423.21,3
+E002476,2024-04-29,2024-05-03,Cordoba,Tucuman,mercado_envios,21.19,58051.94,4
+E002477,2024-05-27,2024-05-31,Tucuman,Bahia Blanca,mercado_envios,-8.66,34550.89,4
+E002478,2024-08-13,2024-08-10,Bahia Blanca,Tucuman,andreani,23.37,27821.94,3
+E002479,2025-07-18,2025-07-24,Rosario,Salta,oca,24.77,21474.53,6
+E002480,2025-02-04,2025-02-10,Mendoza,Tucuman,andreani,2.16,47187.49,6
+E002481,06/05/2025,2025-05-13,Buenos Aires,Rosario,mercado_envios,8.07,59615.72,7
+E002482,2024-04-15,2024-04-21,Cordoba,Tucuman,correo_argentino,29.26,23262.57,6
+E002483,2025-02-12,2025-02-20,Salta,Rosario,oca,-39.24,24285.26,8
+E002484,2025-07-25,2025-07-29,Bahia Blanca,Salta,mercado_envios,11.22,16241.05,4
+E002485,2025-04-08,2025-04-09,Cordoba,Buenos Aires,andreani,31.78,5296.36,1
+E002486,2024-08-05,2024-08-07,Mendoza,Buenos Aires,andreani,17.81,58795.88,2
+E002487,2025-08-02,2025-08-03,Salta,Bahia Blanca,oca,35.9,13130.67,
+E002308,2024-07-25,2024-07-26,Rosario,Cordoba,andreani,35.33,10481.07,1
+E000887,2025-08-06,2025-08-15,Rosario,Mendoza,andreani,25.34,13362.41,9
+E002488,2025-04-10,2025-04-16,Cordoba,Tucuman,MERCADO_ENVIOS ,10.21,55547.58,6
+E002489,2024-07-13,22/07/2024,Rosario,Bahia Blanca,mercado_envios,18.32,27803.0,9
+E002490,2024-12-05,2024-12-12,Buenos Aires,Salta,mercado_envios,3.36,5188.4,
+E002491,2024-06-21,2024-06-26,Buenos Aires,Tucuman,oca,17.99,24035.71,5
+E002492,2024-05-13,2024-05-16,Bahia Blanca,Mendoza,OCA ,19.28,49901.75,3
+E002493,2025-09-04,2025-09-12,Bahia Blanca,Salta,oca,3.44,13604.53,8
+E002494,2024-09-02,03/09/2024,Rosario,Tucuman,oca,13.35,25237.58,1
+E002495,2025-03-12,2025-03-17,Salta,Cordoba,andreani,0.95,22969.16,5
+E002496,2025-11-13,2025-11-16,Salta,Rosario,oca,8.75,43768.84,3
+E002497,2024-11-02,2024-11-03,Mendoza,Cordoba,correo_argentino,37.91,26440.49,1
+E002498,2025-05-25,2025-05-30,Mendoza,Bahia Blanca,andreani,31.57,39135.83,5
+E002499,2025-05-26,27/05/2025,Rosario,Buenos Aires,mercado_envios,5.21,30477.62,1
+E002500,2024-05-11,2024-05-14,Salta,Mendoza, MERCADO_ENVIOS,6.55,45009.83,3
